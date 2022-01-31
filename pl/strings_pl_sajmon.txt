@@ -157,25 +157,25 @@
 3035,"Kontrola nad Ruinami została utracona!"
 3039,"Kliknij na obszar, który chcesz zaatakować."
 3040,"Kliknij obszar, aby wysłać tam jednostki."
-3041 "Kliknij element lub jednostkę, aby nad nią pracować."
-3042 "Kliknij przedmiot lub jednostkę do ataku."
-3043 "Kliknij jednostkę, aby wyleczyć".
-3044 "Kliknij jednostkę, aby przekonwertować."
-3045 "Kliknij obszar, aby zaatakować ziemię".
+3041,"Kliknij na budynek lub jednostkę, aby z nią pracować."
+3042,"Kliknij budynek lub jednostkę, którą chcesz zaatakować."
+3043,"Kliknąć jednostkę, która ma zostać uzdrowiona."
+3044,"Kliknij jednostkę, którą chcesz nawrócić."
+3045,"Kliknij na obszar, który chcesz zaatakować."
 3046,"Osiągnąłeś limit populacji."
 3047,"Za mało wiary, aby dokonać nawrócenia."
 3048,"Musisz odkryć Monoteizm, zanim będziesz mógł nawracać wrogich Kapłanów."
 3049,"Musisz odkryć Monoteizm, zanim będziesz mógł nawracać budynki wroga."
-3050,"Centra miast nie mogą być przekonwertowane."
-3051 "Cuda nie mogą zostać nawrócone".
-3052 "Kliknij budynek lub łódź do naprawy".
-3053 "Kliknij w miejscu, w którym chcesz rozładować transport".
-3054 "Ukończyłeś Cud."
-3055,"%s ukończył Cud."
-3056,"Wszystkie artefakty zostały przechwycone."
+3050,"Centrum Miasta nie można nawrócić."
+3051,"Cudu nie można nawrócić."
+3052,"Kliknij na budynek lub łódź, którą chcesz naprawić."
+3053,"Kliknij miejsce, w którym chcesz rozładować transport."
+3054,"Zbudowałeś Cud."
+3055,"%s zbudował Cud."
+3056,"Wszystkie Artefakty zostały zdobyte."
 3057,"Wszystkie Ruiny zostały zdobyte."
-3058 "Zacząłeś budować Cud!"
-3059 "Zmieniono prędkość gry".
+3058,"Zacząłeś budować Cud!"
+3059,"Prędkość gry została zmieniona."
 3060,"Gra wstrzymana/wstrzymana".
 3070 "Nie możesz rozmawiać po zrezygnowaniu lub pokonaniu".
 3080 "Widok jest teraz zablokowany na bieżącym poziomie powiększenia"
@@ -313,7 +313,7 @@
 4164,"K"
 4165,"L"
 4166,"P"
-4167,"T"
+4167,"Y"
 4168,"E"
 4169,"C"
 4170,"M"
@@ -330,7 +330,7 @@
 4182,"V"
 4183,"V"
 4184,"S"
-4185,"ja"
+4185,"I"
 4186,"U"
 4187,"G"
 4188,"G"
