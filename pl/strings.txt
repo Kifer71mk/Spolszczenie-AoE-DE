@@ -98,7 +98,7 @@
 2307,"Daj mi %d sztuk złota albo zostaniesz unicestwiony!"
 2308,"Jeśli dasz mi %d sztuk złota, sprzymierzę się z Tobą."
 2309,"Jeśli dasz mi dodatkowe %d sztuk złota, sprzymierzę się z Tobą."
-2310,"Twoje drobne oferty nie wpłyną na moją determinację, by zniszczyć Twe imperium!"
+2310,"Twoje drobne ofiary nie wpłyną na moją determinację, by zniszczyć Twe imperium!"
 2311,"Twoje imperium jest godne mojej wierności."
 2312,"Jestem atakowany przez %s, proszę o pomoc!"
 2313,"Przygotowuję się do ataku na %s, dołącz do mnie."
