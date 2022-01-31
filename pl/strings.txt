@@ -147,7 +147,7 @@
 3023,"Twój Cud został zniszczony!"
 3024,"%s utracił Cud!"
 3025,"%s zmienił stanowisko dyplomatyczne wobec Ciebie na Neutralne."
-3026,"%s zmienił stanowisko dyplomatyczne wobec Ciebie na Przyjaciel."
+3026,"%s zmienił stanowisko dyplomatyczne wobec Ciebie na Sojusznik."
 3027,"%s zmienił stanowisko dyplomatyczne wobec Ciebie na Wróg."
 3028,"Zdobyłeś wszystkie artefakty. Utrzymaj je przez 2000 lat, aby wygrać!"
 3029,"Wszystkie Artefakty zostały zdobyte. Przegrasz, jeżeli nie odbierzesz ich w ciągu 2000 lat!"
