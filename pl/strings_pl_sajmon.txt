@@ -152,9 +152,9 @@
 3028,"Zdobyłeś wszystkie artefakty. Utrzymaj je przez 2000 lat, aby wygrać!"
 3029,"Wszystkie Artefakty zostały zdobyte. Przegrasz, jeżeli nie odbierzesz ich w ciągu 2000 lat!"
 3030,"Kontrola nad Artefaktami została utracona!"
-3033,"Wszystkie Ruiny zostały zdobyte. Utrzymaj je przez 2000 lat, aby wygrać!"
-3034,"Wszystkie Ruiny zostały zdobyte. Przegrasz, jeśli będą przetrzymywane przez 2000 lat!"
-3035,"Kontrola nad ruinami została utracona!"
+3033,"Zająłeś wszystkie Ruiny. Utrzymaj je w swojej władzy przez 2000 lat i będziesz zwycięzcą!"
+3034,"Wszystkie Ruiny zostały zajęte. Przegrasz, jeżeli nie odbijesz ich w ciągu 2000 lat!"
+3035,"Kontrola nad Ruinami została utracona!"
 3039 "Kliknij obszar do ataku".
 3040 "Kliknij obszar, aby się tam przenieść".
 3041 "Kliknij element lub jednostkę, aby nad nią pracować."
