@@ -72,7 +72,7 @@
 1219,"Tworzenie gry wieloosobowej..."
 2000,"place holder"
 2001,"Błąd"
-2002,"Nie można zainicjować programu. Odinstaluj Age of Empires, a następnie uruchom}, ponownie zainstaluj."
+2002,"Nie można uruchomić programu. Spróbuj zainstalować grę na nowo i uruchomić ją jeszcze raz."
 2003 "Nie można zainicjować systemu graficznego. Upewnij się, że twoja karta graficzna i sterownik są kompatybilne z DirectDraw."
 2004 "Nie można zainicjować systemu dźwiękowego".
 2005,"Nie można zainicjować systemu komunikacji. Upewnij się, że masz DirectX 5.0a lub nowszy i że jest on poprawnie zainstalowany."

@@ -72,7 +72,7 @@
 1219,"Tworzenie gry wieloosobowej..."
 2000,"place holder"
 2001,"Błąd"
-2002,"Uruchomienie programu niemożliwe. Spróbuj zainstalować grę na nowo i uruchomić ją jeszcze raz."
+2002,"Nie można uruchomić programu. Spróbuj zainstalować grę na nowo i uruchomić ją jeszcze raz."
 2003,"Nie można zainicjować systemu graficznego. Upewnij się, że Twoja karta graficzna i sterownik są kompatybilne z DirectDraw."
 2004,"Nie można zainicjować systemu dźwiękowego."
 2005,"Nie można zainicjować systemu komunikacji. Upewnij się, że posiadasz DirectX 5.0a lub wyższy i że jest on prawidłowo zainstalowany."
