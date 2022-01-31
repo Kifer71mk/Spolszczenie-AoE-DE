@@ -90,7 +90,7 @@
 2017,"Ten egzemplarz Age of Empires Expansion Beta stracił ważność."
 2300,"Komunikaty gracza komputerowego"
 2301,"Podły zdrajco! Zemszczę się!"
-2302,"Mądrze postąpiłeś, czyniąc to o co prosiłem."
+2302,"Mądrze postąpiłeś, czyniąc to, o co prosiłem."
 2303,"Dokonałeś mądrego wyboru - razem będziemy rządzić światem."
 2304,"Szkoda! Mogliśmy stać się doskonałą drużyną."
 2305,"Śmiesz mi się sprzeciwiać?! Przygotuj się na śmierć!"
