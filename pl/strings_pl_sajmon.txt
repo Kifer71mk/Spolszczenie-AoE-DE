@@ -79,16 +79,16 @@
 2006,"Nie można utworzyć gry."
 2007,"Nie można załadować danych gry."
 2008,"Aby zagrać w grę jednoosobową, należy włożyć płytę CD z grą, a następnie ponownie uruchomić Age of Empires."
-2009 "Na każdych trzech graczy wymagana jest jedna płyta CD z grą".
-2010 "Aby użyć kreatora scenariuszy, musisz włożyć płytę CD z grą".
-2011 "Age of Empires wymaga do uruchomienia palety 256 kolorów lub wyższej. Aby zmienić paletę kolorów, przejdź do okna dialogowego Właściwości ekranu w Panelu sterowania systemu Windows".
-2012 "Gra została zatrzymana, ponieważ nie była zsynchronizowana!"
-2013,"Age of Empires: Definitive Edition nie może zainicjować DirectX Renderer. Upewnij się, że karta wideo obsługuje DirectX11, a sterowniki są aktualne".
-2014,"Age of Empires: Definitive Edition nie było w stanie utworzyć instancji renderowania DirectX11. Upewnij się, że karta wideo obsługuje DirectX11, a sterowniki są aktualne".
-2015,"Za mało pamięci lub miejsca wymiany plików. Zamknij inne aplikacje i/lub zwolnij trochę miejsca na dysku, a następnie uruchom ponownie Age of Empires".
-2016 "Age of Empires Expansion wymaga zainstalowania Age of Empires 1.0, 1.0A lub 1.0B."
-2017: "Ta kopia dodatku Age of Empires Expansion Beta wygasła".
-2300,"Wiadomości odtwarzacza komputerowego"
+2009,"Na każdych trzech graczy wymagana jest jedna płyta CD z grą"
+2010,"Aby skorzystać z kreatora scenariuszy, należy włożyć płytę CD z grą."
+2011,"Age of Empires do działania wymaga palety kolorów 256 lub wyższej. Aby zmienić paletę kolorów, przejdź do okna dialogowego Właściwości wyświetlania w Panelu sterowania systemu Windows."
+2012,"Błąd synchronizacji! Gra wstrzymana."
+2013,"Age of Empires: Definitive Edition nie może zainicjować DirectX Renderer. Upewnij się, że karta graficzna obsługuje DirectX11, a sterowniki są aktualne."
+2014,"Gra Age of Empires:Definitive Edition nie była w stanie utworzyć instancji renderowania DirectX11. Upewnij się, że karta graficzna obsługuje DirectX11, a sterowniki są aktualne."
+2015,"Za mało pamięci lub miejsca w pliku wymiany. Zamknij inne aplikacje i/lub zwolnij trochę miejsca na dysku, a następnie ponownie uruchom Age of Empires."
+2016,"Age of Empires Expansion wymaga zainstalowanej gry Age of Empires 1.0, 1.0A lub 1.0B."
+2017,"Ten egzemplarz Age of Empires Expansion Beta stracił ważność."
+2300,"Komunikaty gracza komputerowego"
 2301,"Ty zdradziecki nędzniku! Zemsta będzie moja!"
 2302,"Mądrze było zrobić to, o co prosiłem".
 2303,"Dokonałeś mądrego wyboru – razem będziemy rządzić światem".
