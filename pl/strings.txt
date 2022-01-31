@@ -1,4 +1,4 @@
-﻿101,"1"
+101,"1"
 102,"Copperplate Gothic Light"
 103,"Comic Sans MS"
 104,"Arial"
