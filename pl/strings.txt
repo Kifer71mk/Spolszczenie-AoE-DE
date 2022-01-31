@@ -66,7 +66,7 @@
 1213,"Gracz %d - '%s' przerwał połączenie."
 1214,"Gracz '%s' (%d) nie odpowiada..."
 1215,"Konfigurowanie gry wieloosobowej..."
-1216,"Rozłączanie z grą wieloosobową...\n\n\n\nProszę nacisnąć ESC, jeśli gra nie \nrozłączy się w ciągu 15 sekund."
+1216,"Rozłączanie z grą wieloosobową...\n\n\n\nProszę nacisnąć ESC, jeśli gra nie\nrozłączy się w ciągu 15 sekund."
 1217,"Problem w połączeniu z %s..."
 1218,"Tworzenie gry wieloosobowej..."
 1219,"Tworzenie gry wieloosobowej..."
