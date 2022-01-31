@@ -162,10 +162,10 @@
 3043 "Kliknij jednostkę, aby wyleczyć".
 3044 "Kliknij jednostkę, aby przekonwertować."
 3045 "Kliknij obszar, aby zaatakować ziemię".
-3046 "Osiągnąłeś limit populacji".
-3047: "Za mało wiary, aby dokonać nawrócenia".
-3048,"Musisz zbadać Monoteizm zanim będziesz mógł nawrócić wrogich Kapłanów."
-3049,"Musisz zbadać Monoteizm, zanim będziesz mógł przekonwertować wrogie budynki".
+3046,"Osiągnąłeś limit populacji."
+3047,"Za mało wiary, aby dokonać nawrócenia."
+3048,"Musisz odkryć Monoteizm, zanim będziesz mógł nawracać wrogich Kapłanów."
+3049,"Musisz odkryć Monoteizm, zanim będziesz mógł nawracać budynki wroga."
 3050,"Centra miast nie mogą być przekonwertowane."
 3051 "Cuda nie mogą zostać nawrócone".
 3052 "Kliknij budynek lub łódź do naprawy".
