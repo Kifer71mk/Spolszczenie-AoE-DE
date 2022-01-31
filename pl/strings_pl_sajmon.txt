@@ -155,8 +155,8 @@
 3033,"Zająłeś wszystkie Ruiny. Utrzymaj je w swojej władzy przez 2000 lat i będziesz zwycięzcą!"
 3034,"Wszystkie Ruiny zostały zajęte. Przegrasz, jeżeli nie odbijesz ich w ciągu 2000 lat!"
 3035,"Kontrola nad Ruinami została utracona!"
-3039 "Kliknij obszar do ataku".
-3040 "Kliknij obszar, aby się tam przenieść".
+3039,"Kliknij na obszar, który chcesz zaatakować."
+3040,"Kliknij obszar, aby wysłać tam jednostki."
 3041 "Kliknij element lub jednostkę, aby nad nią pracować."
 3042 "Kliknij przedmiot lub jednostkę do ataku."
 3043 "Kliknij jednostkę, aby wyleczyć".
