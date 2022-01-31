@@ -103,43 +103,43 @@
 2312,"Jestem atakowany przez %s, proszę o pomoc!"
 2313,"Przygotowuję się do ataku na %s, dołącz do mnie."
 2314,"Nie jestem zainteresowany sojuszem z Tobą."
-2400,"********** BŁĘDY PLEMIENIA **********"
+2400,"********** TRIBE ERRORS **********"
 2401,"Wystąpił błąd podczas próby uruchomienia gry."
-2402,"Nie można zapisać gry. Zwolnij trochę miejsca na dysku i spróbuj ponownie".
-2403 "Nie można zapisać scenariusza. Zwolnij trochę miejsca na dysku, a następnie spróbuj ponownie".
-2404 "Nie można załadować gry".
-2405 "Nie można załadować scenariusza".
-2406,"Zostałeś usunięty z gry z powodu błędu synchronizacji. Twoje połączenie sieciowe mogło zostać utracone."
-2407,"Przekroczono limit czasu trybu demonstracyjnego! Dziękujemy za grę!"
-2410,"Upłynął limit czasu podczas próby połączenia z grą."
-2411,"Nazwa pliku zawiera zabronione znaki."
-2500,"To nie jest włączone w wersji próbnej".
-2501,"Wersja próbna nie pozwala na przejście do epoki żelaza".
-2502,"Gry losowe z mapami nie są włączone w wersji próbnej".
-2503,"Gry Death Match nie są włączone w wersji próbnej."
-2504,"Epoka żelaza nie jest włączona w wersji próbnej".
-2505,"Gracze komputerowe nie obsługują gier wieloosobowych w wersji próbnej".
-2506,"Ten scenariusz nie działa z wersją próbną".
-2507 "Zmiana rozmiaru ekranu nie jest możliwa w wersji próbnej."
-2510,"Rumble dla wielu graczy (8-Player)"
-3001,"Za mało jedzenia".
-3002,"Za mało drewna".
-3003 "Za mało kamienia".
-3004,"Za mało złota".
-3005 "Musisz zbudować więcej Domów".
-3006 "Brak doków do handlu."
-3007,"Nie dość blisko wylądowania do rozładunku".
-3008,"Za mało miejsca, aby wyładować wszystko".
-3009,"%s zapłacił %d złota w hołdzie tobie."
-3010,"Za mało miejsca, aby umieścić jednostkę".
-3011,"Nie możesz handlować z wrogiem".
-3012,"%s odłączony."
+2402,"Nie można było zapisać gry. Zwolnij trochę miejsca na dysku, a następnie spróbuj ponownie."
+2403,"Scenariusz nie mógł zostać zapisany. Zwolnij trochę miejsca na dysku, a następnie spróbuj ponownie."
+2404,"Gra nie może zostać załadowana."
+2405,"Scenariusz nie może zostać załadowany."
+2406,"Zostałeś usunięty z gry z powodu błędu synchronizacji. Połączenie z siecią mogło zostać utracone."
+2407,"Zakończył się tryb demonstracyjny! Dziękujemy za udział w zabawie!"
+2410,"Próba połączenia z grą zakończyła się niepowodzeniem."
+2411,"Nazwa pliku zawiera niedozwolone znaki."
+2500,"Nie jest to możliwe w wersji próbnej."
+2501,"Wersja próbna nie pozwala na przejście do Ery Żelaza."
+2502,"W wersji próbnej nie są dostępne gry z losowymi mapami."
+2503,"Gry Igrzyska Śmierci nie są dostępne w wersji próbnej."
+2504,"Era Żelaza nie jest dostępna w wersji próbnej."
+2505,"W wersji próbnej gracze komputerowi nie mają dostępu do gier wieloosobowych."
+2506,"Ten scenariusz nie działa z wersją próbną."
+2507,"Zmiana rozmiaru ekranu nie jest możliwa w wersji próbnej."
+2510,"Rozgrywki wieloosobowe (8-Graczy)"
+3001,"Za mało żywności."
+3002,"Za mało drewna."
+3003,"Za mało kamieni."
+3004,"Za mało złota."
+3005,"Musisz zbudować więcej Domów."
+3006,"Brak Portów, z którymi można by handlować."
+3007,"Za daleko od brzegu, nie można wyładować."
+3008,"Za mało miejsca, żeby wszystko wyładować."
+3009,"%s przekazał %d sztuk złota jako daninę dla Ciebie."
+3010,"Za mało miejsca na umieszczenie jednostki."
+3011,"Nie możesz handlować z wrogiem."
+3012,"%s rozłączył się."
 3013,"%s zrezygnował."
-3014,"%s pokonany."
-3015,"%s zapłacił %d drewna w hołdzie tobie."
-3016,"%s zapłacił %d jedzenie w hołdzie tobie."
-3017,"%s zapłacił %d kamień w hołdzie tobie."
-3018 "Nie można naprawić… z zasobów".
+3014,"%s został pokonany."
+3015,"%s przekazał %d sztuk drewna jako daninę dla Ciebie."
+3016,"%s przekazał %d sztuk żywności jako daninę dla Ciebie."
+3017,"%s przekazał %d sztuk kamieni jako daninę dla Ciebie."
+3018,"Nie można naprawić... brakuje zasobów."
 3019,"%s zaczął budować Cud!"
 3020 "Ukończyłeś Cud. Wygrasz, jeśli przetrwa 2000 lat!"
 3021,"%s ukończył Cud. Wygrasz, jeśli przetrwa 2000 lat!"
