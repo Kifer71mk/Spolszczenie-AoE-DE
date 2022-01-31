@@ -187,18 +187,18 @@
 3101,"Czy na pewno chcesz zrezygnować z tej gry?\nWszelkie niezapisane postępy zostaną utracone."
 3102,"Czy na pewno chcesz ponownie rozpocząć tę grę?"
 3103,"Czy na pewno chcesz zrezygnować?"
-3120,"Pozostało %d pauz."
-3121,"Skończyły ci się przerwy".
-3501,"To jest stałe. Jesteś pewien?"
-3700 "Kliknij, aby wyleczyć tę jednostkę".
-3701 "Kliknij, aby zaatakować tę jednostkę".
-3702 "Kliknij, aby zaatakować ten budynek".
-3703 "Kliknij, aby zaatakować tę ścianę".
-3704 "Kliknij, aby zaatakować tę łódź".
-3705 "Kliknij, aby naprawić ten budynek".
-3706 "Kliknij, aby wejść na pokład tego transportu".
-3707 "Kliknij, aby łowić tutaj".
-3708 "Kliknij, aby ściąć to drzewo".
+3120,"Zostało Ci %d pauz."
+3121,"Skończyły Ci się pauzy."
+3501,"Tej czynności nie można cofnąć. Jesteś pewien?"
+3700,"Kliknij, aby uzdrowić tę jednostkę."
+3701,"Kliknij, aby zaatakować tę jednostkę."
+3702,"Kliknij, aby zaatakować ten budynek."
+3703,"Kliknij, aby zaatakować ten mur."
+3704,"Kliknij, aby zaatakować tę łódź."
+3705,"Kliknij, aby naprawić ten budynek."
+3706,"Kliknij, aby wejść na pokład tego transportu."
+3707,"Kliknij, aby łowić te ryby."
+3708,"Kliknij, aby ściąć to drzewo."
 3709 "Kliknij, aby znaleźć paszę tutaj".
 3710 "Kliknij, aby upolować to zwierzę".
 3711 "Kliknij, aby wydobyć kamień".
