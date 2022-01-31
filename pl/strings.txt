@@ -75,7 +75,7 @@
 2002,"Nie można uruchomić programu. Spróbuj zainstalować grę na nowo i uruchomić ją jeszcze raz."
 2003,"Nie można zainicjować systemu graficznego. Upewnij się, że Twoja karta graficzna i sterownik są kompatybilne z DirectDraw."
 2004,"Nie można zainicjować systemu dźwiękowego."
-2005,"Nie można zainicjować systemu komunikacji. Upewnij się, że posiadasz DirectX 5.0a lub wyższy i że jest on prawidłowo zainstalowany."
+2005,"Nie można zainicjować systemu komunikacji. Upewnij się, że posiadasz DirectX 5.0a lub nowszy i że jest on prawidłowo zainstalowany."
 2006,"Nie można utworzyć gry."
 2007,"Nie można załadować danych gry."
 2008,"Aby zagrać w grę jednoosobową, należy włożyć płytę CD z grą, a następnie ponownie uruchomić Age of Empires."

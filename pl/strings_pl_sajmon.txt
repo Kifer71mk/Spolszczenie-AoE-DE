@@ -73,12 +73,12 @@
 2000,"place holder"
 2001,"Błąd"
 2002,"Nie można uruchomić programu. Spróbuj zainstalować grę na nowo i uruchomić ją jeszcze raz."
-2003 "Nie można zainicjować systemu graficznego. Upewnij się, że twoja karta graficzna i sterownik są kompatybilne z DirectDraw."
-2004 "Nie można zainicjować systemu dźwiękowego".
-2005,"Nie można zainicjować systemu komunikacji. Upewnij się, że masz DirectX 5.0a lub nowszy i że jest on poprawnie zainstalowany."
-2006 "Nie można było stworzyć gry".
-2007 "Nie można załadować danych gry".
-2008 "Musisz włożyć płytę CD z grą, aby zagrać w grę dla jednego gracza, a następnie ponownie uruchomić Age of Empires"
+2003,"Nie można zainicjować systemu graficznego. Upewnij się, że Twoja karta graficzna i sterownik są kompatybilne z DirectDraw."
+2004,"Nie można zainicjować systemu dźwiękowego."
+2005,"Nie można zainicjować systemu komunikacji. Upewnij się, że posiadasz DirectX 5.0a lub nowszy i że jest on prawidłowo zainstalowany."
+2006,"Nie można utworzyć gry."
+2007,"Nie można załadować danych gry."
+2008,"Aby zagrać w grę jednoosobową, należy włożyć płytę CD z grą, a następnie ponownie uruchomić Age of Empires."
 2009 "Na każdych trzech graczy wymagana jest jedna płyta CD z grą".
 2010 "Aby użyć kreatora scenariuszy, musisz włożyć płytę CD z grą".
 2011 "Age of Empires wymaga do uruchomienia palety 256 kolorów lub wyższej. Aby zmienić paletę kolorów, przejdź do okna dialogowego Właściwości ekranu w Panelu sterowania systemu Windows".
