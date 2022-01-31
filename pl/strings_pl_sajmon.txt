@@ -176,17 +176,17 @@
 3057,"Wszystkie Ruiny zostały zdobyte."
 3058,"Zacząłeś budować Cud!"
 3059,"Prędkość gry została zmieniona."
-3060,"Gra wstrzymana/wstrzymana".
-3070 "Nie możesz rozmawiać po zrezygnowaniu lub pokonaniu".
-3080 "Widok jest teraz zablokowany na bieżącym poziomie powiększenia"
+3060,"Włączanie/wyłączanie pauzy."
+3070,"Po poddaniu się lub porażce nie możesz czatować."
+3080,"Widok jest teraz zablokowany na bieżącym poziomie powiększenia"
 3081,"Można teraz zmienić poziom powiększenia widoku"
 3082,"Powiększenie jest obecnie wyłączone przez gracza"
-3093 "Kolejka budynków jest pełna!"
-3094 "Zablokowany plac budowy. Budowa anulowana".
-3100 "Czy na pewno chcesz zakończyć i załadować nową grę?"
-3101,"Czy na pewno chcesz opuścić tę grę?\nWszelkie niezapisane postępy zostaną utracone".
-3102,"Czy na pewno chcesz ponownie uruchomić tę grę?"
-3103 "Czy na pewno chcesz zrezygnować?"
+3093,"Kolejka tworzenia jest pełna!"
+3094,"Utrudnienia na placu budowy. Budowa anulowana."
+3100,"Czy na pewno chcesz zakończyć grę i wczytać nową?"
+3101,"Czy na pewno chcesz zrezygnować z tej gry?\nWszelkie niezapisane postępy zostaną utracone."
+3102,"Czy na pewno chcesz ponownie rozpocząć tę grę?"
+3103,"Czy na pewno chcesz zrezygnować?"
 3120,"Pozostało %d pauz."
 3121,"Skończyły ci się przerwy".
 3501,"To jest stałe. Jesteś pewien?"
