@@ -1454,10 +1454,10 @@
 9711,"IP"
 9712,"Limit populacji: %d"
 9713,"Znajdowanie ścieżki: %s"
-9714,"Wyświetl drzewo technologiczne"
+9714,"Drzewo technologii"
 9715,"Typ dopasowania"
 9716,"Nie masz tego scenariusza lub masz inną jego wersję."
-9717 "Wystąpił błąd podczas próby połączenia z hostem, spróbuj ponownie".
+9717,"Wystąpił błąd podczas próby połączenia z hostem, spróbuj ponownie."
 9718,"Wspólna eksploracja: %s"
 9719,"Zablokuj drużyny: %s"
 9720,"Szybkość blokady: %s"
@@ -1491,58 +1491,58 @@
 9748,"Prędkość blokady"
 9749,"%s Ustawienia scenariusza"
 9750,"Ustawienia scenariusza"
-9751,"Mecz śmierci"
-9752 "Gra rozgrywana na losowej mapie, w której każdy gracz otrzymuje 20 000 każdego zasobu".
-9753,"Host jako serwer dedykowany"
+9751,"Igrzyska Śmierci"
+9752,"Gra rozgrywana na losowej mapie, w której każdy z graczy otrzymuje 20.000 każdego z zasobów."
+9753,"Hostuj jako serwer dedykowany"
 9754,"Solidne farmy (starsze)"
 9760,"Scenariusz"
 
-//Dodano do rozwijanego tekstu pomocy
-9761,"Najpopularniejszy typ gry; wybierasz ustawienia i warunki zwycięstwa".
-9762 "Wszyscy gracze zaczynają z ogromnymi zapasami drewna, żywności, złota i kamienia, a następnie walczą na śmierć".
-9763 "Odtwórz niestandardową mapę, którą utworzyłeś lub ktoś inny."
-9764,"Wygraj będąc pierwszym graczem lub zespołem, który zniszczy wszystkich wrogów w podboju militarnym, kontroluj wszystkie artefakty, kontroluj wszystkie ruiny lub buduj cud."
-9765 "Wygraj, niszcząc wszystkich wrogów w podboju militarnym"
-9766,"Pierwszy gracz lub drużyna, która osiągnie wymagany wynik, wygrywa"
-9767,"Gracz lub drużyna z najwyższym wynikiem, gdy skończy się czas, wygrywa"
-9768 "Każdy gracz zaczyna sam na małej wyspie".
-9769 "Każdy gracz zaczyna sam na dużej wyspie".
-9770 "Gdzie ląd styka się z oceanem, z dużą ilością wody i dużym lądem do bitew na lądzie lub na morzu".
-9771 "Duży ląd w pobliżu oceanu, gracze mogą być oddzieleni rzekami".
-9772 "Daleko od oceanu i mocno zalesione, ale z dużą ilością otwartej przestrzeni do manewrów".
-9773 "Duży obszar lądowy otoczony morzem".
-9774 "Śródlądowe morze otoczone lądem".
-9775 "Rzadko zalesiona, ze strategicznymi wzniesieniami i klifami, z których warto skorzystać".
-9776 "Duża grupa wysp połączonych płyciznami".
-9777 "Prawie całe drewno znajduje się na środku mapy".
-9778 "Gracze są odizolowani przez wąskie rzeki".
-9779 "Losowo wybiera jedną z pozostałych map".
+//Added for dropdown help text
+9761,"Najpopularniejszy typ gry; wybierasz ustawienia i warunki zwycięstwa"
+9762,"Wszyscy gracze zaczynają z ogromnymi zapasami drewna, żywności, złota i kamienia, a następnie walczą na śmierć i życie."
+9763,"Zagraj na niestandardowej mapie, którą stworzyłeś Ty lub ktoś inny."
+9764,"Wygraj, będąc pierwszym graczem lub drużyną, która zniszczy wszystkich wrogów w walce, zdobędzie wszystkie artefakty, zajmie wszystkie ruiny lub zbuduje cud."
+9765,"Wygraj niszcząc wszystkich wrogów w walce".
+9766,"Pierwszy gracz lub drużyna, która osiągnie wymagany wynik, wygrywa."
+9767,"Gracz lub drużyna z najwyższym wynikiem, gdy skończy się czas, wygrywa."
+9768,"Każdy z graczy rozpoczyna grę samotnie na małej wyspie."
+9769,"Każdy z graczy zaczyna sam na dużej wyspie."
+9770,"Tam, gdzie ląd styka się z oceanem, gdzie jest dużo wody i duże połacie terenu do prowadzenia bitew lądowych lub morskich."
+9771,"Duży ląd w pobliżu oceanu, gdzie gracze mogą być oddzieleni rzekami."
+9772,"Mocno zalesiony teren z dala od oceanu, ale z dużą ilością otwartej przestrzeni do rozwoju cywilizacji."
+9773,"Duży obszar lądu otoczony przez morze."
+9774,"Morze otoczone lądem."
+9775,"Słabo zalesiona, ze strategicznymi wzniesieniami i klifami, z których warto skorzystać."
+9776,"Duża grupa wysp połączonych płyciznami."
+9777,"Prawie wszystkie drzewa znajdują się w centrum mapy."
+9778,"Gracze są odizolowani przez wąskie rzeki."
+9779,"Losowy wybór mapy."
 
-9780,"15 000 lat (2:00 godz.)"
-9781,"13 000 lat (1:45 godz.)"
-9782,"11 000 lat (1:30 godz.)"
+9780,"15000 lat (2:00 godz.)"
+9781,"13000 lat (1:45 godz.)"
+9782,"11000 lat (1:30 godz.)"
 9783,"9000 lat (1:15 godz.)"
 9784,"7000 lat (60 min)"
 9785,"5000 lat (40 min)"
 9786,"3000 lat (25 min)"
-9790 "Potrzebujesz co najmniej jeszcze jednej osoby, aby zagrać w grę wieloosobową"
-9791,"Wszyscy gracze mają dobre połączenia. Możesz uzyskać lepsze wrażenia, wyłączając 'Host jako serwer dedykowany'. Kliknij Potwierdź, aby rozpocząć grę."
-9792,"Niektórzy gracze mają słabe połączenia. Możesz uzyskać lepsze wrażenia, włączając 'Host jako serwer dedykowany'. Kliknij Potwierdź, aby rozpocząć grę."
+9790,"Potrzebujesz co najmniej jeszcze jednej osoby, aby zagrać w grę wieloosobową"
+9791,"Wszyscy gracze mają dobre połączenie. Możesz uzyskać jeszcze lepsze wrażenia wyłączając opcję 'Hostuj jako serwer dedykowany'. Kliknij przycisk Potwierdź, aby rozpocząć grę."
+9792,"Niektórzy gracze mają słabe połączenie. Możesz uzyskać lepsze wrażenia, włączając "Hostuj jako serwer dedykowany". Kliknij przycisk Potwierdź, aby rozpocząć grę."
 9797,"Tryb gry"
-9798,"Wydanie ostateczne"
+9798,"Definitive Edition"
 9799,"Tryb klasyczny"
 9813,"Instrukcje"
-9814,"Zdobądź wszystkich wrogów".
+9814,"Pokonaj wszystkich wrogów."
 9815,"Zlokalizuj %d odkryć."
 9816,"Kontroluj artefakty %d."
 9817,"Kontroluj %d ruiny."
 9818,"Zbierz %d złota."
 9819,"Odkrywaj %d%% znanego świata."
-9820,"Standardowa gra: Wygraj tę grę, budując Cud, zdobywając wszystkie Ruiny lub Artefakty lub Podboju".
-9821,"Gra z limitem czasu: Wygraj tę grę, osiągając najwyższy wynik w określonym czasie".
-9822,"Score Game: Wygraj tę grę, osiągając określony wynik".
-9823,"Gra podboju: Wygraj tę grę, niszcząc wszystkich wrogich mieszkańców, jednostki wojskowe, łodzie i budynki".
-9831,"Wyślij wiadomości do"
+9820,"Standardowy: Wygrasz tę grę, budując Cud, zdobywając wszystkie Ruiny czy Artefakty, lub poprzez Podbój."
+9821,"Limit czasu: Wygrasz tę grę, osiągając najwyższy wynik w określonym czasie."
+9822,"Punkty: Wygrasz tę grę osiągając określoną liczbę punktów."
+9823,"Podbój: Wygrasz tę grę  zabijając wszystkich wieśniaków, jednostki militarne, oraz niszcząc wszystkie łodzie i budynki."
+9831,"Wyślij wiadomość do"
 9832,"Czat"
 9833,"Sojusznicy"
 9834,"Wrogowie"
@@ -1555,15 +1555,15 @@
 9853,"Sojusznik"
 9854,"Neutralny"
 9855,"Wróg"
-9856,"Zapłać hołd (koszt %d%%)"
-9857,"Zwycięstwo Aliantów"
+9856,"Przekaż daninę (koszt %d%%)"
+9857,"Zwycięstwo w Sojuszu"
 9858,"OK"
 9859,"Wyraźne Hołdy"
 9860,"Wyjście"
 9861,"100 Złota"
 9862,"Nazwa"
-9863,"Potrzebujesz Rynku, aby zapłacić daninę".
-9871,"--------Ludność--------"
+9863,"Potrzebujesz Targowiska, aby zapłacić daninę."
+9871,"--------Populacja--------"
 9872,"Plemię"
 9873,"Straty"
 9874,"Zabija"
@@ -1767,21 +1767,21 @@
 10660,"Generuj mapę"
 10661,"GENEROWANIE MAPY"
 10662,"Mapa"
-10663,"Regeneruj cukierki do oczu"
+10663,"Odśwież elementy dekoracyjne"
 10671,"Rozmiar pędzla"
-10672,"Mały"
+10672,"Malutki"
 10673,"Mały"
 10674,"Średni"
 10675,"Duży"
 10676,"Ogromny"
 10681,"Typ pędzla"
 10682,"Klify"
-10683 "Posprzątaj"
+10683,"Usuń wszystko"
 10684,"Teren"
 10701,"Sojusznik"
 10702,"Neutralny"
 10703,"Wróg"
-10704,"Zwycięstwo Aliantów"
+10704,"Zwycięstwo w Sojuszu"
 10750,"Wybierz gracza"
 10751,"Nazwa"
 10752,"Nowy"
@@ -1943,14 +1943,14 @@
 14026,"4v4"
 14027,"Drużyna"
 14028,"Przegrane"
-14029,"Pokój"
+14029,"Poczekalnia"
 14030, aby nasz nowy "Kliknij"
 14031,"Oglądaj grę"
 14032,"Kliknij, aby nowe"
 14033 "Widzowie"
 14034,"Czas akcji"
-14035,"Zobacz rankingi Age of Empires: Definitive Edition."
-14036,"Zobacz Informacje".
+14035,"Pokaż Ranking graczy Age of Empires: Definitive Edition."
+14036,"Pokaż twórców"
 14037,"Wyświetlacz"
 14038,"Kliknij aby wybrać."
 14039,"liknij, aby odtworzenie folderu gierK."
@@ -1964,9 +1964,9 @@
 14047 "Zezwalaj na grę międzyplatformową"
 14048,"Profil Xbox Live"
 14049 "Anuluj synchronizację konta"
-14050,"Kliknij, aby poznać się za pomocą konta Xbox Live."
-14051,"Kliknij, aby anulować synchronizację konta Xbox Live".
-14052,"Zresetuj ustawienia gry do domysłowych".
+14050,"Kliknij, aby zalogować się przy użyciu konta Xbox Live."
+14051,"Kliknij, aby usunąć synchronizację konta Xbox Live."
+14052,"Przywrócenie domyślnych ustawień gry."
 14053,"Wyświetl podsumowanie."
 14054 "Wyświetl militaria".
 14055 "Wyświetl ekonomię".
@@ -2020,7 +2020,7 @@
 14103,"Wybierz liczbę graczy, przeciwko którym chcesz grać."
 14104 "Wybierz tryb rankingowy, w który chcesz chcesz".
 14105,"Wybierz pokój publiczny lub prywatny."
-14106 "Wybierz preferowany region".
+14106,"Wybierz swój preferowany region."
 14107,"Wybierz tryb, w którym chcesz grać. Nie ma żadnych wyników w rankingu ani nie zmienia się wyników w tabelach wyników."
 14108,"Kliknij, aby powstać, powstać i wykonać do pobrania".
 14109 "Kliknij, aby wybrać kampanię."
@@ -2110,12 +2110,12 @@
 
 14210,"Nierankingowy"
 14211,""lub bezpieczne online, na których Twoje ustawienia ustanawiają Twoje ustawienia"). Ponieważ poczekaj, że poczekają, że mogą pozostać online, nie możesz wyświetlać sprzedawców poczekalni."
-14212,"Efekty Cząsteczkowe"
-14213"Wybierz, ile ma być wyświetlane. Wysokie wartości mogą oglądać"
-14214,"Minimalny"
-14215,"Średni"
-14216,"Wysoki"
-14217,"Niski"
+14212,"Elementy dekoracyjne"
+14213,"Wybierz, jak dużo dekoracji ma być wyświetlanych. Wysokie wartości mogą obniżyć wydajność"
+14214,"Minimum"
+14215,"Średnio"
+14216,"Dużo"
+14217,"Mało"
 
 14220,"Skróty Klawiszowe"
 14221,"Wybierz cywilizację"
@@ -2137,7 +2137,7 @@
 14308,"Zaproś (Xbox Live)"
 14309,"Wyślij Zaproszenie"
 
-14310,"Jeśli masz problemy z LAN, może być zmieniona zmiana ustawień zapory. Czy chcesz zacząć\n%s\naby dalsze informacje?"
+14310,"Jeśli masz problemy z serwerami sieci lokalnej, być może musisz zmienić ustawienia zapory sieciowej. Chciałbyś odwiedzić nas w celu uzyskania dalszych informacji?"
 
 16002,"Y"
 16008,"B"
@@ -2549,9 +2549,9 @@
 19548,"F4"
 19549,"F5"
 19550,"F6"
-1951,"F7"
+19551,"F7"
 19552,"F8"
-1953,"F9"
+19553,"F9"
 19554,"F10"
 19555,"F11"
 19556,"F12"
@@ -4225,27 +4225,27 @@
 62906,"POTWIERDŹ"
 
 63000,"********** NOWY TEKST W MENU ****************"
-63001,"Jeden gracz"
-63002,"Wielki graczy"
-63003,"Edytory"
+63001,"Jednoosobowa"
+63002,"Wieloosobowa"
+63003,"Edytor"
 63004,"Opcje"
 63005,"Wyjście"
-63006,"Gra niestandardowa"
+63006,"Własna gra"
 63007,"Kampanie"
 63008,"Zapisane gry"
-63009 "Dołącz do gry"
-63010,"Utwórz grę"
+63009,"Dołącz do gry"
+63010,"Stwórz grę"
 63011,"Przywróć grę"
-63012,"Twórz scenariusz"
+63012,"Stwórz scenariusz"
 63013,"Edytuj scenariusz"
-63014,"Edytor kampani"
+63014,"Edytor kampanii"
 63015,"Profil"
 63016,"Ustawienia"
 63017,"Skróty klawiszowe"
 63018,"Przełącznik GUI"
-63019,"Zmień język"
-63020 "Przeglądanie pokoi"
-63021 "Szybki mecz"
+63019,"Zmiana języka"
+63020,"Poczekalnia"
+63021,"Szybka gra"
 63022,"Szczegóły"
 63023,"X1"
 63024,"X2"
@@ -4424,15 +4424,15 @@
 63306 "Otwiera folder zawierający pliki konfiguracyjne w Eksploratorze plików"
 63307 "Otwiera folder zawierający zrzuty ekranu w Eksploratorze plików"
 
-63350,"Filtruj gry według typu gry."
-63351,"Filtruj gry według rozmiaru mapy".
-63352,"Filtruj gry według wieku początkowego".
-63353,"Filtruj gry według typu zwycięstwa".
-63354,"Filtruj gry według szybkości gry".
-63355,"Filtruj gry, czy zezwalają na oszustwa, czy nie."
-63356,"Filtruj gry na podstawie trybów gry".
-63357,"Filtruj gry na podstawie liczby graczy."
-63358,"Filtruj gry według regionu".
+63350, "Filtruj gry na według typu gry."
+63351, "Filtruj gry według wielkości mapy."
+63352, "Filtruj gry według wieku rozpoczęcia gry."
+63353, "Filtruj gry według typu zwycięstwa."
+63354, "Filtruj gry według szybkości gry."
+63355, "Filtruj gry pod kątem tego, czy pozwalają na kody, czy nie".
+63356, "Filtruj gry według trybów gry."
+63357, "Filtruj gry według liczby graczy."
+63358, "Filtruj gry według regionu."
 
 63901,"Arial"
 63902,"10"
@@ -4581,18 +4581,18 @@
 
 64200,"Udało Ci się pomyślnie ukończyć kampanię: %s!"
 
-// Języki
-64300,"angielski"
+// Languages
+64300,"English"
 64301,"Español Mexicano"
-64302,"Hiszpański"
-64303,"Portugalska Brazylia"
-64304,"francuski"
-64305,"Niemiecki"
-64306,"Włoski"
+64302,"Español"
+64303,"Portugużs Brasil"
+64304,"Franąais"
+64305,"Deutsch"
+64306,"Italiano"
 64307,"हिंदी"
 64308,"日本語"
 64309,"한국어"
-64310 "Russkij"
+64310,"Русский"
 64311,"Tiếng Việt"
 64312,"简体中文"
 64313,"繁體中文"
