@@ -1,1 +1,1 @@
-# Spolszczenie-AoE-DE
+# Spolszczenie AoE: DE
