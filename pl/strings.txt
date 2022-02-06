@@ -5135,5 +5135,5 @@
 71753,"Regulus"
 71754,"Consul's Guard"
 
-72000,"Build your army, attack enemies, and destroy buildings to get points. Race the computer to get the highest score!\n1.     Time is up when the Wonder counter in the upper-right corner reaches 0!\n2.     You are blue. [YELLOW] is your ally.\n3.     You start with LOTS of resources, so you can keep making units. But watch out for your population cap!\n4.     You have forces and buildings in various spots on the map. Find them to build up your army.\n5.     Destroy the Red wonder to get a big point boost!\n\nLet the staff know your score when you finish. The highest score in your group may get a prize!"
+72000,"Zbuduj swoją armię, atakuj wrogów i niszcz budynki, aby zdobyć punkty. Ścigaj się z komputerem, aby uzyskać jak najwyższy wynik!\n1.     Czas upłynie, gdy licznik Cudów w prawym górnym rogu osiągnie 0!\n2.     Twój kolor to niebieski. [ŻÓŁTY] jest twoim sprzymierzeńcem.\n3.     Zaczynasz z DUŻĄ ilością zasobów, więc możesz ciągle tworzyć jednostki. Ale uważaj na swój limit populacji!\n4.     Masz siły i budynki w różnych miejscach na mapie. Znajdź je, aby rozbudować swoją armię.\n5.     Zniszcz czerwony Cud, aby otrzymać dużą premię punktową!\n\nPoinformuj personel o swoim wyniku, gdy skończysz. Najwyższy wynik w Twojej grupie może otrzymać nagrodę!"
 72001,"Wyświetl swój profil Steam."

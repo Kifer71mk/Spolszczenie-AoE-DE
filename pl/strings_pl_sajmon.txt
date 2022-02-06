@@ -2068,12 +2068,12 @@
 14167,"Wybrano słupek montażu"
 14168,"lub bezpieczeństwa online na wzajemnych ustawieniach, które umożliwiają na pobieranie środków (treści użytkowników). Ponieważ musisz być zmuszony, aby kontynuować, aby zapewnić dostęp do lobby".
  
-14169,"Włączenie umożliwione innym graczom z różnych platform być widocznymi w sieci LAN i wzajemnej pomocy."
-14170","
-14171Włączenie powoduje automatyczne logowanie przy użyciu konta Xbox Live po gry."
-14172","
-14173,"Kliknij, aby Twój profil Xbox Live."
-14174","
+14169,"Włączenie tej opcji pozwoli innym graczom z różnych platform być widocznymi w sieci lokalnej i grach wieloosobowych."
+14170,""
+14171,"Włączenie tej opcji spowoduje automatyczne zalogowanie się na konto Xbox Live po uruchomieniu gry."
+14172,""
+14173,"Kliknij, aby wyświetlić swój profil Xbox Live."
+14174,""
 14175,"Pomoc kontekstowa"
 14176,"Wybierz pozycję podpowiedzi."
 14177,"Detale (powiększenie)"
@@ -3031,7 +3031,7 @@
 30254,"Wybierz sposób eksploracji mapy i jak duża jej część będzie widoczna po rozpoczęciu gry."
 30257,"Wybierz erę, w której rozpocznie się gra. Na przykład, Era Brązu wskazuje, że cała technologia Ery Kamienia i Ery Narzędzi jest dostępna. Osadnicy to gra, która rozpoczyna się w Erze Kamienia, a ty wybierasz miejsce, w którym zbudujesz swoje Centrum Miejskie."
 30258,"Wybierz ilość zasobów (żywność, drewno, kamień i złoto) w posiadaniu każdego gracza, w momencie rozpoczęcia gry."
-30259,"Jeśli w polu jest zaznaczone pole, gracze rozpoczynają grę na ustalonych pozycjach (zgodnie z ruchem wskazówek zegara) w oparciu o numer gracza. Członkowie drużyny z kolejnymi numerami graczy znajdują się obok siebie na mapie. W przeciwnym razie gracze rozpoczynają grę w losowych miejscach na mapie."
+30259,"Jeśli zaznaczone, gracze rozpoczynają grę na ustalonych pozycjach (zgodnie z ruchem wskazówek zegara) w oparciu o numer gracza. Członkowie drużyny z kolejnymi numerami graczy znajdują się obok siebie na mapie. W przeciwnym razie gracze rozpoczynają grę w losowych miejscach na mapie."
 30260,"Jeśli ktoś inny udostępni na początku gry, jeśli zostanie udostępniony, jeśli zostanie udostępniony."
 30261,"Jeśli zaznaczone, gracze współdzielą się eksploracją ze swoimi sojusznikami od początku gry."
 30262,"Jeśli zaznaczone, gracze nie mogą zmieniać swoich sojuszy w trakcie gry."
@@ -3947,7 +3947,7 @@
 61410,"Wieśniak"
 
 
-62000,"T"
+62000,"Y"
 62001,"N"
 62002,"T"
 
@@ -4357,7 +4357,7 @@
 63120,"Wyświetl swój profil Steam."
 63121,"Wystąpił problem z pod pamięcią masową."
 
-63150,"Otwórz folder gry"
+63150,"Otwórz folder gier"
 63151,"Modyfikacja folderu"
 63152,"Folder z zapisami"
 63153,"Składnik kampanii kampanii"
@@ -4366,7 +4366,7 @@
 63156,"Folder z konfiguracją"
 63157,"Folder ze zrzutami ekranu"
 
-3158,"Sieć lokalna"
+63158,"Sieć lokalna"
 63159,"Dołącz do"
 63160,"Utwórz"
 63161,"Graj w sieci lokalnej z lub przeciwko innym graczom."
@@ -4393,7 +4393,7 @@
 63200,"Utwórz grę"
 63201,"Anuluj"
 63202,"Utwórz grę"
-63203,"Nazwa poczekalni:"
+63203,"Naz. poczekalni:"
 63204,"Typ poczekalni:"
 63208,"ID gry: %u"
 63209,"Kopiuj"
@@ -5135,5 +5135,5 @@ lud Berberów, a czasem sojusznicy Kartaginy, do buntu. Uchodźcy ze splądrowan
 71753,"Regulus"
 71754,"Gwardia Konsula"
 
-72000 "Zbuduj swoją armię, atakuj wrogów i niszcz budynki, aby zdobywać punkty. Ścigaj się z komputerem, aby uzyskać najwyższy wynik!\n1. Czas się kończy, gdy licznik Cudów w prawym górnym rogu osiągnie 0!\n2. niebieski. [ŻÓŁTY] jest twoim sprzymierzeńcem.\n3. Zaczynasz z DUŻĄ ilością zasobów, dzięki czemu możesz dalej tworzyć jednostki. Uważaj jednak na limit populacji!\n4. Masz siły i budynki w różnych miejscach na mapie. Znajdź aby zbudować swoją armię.\n5. Zniszcz Czerwony cud, aby otrzymać dużą premię punktową!\n\nPoinformuj personel o swoim wyniku, gdy skończysz. Najwyższy wynik w Twojej grupie może otrzymać nagrodę!"
+72000,"Zbuduj swoją armię, atakuj wrogów i niszcz budynki, aby zdobyć punkty. Ścigaj się z komputerem, aby uzyskać jak najwyższy wynik!\n1.     Czas upłynie, gdy licznik Cudów w prawym górnym rogu osiągnie 0!\n2.     Twój kolor to niebieski. [ŻÓŁTY] jest twoim sprzymierzeńcem.\n3.     Zaczynasz z DUŻĄ ilością zasobów, więc możesz ciągle tworzyć jednostki. Ale uważaj na swój limit populacji!\n4.     Masz siły i budynki w różnych miejscach na mapie. Znajdź je, aby rozbudować swoją armię.\n5.     Zniszcz czerwony Cud, aby otrzymać dużą premię punktową!\n\nPoinformuj personel o swoim wyniku, gdy skończysz. Najwyższy wynik w Twojej grupie może otrzymać nagrodę!"
 72001,"Wyświetl swój profil Steam."
