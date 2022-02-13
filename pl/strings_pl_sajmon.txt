@@ -656,8 +656,8 @@
 5130,"Drwal"
 5131,"Wieśniak"
 5132,"Targowisko"
-5134,"Kopalnia złota"
-5139,"Kopalnia kamienia"
+5134,"Złoże złota"
+5139,"Złoże kamieni"
 5140,"Górnik złota"
 5141,"Górnik kamieni"
 5142,"Pocisk - Nuklearny"
@@ -690,15 +690,15 @@
 5172,"Łucznik kompozytowy"
 5173,"Balista"
 5174,"Rzut kamieniem"
-5175 "Katapulta"
-5176,"Kawaleria"
-5177 "Ciężka kawaleria"
+5175,"Katapulta"
+5176,"Jeździec"
+5177,"Ciężki jeździec"
 5178,"Łucznik konny"
 5179,"Rydwan"
 5180,"Łucznik rydwanów"
-5181,"Łucznik słoni"
+5181,"Łucznik na słoniu"
 5182,"Słoń bojowy"
-5183,"Clubman"
+5183,"Maczugista"
 5184,"Topornik"
 5185,"Krótki szermierz"
 5186,"Szeroki szermierz"
@@ -815,13 +815,13 @@
 5299,"Mała ściana"
 5300 "Wieża Strażnicza"
 5301,"Drzewo - Las palmowy"
-5302,"Drzewo - Palmowy Las"
+5302,"Drzewo - Las palmowy"
 5303,"Drzewo - Las palmowy"
-5304,"Drzewo - Palmowy Las"
-5305,"Drzewo - Sosnowy Las"
+5304,"Drzewo - Las palmowy"
+5305,"Drzewo - Las sosnowy"
 5306,"Drzewo - Las sosnowy"
-5307,"Drzewo - Sosnowy Las"
-5308,"Drzewo - Sosnowy Las"
+5307,"Drzewo - Las sosnowy"
+5308,"Drzewo - Las sosnowy"
 5309,"Bohater Jason"
 5310,"Ślepy kulawy kapłan"
 5311,"Niewidzialny Demon"
@@ -995,8 +995,8 @@
 6118,"Utwórz konia"
 6119,"Zbuduj dom (E)"
 6131,"Utwórz wieśniaka (C)"
-6132,"Rynek Budowy (M)"
-6133,"Rynek Budowy (M)"
+6132,"Targowisko Budowy (M)"
+6133,"Targowisko Budowy (M)"
 6153,"Kapłan Pociągu (T)"
 6154,"Zbuduj strzelnicę łuczniczą (A)"
 6155,"Utwórz wieśniaka (C)"
@@ -1015,7 +1015,7 @@
 6180,"Pociąg łuczników rydwanów (R)"
 6181,"Pociąg łucznika słoni (E)"
 6182,"Pociąg słonia bojowego (E)"
-6183,"Pociąg Clubman (T)"
+6183,"Pociąg Maczugista (T)"
 6184,"Pociąg Topornik (T)"
 6185,"Pociąg krótkiego szermierza (Z)"
 6186,"Pociąg szermierza (Z)"
@@ -1188,7 +1188,7 @@
 8050,"Uaktualnij do balisty nieużywany"
 8051,"Uaktualnij do Chariot Archer Nie używany"
 8052,"Ulepsz do Kawalerii Łucznik Nie używany"
-8053,"Uaktualnij do Elephant Archer Nie w użyciu"
+8053,"Uaktualnij do Łucznik na słoniu Nie w użyciu"
 8054,"Ulepsz do topora bojowego"
 8055,"Badania krótkiego miecza"
 8056,"Badania Brązowej Tarczy: +1 pancerz piechoty kontra broń rakietowa"
@@ -1896,7 +1896,7 @@
 13002,"Ziemianka"
 13003,"Port"
 13004,"Koszary"
-13005,"Rynek"
+13005,"Targowisko"
 13006,"Łucznictwo"
 13007,"Stajnia"
 13008,"Świątynia"
@@ -1913,18 +1913,18 @@
 13030,"Ustaw widok"
 13031,"Przejdź do widoku"
 
-//struny tantalu
-14000,"Kliknij, aby wrócić."
-14001,"Dodaj do scenariuszy w tej kampanii."
-14002,"Usuń ze scenariuszy w tej kampanii."
-14003,"Przenieś scenariusz w górę".
-14004,"Przenieś scenariusz w dół."
-14005,"Kliknij, aby odtworzenie folderów scenariuszy."
-14006 "Kliknij, aby odtworzenie folderu kampanii".
-14007,Kliknij, aby utworzyć firmę."
+//tantalus strings
+14000,"Kliknij, aby powrócić."
+14001,"Dodaj do scenariuszy tej kampanii."
+14002,"Usuń ze scenariuszy tej kampanii."
+14003,"Przesunąć scenariusz w górę."
+14004,"Przesuń scenariusz w dół."
+14005,"Kliknij, aby otworzyć folder scenariusza."
+14006,"Kliknij, aby otworzyć folder kampanii."
+14007,"Kliknij, aby rozpocząć kampanię."
 14008,"Kliknij, aby zresetować i ponownie zas."
-14009 "Kliknij, aby anulować".
-14010,"Kliknij, aby grę."
+14009,"Kliknij, aby anulować."
+14010,"Kliknij, aby utworzyć grę."
 14011 "Zezwól wdową".
 14012,"Kliknij, aby usunąć."
 14013,"Kliknij, aby zresetować do wersji klasycznej".
@@ -2353,7 +2353,7 @@
 19234,"Centrum Rządowe"
 19235,"Flara"
 19236,"Spichlerz"
-19237 "Rynek"
+19237 "Targowisko"
 19238,"Centrum miasta"
 19239,"Odznacz"
 19240,"Anuluj"
@@ -2657,7 +2657,7 @@
 20110,"Stajnie"
 20111,"Warsztat oblężniczy"
 20112,"Świątynia"
-20113,"Rynek"
+20113,"Targowisko"
 20114,"Jednostki wojskowe"
 20115,"Zamek"
 20116,"Formacja"
@@ -2704,7 +2704,7 @@
 24056,"zasoby"
 24057,"zasoby"
 24059,"wieśniacy"
-24060 "Rynek"
+24060 "Targowisko"
 24062,"zasoby"
 24067,"zasoby"
 24081,"Mnicz"
@@ -2893,7 +2893,7 @@
 26965,"Nieśmiertelny Minoa.ai"
 26966,"Nieśmiertelna Sumeria.ai"
 26967,"Nieśmiertelny Yamato.ai"
-26968,"Asyria Ballista.ai"
+26968,"Asyria Balista.ai"
 26969,"Asyria Bowmen.ai"
 26970,"Babilońscy szermierze.ai"
 26971,"Babilońscy harcerze.ai"
@@ -2910,7 +2910,7 @@
 26982,"Ciężka kawaleria Shang.ai"
 26983,"Kawaleria Szang.ai"
 26984,"Shang Clubmen.ai"
-26985,"Sumeria Catapults.ai"
+26985,"Sumeria Katapultas.ai"
 26986,"Sumeria Scouts.ai"
 26987,"Ciężka kawaleria Yamato.ai"
 26988,"Mecz śmierci Asyria Water.ai"
@@ -3287,7 +3287,7 @@
 39645 "Łączy punkty wytrzymałości słonia bojowego z siłą ataku i zasięgiem łucznika kompozytowego".
 39646 "Jednostka kawalerii z wieloma punktami wytrzymałości i specjalną siłą ataku. Zadaje obrażenia sąsiednim wrogim jednostkom."
 39647 "Prosty wojownik uzbrojony w kolczastą maczugę".
-39648,"Ulepszenie Clubmana. Topornik ma więcej punktów wytrzymałości i siły ataku niż Clubman."
+39648,"Ulepszenie Maczugistaa. Topornik ma więcej punktów wytrzymałości i siły ataku niż Maczugista."
 39649,"Lekki szermierz z większą liczbą punktów wytrzymałości, siłą ataku i zbroją niż wcześniejsza piechota."
 39650,"Ulepszenie krótkiego szermierza. Szeroki szermierz ma więcej punktów wytrzymałości, siły ataku i pancerza".
 39651,"Ulepszenie szerokiego szermierza. Długi miecz ma więcej punktów wytrzymałości, siły ataku i pancerza."
@@ -3414,7 +3414,7 @@
 40644,"Kliknij, aby wyszkolić łucznika rydwanów".
 40645 "Kliknij, aby wyszkolić Łucznika Słoni".
 40646 "Kliknij, aby wyszkolić słonia bojowego".
-40647 "Kliknij, aby wyszkolić Clubmana".
+40647 "Kliknij, aby wyszkolić Maczugistaa".
 40648,"Kliknij, aby wyszkolić Siekiernika".
 40649,"Kliknij, aby wyszkolić krótkiego szermierza".
 40650 "Kliknij, aby wyszkolić szerokiego szermierza".
@@ -3494,7 +3494,7 @@
 41514,"Kliknij, aby uaktualnić do balisty".
 41515,"Kliknij, aby ulepszyć do Chariot Archer."
 41516,"Kliknij, aby ulepszyć do Kawalerii Łucznika."
-41517,"Kliknij, aby uaktualnić do Elephant Archer".
+41517,"Kliknij, aby uaktualnić do Łucznik na słoniu".
 41518,"Kliknij, aby uaktualnić do Battle Axe".
 41519,"Kliknij, aby zbadać Krótki miecz".
 41520,"Kliknij, aby uaktualnić do Bronze Shield".
@@ -3895,7 +3895,7 @@
 61362,"Helepolis"
 61363,"Ciężka katapulta"
 61364,"Koszary"
-61365,"Clubman"
+61365,"Maczugista"
 61366,"Procarze"
 61367,"Topornik"
 61368,"Krótki szermierz"
@@ -3924,7 +3924,7 @@
 61391,"Słoń bojowy"
 61392,"Katafrakt"
 61393,"Słoń pancerny"
-61394,"Rynek"
+61394,"Targowisko"
 61395,"Obróbka drewna"
 61396,"Wydobycie kamienia"
 61397,"Wydobywanie złota"
@@ -4870,7 +4870,7 @@ jego brat Hazdrubal był zaangażowany w wojnę z Rzymem. W 207 p.n.e. Hazdrubal
 70750,"Zama, 202 p.n.e.\n\nPublius Scipio, twoje nieubłagane zwycięstwa nad sojusznikami Kartaginy przyniosły ci sławę, ale czekają cię większe triumfy! Z Hiszpanią i jej iberyjskimi plemionami ujarzmionymi przez twoje legiony, odważyłeś się przez morze do gorących piasków Afryka może zagrozić Kartaginie. Twój hazard się powiódł — Hannibal porzucił swoją włoską kampanię, by rzucić się w obronę swojej ojczyzny. Kartagińczycy są liczni i będą walczyć z determinacją mężczyzn broniących swoich domów, ale ty masz w grze jeszcze jeden gambit . Król Massinissa z numidyjskich plemion pustynnych zdradził Hannibala i wspiera twoich pomocników swoimi jeźdźcami. Pokonaj Hannibala na polu bitwy pod Zamą, a Kartagina wreszcie pozna cenę pokonania Rzymu!\n\nCele:\n• Zniszcz trzy doki w trybie Kartagina"s port\n• Zabierz Scypiona do niebieskich flag na Forum Byrsa w Kartaginie"
 70751,"1. Dotarcie do obozów numidyjskich zapewni Ci ciężkie łuczniki konne.\n2. Hannibal polega na zasobach zebranych na zachód od Kartaginy. Zniszczenie jego obozów w końcu pozbawi go zasobów potrzebnych do szkolenia jego armii.\n3. Grupa kapłanów może odwrócić losy każdej bitwy przeciwko słoniom bojowym i falangom".
 70752,"Hannibal został pokonany, a przywódcy Kartaginy błagają Rzym o pokój i przebaczenie. Aby uczcić twoje wielkie zwycięstwo pod Zamą, Senat nadał ci imię Africanus. Rzym wkrótce zwróci swój wzrok na północ i wschód. nowe zwycięstwa, ale na razie cały Rzym świętuje twój triumf, Scypionie Afrykańskim!
-70753,"Twoja porażka w bitwie pod Zamą rozczarowuje Rzym. Kartagińczycy są odmłodzeni i bardziej niebezpieczni niż kiedykolwiek. Hannibal przygotował kolejną armię do inwazji na Włochy, a Senat obawia się, że o wiele więcej Rzymian zginie w przegranej wojnie. Rzym wymaga, abyś zgłosił się do Catapult Unit XIV, gdzie będziesz miał kolejną okazję do wywarcia wpływu na Kartagińczyków.
+70753,"Twoja porażka w bitwie pod Zamą rozczarowuje Rzym. Kartagińczycy są odmłodzeni i bardziej niebezpieczni niż kiedykolwiek. Hannibal przygotował kolejną armię do inwazji na Włochy, a Senat obawia się, że o wiele więcej Rzymian zginie w przegranej wojnie. Rzym wymaga, abyś zgłosił się do Katapulta Unit XIV, gdzie będziesz miał kolejną okazję do wywarcia wpływu na Kartagińczyków.
 Scypion słynął z humanitarnego traktowania więźniów. Rzymski historyk Liwiusz pisze, że wojska rzymskie schwytały piękną miejscową kobietę i ofiarowały ją swemu dowódcy jako nagrodę wojenną. Scypion odkrył, że kobieta została zaręczona z miejscowym wodzem i zwrócił ją narzeczonemu wraz z pieniędzmi, które zaoferowano jako okup. W zamian wódz przyrzekł swoim wojownikom wsparcie Scypiona. Takie działania humanitarne pomogły przedstawić Rzym jako wyzwolicieli zamiast zdobywców i zachęciły lokalnych wodzów do zaopatrzenia i wzmocnienia rzymskiej armii.\n\nPo udanej okupacji Hiszpanii Scypion powrócił do Rzymu z zamiarem udania się do Afryki i zaprowadzenia wojny na ziemie Kartaginy. Jednak kierownictwo senatu zaczęło zazdrościć Scypionowi i podejrzliwie odnosiło się do jego intencji. Senat odmówił wsparcia Scypiona dodatkowymi oddziałami poza małym garnizonem na Sycylii, które to stanowisko zarezerwowane było zwykle dla zhańbionych ocalałych z rzymskich klęsk. Generał dokładnie wyszkolił tych ludzi i zawarł sojusz z królem Masynissą, władcą berberyjskiego królestwa numidyjskiego w Afryce Północnej i niegdysiejszym sojusznikiem Kartaginy. Bez wsparcia Senatu, poza pozwoleniem na wypłynięcie do Afryki, Scypion odleciał.\n\nPojawienie się rzymskiej armii w pobliżu Kartaginy spowodowało, że Hannibal porzucił kampanię włoską. Wracając do Afryki, armia Hannibala spotkała siły Scypiona na równinie Zama, niedaleko Kartaginy. W następnej bitwie Hannibal wysłał swoje słonie, aby zaatakowały rzymskie linie, ale Scypion przygotował się na nie. Rozkazał swojej kawalerii zadąć w głośne trąby, które wywołały panikę wśród słoni. Kazał też swoim ludziom otworzyć luki w linii bojowej, podejrzewając, że słonie zostaną przez nie zwabione, co pozwoli na odcięcie ich z boków. Ta taktyka zadziałała, neutralizując przewagę Hannibala. Scypion następnie wysłał swoje legiony do przodu przeciwko liniom Kartaginy. Po zaciekłej bitwie Scypion zwyciężył i zgodził się na łagodne warunki pokojowe z Kartagińczykami, ku gniewowi senatorów w Rzymie, którzy woleli surowsze kary dla swojego wroga. Scypion powrócił do Rzymu i został uhonorowany imieniem Africanus, upamiętniającym jego zwycięstwo w Afryce". Scypion zwyciężył i zgodził się na łagodne warunki pokojowe z Kartagińczykami, ku gniewowi senatorów w Rzymie, którzy woleli surowsze kary dla wroga. Scypion powrócił do Rzymu i został uhonorowany imieniem Africanus, upamiętniającym jego zwycięstwo w Afryce". Scypion zwyciężył i zgodził się na łagodne warunki pokojowe z Kartagińczykami, ku gniewowi senatorów w Rzymie, którzy woleli surowsze kary dla wroga. Scypion powrócił do Rzymu i został uhonorowany imieniem Africanus, upamiętniającym jego zwycięstwo w Afryce".
 
 70760,"Grecja i Pont, 89 do 63 p.n.e.\n\nMitrydates, przebiegły król Pontu, rozszerzył swoje królestwo na wybrzeżu Morza Czarnego kosztem sojuszników Rzymu w Anatolii. Twierdząc, że pochodzi zarówno od Aleksandra, jak i od perskiego króla Cyrusa Wielki, podżegał Greków i mieszkańców Wschodu do buntu przeciwko naszym interesom, a nawet zawarł sojusz z potężnym Tigranesem, królem Artaxiad Armenii.Senat wysyła cię z legionami, aby przywrócić nasze wschodnie posiadłości i upokorzyć to tak- zwany Królem Królów.\n\nCele:\n• Zniszcz Cud Pontu".
