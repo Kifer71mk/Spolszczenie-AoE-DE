@@ -554,9 +554,9 @@
 5009,"Łódź rybacka"
 5010,"Statek rybacki"
 5011,"Łódź handlowa"
-5012,"Statek kupiecki"
-5013,"Transport lekki"
-5014,"Transport ciężki"
+5012,"Statek handlowy"
+5013,"Lekki transportowiec"
+5014,"Transportowiec"
 5015,"Statek zwiadowczy"
 5016,"Galera wojenna"
 5017,"Trirema"
@@ -1637,24 +1637,24 @@
 10107,"Losowo"
 10211,"Komputer"
 10212,"Albo"
-10231,"Egipcjanie"
-10232,"Grecja"
-10233,"Babilończycy"
-10234,"Asyryjczycy"
-10235,"Minojczycy"
-10236,"Hetyci"
-10237,"Fenicjanie"
-10238,"Sumerowie"
-10239,"Persowie"
-10240,"Chińczycy"
-10241,"Japończycy"
-10242,"Koreańczycy"
+10231,"Egipcjanie"//Egyptian
+10232,"Grecy"//Greek
+10233,"Babilończycy"//Babylonian
+10234,"Asyryjczycy"//Assyrian
+10235,"Minojczycy"//Minoan
+10236,"Hetyci"//Hittite
+10237,"Fenicjanie"//Phoenician
+10238,"Sumerowie"//Sumerian
+10239,"Persowie"//Persian
+10240,"Shang"//
+10241,"Yamato"//
+10242,"Choson"//
 10244,"Nieznany"
 10245,"Nazwa plemienia"
-10246,"Rzymianie"
-10247,"Kartagińczycy"
-10248,"Macedończycy"
-10249 "Palmyrczycy"
+10246,"Rzymianie"//Roman
+10247,"Kartagińczycy"//Carthaginian
+10248,"Macedończycy"//Macedonian
+10249,"Palmyrczycy"//Palmyran
 10250,"Losowo"
 10251,"Żywność"
 10252,"Drewno"
@@ -1680,14 +1680,16 @@
 10328,"Zniszcz wszystkie obiekty"
 10329,"Zniszcz gracza"
 10330,"Przechwytywanie obiektu"
-10331,"Zapas złota"
-10332,"Zapas żywności"
-10333,"Skład drewna"
-10334,"Skład Kamienia"
-10335,"Populacja"
-10336,"Wiek"
-10337,"Eksploracja"
-10338,"Inne atrybuty"
+10331," Zapasy złota"
+10332," Zapasy żywności"
+10333," Zapasy drewna"
+10334," Zapasy kamienia"
+
+10335," Populacja"
+10336," Era"
+10337," Eksploracja"
+10338," Other Attributes"
+
 10340,"Liczba graczy"
 10341,"Gracz 1"
 10342,"Gracz 2"
