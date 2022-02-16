@@ -854,7 +854,7 @@
 5350,"Procarz"
 5351,"Jeździec wielbłądzi"
 5352,"Galera ogniowa"
-5353,"Rydwan z kosą"
+5353,"Rydwan z kosami"
 5354,"Słoń pancerny"
 5355,"Krokodyl (Alfa)"
 5356,"Bohater Hannibal"
