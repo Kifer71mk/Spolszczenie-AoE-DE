@@ -1205,9 +1205,9 @@
 8066,"Przejście do Epoki Republiki Nieużywane"
 8067,"Uaktualnij do szerokiego miecza"
 8068,"Odkryj Obróbkę drewna: Drwale pracują szybciej i przenoszą +2 drewna; +1 zasięgu broni miotającej"
-8069,"Badanie wydobycia złota: Górnicy złota pracują szybciej i mają +3 złota"
-8070,"Research Stone Mining: Stone Miners pracują szybciej i niosą +3 kamień; +1 atak/zasięg Proca"
-8071,"Research Craftsmanship: Drwale pracują szybciej i mają +2 drewna; +1 zasięg broni rakietowej; wymagane dla Helepolis"
+8069,"Odkryj Wydobywanie złota: Górnicy pracują szybciej i przenoszą +3 złota"
+8070,"Odkryj Wydobywanie kamienia: Górnicy pracują szybciej i przenoszą +3 kamienia; +1 ataku/zasięgu Procarza"
+8071,"Odkryj Rzemiosło zaawansowane: Drwale pracują szybciej i przenoszą +2 drewna; +1 zasięgu broni miotającej; wymagane do tworzenia Helepolis"
 8072,"Research Siegecraft: Stone Miners pracują szybciej i niosą +3 kamień; Wieśniacy mają dodatkowy atak przeciwko wieżom/murom; +1 atak/zasięg Proca; wymagane dla Ciężkiej Katapulty"
 8073,"Architektura badawcza: -33% czasu budowy; +20% punktów wytrzymałości budynków/ścian"
 8074,"Badanie arystokracji: jednostki Akademii poruszają się o 25% szybciej; wymagane dla Centuriona"
@@ -3229,7 +3229,7 @@
 39549 "Można polować na jedzenie".
 39550 "Można polować na jedzenie".
 39551,"Poznaje mapę".
-39552 "Zapewnia skończoną ilość żywności, którą może zebrać wieśniak. Farmy w końcu muszą zostać przesadzone."
+39552,"Zapewnia ograniczoną ilość żywności, którą może zebrać Wieśniak. Farmy po wyczerpaniu stworzonej żywności muszą być ponownie obsiane."
 39553 "Zbiera żywność z farmy".
 39557 "Można łowić na żywność".
 39558 "Można łowić na żywność".
@@ -3264,16 +3264,16 @@
 39606,"opis"
 39607,"Ostateczna wieża. Ulepszenie wieży strażniczej. Wieża balisty ma większą siłę ataku niż wieża strażnicza."
 39608,"Ulepszenie triremy katapultowej. Juggernaught ma więcej punktów wytrzymałości i zasięgu."
-39609,"Ulepszenie balisty. Helepolis ma większy zasięg i większą szybkostrzelność."
-39610,"Ulepszenie katapulty. Ciężka katapulta ma o wiele więcej punktów wytrzymałości i większy zasięg".
+39609,"Ulepszenie Balisty. Helepolis ma większy zasięg i szybkostrzelność."
+39610,"Ulepszenie katapulty. Ciężka katapulta ma o wiele więcej punktów wytrzymałości i większy zasięg"
 39611,"Ulepszenie Konnego Łucznika. Ciężki Konny Łucznik ma więcej punktów wytrzymałości i siły ataku."
 39612,"Ulepszenie Piechura ze spathą. Legionista to najlepsza jednostka piechoty. Ma o wiele więcej punktów wytrzymałości i większą siłę ataku niż Piechur ze spathą."
-39613,"Ulepszenie Ciężkiej Kawalerii. Katafrakt jest najlepszą jednostką kawalerii. Ma więcej punktów wytrzymałości, siły ataku i pancerza niż Ciężka Kawaleria."
-39614,"Ulepszenie Falangi. Centurion jest ostateczną elitarną jednostką piechoty. Ma więcej punktów wytrzymałości, siły ataku i pancerza niż Falanga."
+39613,"Ulepszenie Ciężkiego jeźdźca. Katafrakt to najlepsza jednostka kawalerii. Ma więcej punktów wytrzymałości, siły ataku i mocniejszy pancerz niż Ciężki jeździec."
+39614,"Ulepszenie Falangisty. Centurion to najlepsza elitarna jednostka piechoty. Ma więcej punktów wytrzymałości, siły ataku i mocniejszy pancerz niż Falangista."
 39617,"Leczy przyjazne i sojusznicze jednostki oraz nawraca jednostki wroga."
 39618,"Służy do szkolenia różnych pieszych i konnych łuczników. Wymagana do budowy Warsztatów Oblężniczych."
 39619 "Naprawia budynki i łodzie uszkodzone w walce".
-39624,"Ulepszenie Wieży Strażniczej. Wieża Strażnicza ma więcej punktów wytrzymałości, siły ataku i zasięgu."
+39624,"Ulepszenie Wieży obserwacyjnej. Wieża wartownicza ma więcej punktów wytrzymałości, siły ataku i zasięgu."
 39625,"Woda przepuszczalna dla mieszkańców wsi, jednostek wojskowych i łodzi".
 39626,"Używany do budowy machin oblężniczych, które są wolniejsze niż inne jednostki, ale mają potężne ataki dalekiego zasięgu."
 39634,"Prymitywna jednostka dystansowa. Łucznika nie można ulepszyć, ale można go szybko i tanio wyszkolić."
