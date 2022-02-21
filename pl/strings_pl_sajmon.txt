@@ -1962,7 +1962,7 @@
 14042,"Ustawienia graficzne"
 14043,"Ustawienia gry wieloosobowej"
 14044,"ustawienie"
-14045,"Opcje wieloosobowej"
+14045,"Ustawienia gry wieloosobowej"
 14046,"Mowa tekstowa"
 14047,"Gra między platformowa"
 14048,"Profil Xbox Live"

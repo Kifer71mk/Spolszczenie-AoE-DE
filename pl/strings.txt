@@ -1746,7 +1746,7 @@
 10618,"Oaza"
 10619,"Rzeki"
 10620,"Losowo"
-10621,"Grass"
+10621,"Trawa"
 10622,"Desert"
 10623,"Forest"
 10624,"Water"
