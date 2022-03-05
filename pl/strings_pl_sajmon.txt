@@ -992,7 +992,7 @@
 6106,"Zbuduj Centrum rządowe (C)"
 6107,"Zbuduj Spichlerz (G)"
 6117,"Zbuduj Wieżę strażniczą (T)"
-6118,"Utwórz konia"
+6118,"Stwórz konia"
 6119,"Zbuduj Dom (E)"
 6131,"Stwórz Wieśniaka (C)"
 6132,"Zbuduj Targowisko (M)"
@@ -2276,22 +2276,22 @@
 19011,"Wyświetl ekran statystyk"
 19012,"Garnizon"
 19021,"Wybierz wszystkich bezczynnych wieśniaków"
-19022,"Wybierz wszystkie bezczynne wojsko"
-19023,"Przejdź do bezczynnego wieśniaka"
-19024,"Przejdź do ostatniego zbiornika"
-19025,"Przejdź do pomieszczenia obiektu"
+19022,"Wybierz wszystkie bezczynne jednostki wojskowe"
+19023,"Przejdź do następnego bezczynnego wieśniaka"
+19024,"Przejdź do ostatniego powiadomienia"
+19025,"Przejdź do wybranego obiektu"
 19026,"Idź do Centrum miasta"
-19027,"Idź do rynku"
-19028,"Przejrzyj wiadomości czatu wstecz"
-19029,"Przejrzyj wiadomości czatu dalej"
-19030,"Kawaleria, Katafrakt"
+19027,"Idź do Targowiska"
+19028,"Przeglądanie wiadomości czatu wstecz"
+19029,"Przeglądanie wiadomości czatu do przodu"
+19030,"Jeździec, Katafrakt"
 19031,"Rydwany"
-19032,"Jeździec na wielbłądzie"
-19034,"Miecznicy, Legioniści"
-19035,"Wojownik z maczugą, Topornik"
+19032,"Jeździec wielbłądzi"
+19034,"Szermierze, Legioniści"
+19035,"Maczugista, Topornik"
 19038,"Łucznik"
 19040,"Łucznik na słoniu"
-19041,"Łucznik na rydwanie"
+19041,"Rydwan z łucznikiem"
 19043,"Ulepszony/kompozytowy łucznik"
 19044","
 19045,"Łódź rybacka/statek"
@@ -2445,68 +2445,68 @@
 19326,"Wróć do tego widoku"
 19327,"Switch przyjaciela przyjaciela lub wroga"
 19328,"Zapisz rozdział"
-19329,"Utwórz grupę #10"
-19330 "Wybierz grupę nr 10"
-19331,"Utwórz grupę #11"
-19332,"Utwórz grupę #12"
-19333,"Utwórz grupę #13"
-19334,"Utwórz grupę #14"
+19329,"Utwórz grupę nr 10"
+19330,"Wybierz grupę nr 10"
+19331,"Utwórz grupę nr 11"
+19332,"Utwórz grupę nr 12"
+19333,"Utwórz grupę nr 13"
+19334,"Utwórz grupę nr 14"
 19335,"Utwórz grupę nr 15"
-19336,"Utwórz grupę #16"
-19337,"Utwórz grupę #17"
-19338,"Utwórz grupę #18"
+19336,"Utwórz grupę nr 16"
+19337,"Utwórz grupę nr 17"
+19338,"Utwórz grupę nr 18"
 19339,"Utwórz grupę nr 19"
-19340 "Utwórz grupę 20"
+19340,"Utwórz grupę nr 20"
 19341,"Wybierz grupę nr 11"
-19342,"Wybierz grupę #12"
-19343 "Wybierz grupę nr 13"
-19344,"Wybierz grupę #14"
-19345 "Wybierz grupę nr 15"
-19346 "Wybierz grupę nr 16"
-19347 "Wybierz grupę nr 17"
-19348 "Wybierz grupę nr 18"
-19349 "Wybierz grupę nr 19"
-19350 "Wybierz grupę nr 20"
-19351,"Wybierz grupę nr 01"
-19352 "Wybierz grupę nr 02"
-19353 "Wybierz grupę nr 03"
-19354,"Wybierz grupę nr 04"
-19355 "Wybierz grupę nr 05"
-19356 "Wybierz grupę nr 06"
-19357 "Wybierz grupę nr 07"
-19358 "Wybierz grupę nr 08"
-19359 "Wybierz grupę nr 09"
-19360 "Wybierz grupę nr 10"
-19361,"Wybierz grupę #11"
-19362 "Wybierz grupę nr 12"
-19363 "Wybierz grupę nr 13"
-19364,"Wybierz grupę #14"
-19365 "Wybierz grupę nr 15"
-19366 "Wybierz grupę nr 16"
-19367 "Wybierz grupę nr 17"
-19368 "Wybierz grupę nr 18"
-19369 "Wybierz grupę nr 19"
-19370 "Wybierz grupę nr 20"
+19342,"Wybierz grupę nr 12"
+19343,"Wybierz grupę nr 13"
+19344,"Wybierz grupę nr 14"
+19345,"Wybierz grupę nr 15"
+19346,"Wybierz grupę nr 16"
+19347,"Wybierz grupę nr 17"
+19348,"Wybierz grupę nr 18"
+19349,"Wybierz grupę nr 19"
+19350,"Wybierz grupę nr 20"
+19351,"Połącz w grupę nr 01"
+19352,"Połącz w grupę nr 02"
+19353,"Połącz w grupę nr 03"
+19354,"Połącz w grupę nr 04"
+19355,"Połącz w grupę nr 05"
+19356,"Połącz w grupę nr 06"
+19357,"Połącz w grupę nr 07"
+19358,"Połącz w grupę nr 08"
+19359,"Połącz w grupę nr 09"
+19360,"Połącz w grupę nr 10"
+19361,"Połącz w grupę nr 11"
+19362,"Połącz w grupę nr 12"
+19363,"Połącz w grupę nr 13"
+19364,"Połącz w grupę nr 14"
+19365,"Połącz w grupę nr 15"
+19366,"Połącz w grupę nr 16"
+19367,"Połącz w grupę nr 17"
+19368,"Połącz w grupę nr 18"
+19369,"Połącz w grupę nr 19"
+19370,"Połącz w grupę nr 20"
 19371,"Pokaż grupę nr 01"
 19372,"Pokaż grupę nr 02"
-19373 "Pokaż grupę nr 03"
+19373,"Pokaż grupę nr 03"
 19374,"Pokaż grupę nr 04"
-19375 "Pokaż grupę nr 05"
-19376 "Pokaż grupę nr 06"
-19377 "Pokaż grupę nr 07"
-19378 "Pokaż grupę nr 08"
-19379 "Pokaż grupę nr 09"
-19380 "Pokaż grupę nr 10"
-19381,"Pokaż grupę #11"
-19382,"Pokaż grupę #12"
-19383 "Pokaż grupę #13"
-19384,"Pokaż grupę #14"
-19385 "Pokaż grupę nr 15"
-19386 "Pokaż grupę nr 16"
-19387 "Pokaż grupę nr 17"
-19388 "Pokaż grupę nr 18"
-19389 "Pokaż grupę nr 19"
-19390 "Pokaż grupę nr 20"
+19375,"Pokaż grupę nr 05"
+19376,"Pokaż grupę nr 06"
+19377,"Pokaż grupę nr 07"
+19378,"Pokaż grupę nr 08"
+19379,"Pokaż grupę nr 09"
+19380,"Pokaż grupę nr 10"
+19381,"Pokaż grupę nr 11"
+19382,"Pokaż grupę nr 12"
+19383,"Pokaż grupę nr 13"
+19384,"Pokaż grupę nr 14"
+19385,"Pokaż grupę nr 15"
+19386,"Pokaż grupę nr 16"
+19387,"Pokaż grupę nr 17"
+19388,"Pokaż grupę nr 18"
+19389,"Pokaż grupę nr 19"
+19390,"Pokaż grupę nr 20"
 19391,"Atak w ruchu"
 19392,"Przełącz filtr mapy"
 19400,"Przybliż"
@@ -2607,10 +2607,10 @@
 19740,"Wybierz wszystkie Stajnie"
 19741,"Wybierz wszystkie Porty"
 19742,"Wybierz wszystkie Centra miast"
-19743,"Wybierz wszystkie centra rządowe"
-19744,"Wybierz wszystkie warsztaty oblężnicze"
-1975,"Wybierz wszystkie świątynie"
-19746,"Wybierz wszystkie uczelnie"
+19743,"Wybierz wszystkie Centra rządowe"
+19744,"Wybierz wszystkie Warsztaty oblężnicze"
+19745,"Wybierz wszystkie Świątynie"
+19746,"Wybierz wszystkie Akademie"
 19747,"Wybierz wszystkie składy zapasów"
 19748,"Wybierz wszystkie spichlerze"
 19749,"Wybierz wszystkie rynki"
@@ -2623,7 +2623,7 @@
 20013,"Menu"
 20015,"Czat"
 20017,"Dyplomacja"
-20019,"Mapa Diament"
+20019,"Minimapa"
 20021,"Era"
 20023,"Następny przycisk"
 20025,"Odznacz przycisk"
@@ -3388,100 +3388,100 @@
 40480,"Kliknij, aby zbudować Galerę wojenną."
 40481,"Kliknij, aby zbudować Trierę."
 40482,"Kliknij, aby zbudować Trierę katapultową."
-40501,"Kliknij, aby zbudować klif".
-40547,"Kliknij, aby zbudować Dock".
-40552 "Kliknij, aby zbudować farmę".
-40569 "Kliknij, aby zbudować Centrum Rządowe".
-40570 "Kliknij, aby zbudować Spichlerz".
-40581,"Kliknij, aby zbudować Wieżę Strażniczą."
-40583 "Kliknij, aby zbudować Dom".
+40501,"Kliknij, aby zbudować Klif."
+40547,"Kliknij, aby zbudować Port."
+40552,"Kliknij, aby zbudować Farmę."
+40569,"Kliknij, aby zbudować Centrum rządowe."
+40570,"Kliknij, aby zbudować Spichlerz."
+40581,"Kliknij, aby zbudować Wieżę strażniczą."
+40583,"Kliknij, aby zbudować Dom."
 40587,"Kliknij, aby wyszkolić Aleksandra".
 40588,"Kliknij, aby wyszkolić Amona Ra".
 40589,"Kliknij, aby wyszkolić Pereusa".
 40590,"Kliknij, aby wyszkolić Tyberiusza".
 40591,"Kliknij, aby wyszkolić Hectora".
-40595,"Kliknij, aby stworzyć wieśniaka".
-40596 "Kliknij, aby zbudować rynek".
-40617 "Kliknij, aby wyszkolić księdza".
-40618 "Kliknij, aby zbudować Strzelnicę Łuczniczą."
-40619,"Kliknij, aby stworzyć wieśniaka".
-40624 "Kliknij, aby zbudować Wieżę Strażniczą."
-40626 "Kliknij, aby zbudować Warsztat Oblężniczy."
-40634,"Kliknij, aby wyszkolić łucznika".
-40635,"Kliknij, aby wyszkolić Ulepszonego Łucznika."
-40636,"Kliknij, aby wyszkolić łucznika kompozytowego".
-40637 "Kliknij, aby zbudować balistę".
-40638,"Kliknij, aby zbudować miotacz kamieni".
-40639,"Kliknij, aby zbudować katapultę".
-40640,"Kliknij, aby wyszkolić kawalerię".
-40641,"Kliknij, aby wyszkolić ciężką kawalerię".
-40642,"Kliknij, aby wyszkolić łucznika konnego".
-40643 "Kliknij, aby wyszkolić rydwan."
-40644,"Kliknij, aby wyszkolić łucznika rydwanów".
-40645 "Kliknij, aby wyszkolić Łucznika Słoni".
-40646 "Kliknij, aby wyszkolić słonia bojowego".
-40647 "Kliknij, aby wyszkolić Maczugistaa".
-40648,"Kliknij, aby wyszkolić Siekiernika".
-40649,"Kliknij, aby wyszkolić krótkiego szermierza".
-40650 "Kliknij, aby wyszkolić szerokiego szermierza".
-40651,"Kliknij, aby wyszkolić Długiego Szermierza".
-40652,"Kliknij, aby wyszkolić hoplitę".
-40653 "Kliknij, aby wyszkolić falangę".
-40654,"Kliknij, aby wyszkolić Skauta".
-40656,"Kliknij, aby zbudować stajnię".
-40657,"Kliknij, aby zbudować dół magazynowy".
-40659 "Kliknij, aby zbudować Świątynię".
-40719 "Kliknij, aby zbudować centrum miasta".
+40595,"Kliknij, aby stworzyć Wieśniaka."
+40596,"Kliknij, aby zbudować Targowisko."
+40617,"Kliknij, aby stworzyć Kapłana."
+40618,"Kliknij, aby zbudować Strzelnicę."
+40619,"Kliknij, aby stworzyć Wieśniaka."
+40624,"Kliknij, aby zbudować Wieżę wartowniczą."
+40626,"Kliknij, aby zbudować Warsztat oblężniczy."
+40634,"Kliknij, aby stworzyć Łucznika."
+40635,"Kliknij, aby stworzyć Zaawansowanego łucznika."
+40636,"Kliknij, aby stworzyć Łucznika kompozytowego."
+40637,"Kliknij, aby zbudować Balistę."
+40638,"Kliknij, aby zbudować Miotacz kamieni."
+40639,"Kliknij, aby zbudować Katapultę."
+40640,"Kliknij, aby stworzyć Jeźdźca."
+40641,"Kliknij, aby stworzyć Ciężkiego jeźdźca."
+40642,"Kliknij, aby stworzyć Konnego łucznika."
+40643,"Kliknij, aby stworzyć Rydwan."
+40644,"Kliknij, aby stworzyć Rydwan z łucznikiem."
+40645,"Kliknij, aby stworzyć Łucznika na słoniu."
+40646,"Kliknij, aby stworzyć Słonia bojowego."
+40647,"Kliknij, aby stworzyć Maczugistę."
+40648,"Kliknij, aby stworzyć Topornika."
+40649,"Kliknij, aby stworzyć Piechura z gladiusem."
+40650,"Kliknij, aby stworzyć Piechura z falcatą."
+40651,"Kliknij, aby stworzyć Piechura ze spathą."
+40652,"Kliknij, aby stworzyć Hoplitę."
+40653,"Kliknij, aby stworzyć Falangistę."
+40654,"Kliknij, aby stworzyć Zwiadowcę."
+40656,"Kliknij, aby zbudować Stajnię."
+40657,"Kliknij, aby zbudować Ziemiankę."
+40659,"Kliknij, aby zbudować Świątynię."
+40719,"Kliknij, aby zbudować Centrum miasta."
 40722,"Kliknij, aby zbudować warsztat handlowy".
-40761,"Kliknij, aby zbudować mur obronny".
-40762,"Kliknij, aby zbudować średnią ścianę".
-40763,"Kliknij, aby zbudować małą ścianę".
-40764,"Kliknij, aby zbudować wieżę strażniczą".
-40798 "Kliknij, aby zbudować Cud".
-40799 "Kliknij, aby zbudować wieżę balisty".
-40800 "Kliknij, aby zbudować Juggernaughta".
-40801,"Kliknij, aby zbudować Helepolis".
-40802,"Kliknij, aby zbudować ciężką katapultę".
-40803,"Kliknij, aby wyszkolić Ciężkiego Łucznika Konnego."
-40804,"Kliknij, aby wyszkolić legion".
-40805,"Kliknij, aby wyszkolić katafrakta".
-40806,"Kliknij, aby wyszkolić Centuriona".
-40814,"Kliknij, aby wyszkolić procarza".
-40815,"Kliknij, aby wyszkolić jeźdźca na wielbłądach".
-40816 "Kliknij, aby zbudować galerę ogniową."
-40817,"Kliknij, aby wyszkolić rydwan z kosą".
-40818,"Kliknij, aby wyszkolić opancerzonego słonia".
-41465,"Kliknij, aby uaktualnić do Lekkiego Transportu."
-41468,"Kliknij, aby uaktualnić do statku rybackiego".
-41469,"Kliknij, aby uaktualnić do Galery Wojennej".
-41470 "Kliknij, aby uaktualnić do statku handlowego."
-41471,"Kliknij, aby uaktualnić do wersji Trireme".
-41472,"Kliknij, aby uaktualnić do transportu ciężkiego".
-41473,"Kliknij, aby zbadać triremę katapultową".
-41474,"Kliknij, aby zbadać Mały Mur".
-41475,"Kliknij, aby ulepszyć do Wieży Strażniczej".
-41476,"Kliknij, aby uaktualnić do średniej ściany".
-41477,"Kliknij, aby uaktualnić do Muru obronnego".
-41478,"Kliknij, aby ulepszyć do Wieży Strażniczej."
-41479 "Kliknij, aby zbadać Strażnicę".
-41480,"Kliknij, aby przyjąć astrologię".
-41481,"Kliknij, aby przyjąć politeizm".
-41482,"Kliknij, aby przyjąć monoteizm".
-41483,"Kliknij, aby przyjąć mistykę".
-41484,"Kliknij, aby przyjąć życie po śmierci".
-41485 "Kliknij, aby adoptować Zealotry".
-41486 "Kliknij, aby przyjąć fanatyzm".
-41487,"Kliknij, aby zbadać balistykę".
-41488,"Kliknij, aby zbadać Nawadnianie".
-41489,"Kliknij, aby zbadać Koło".
-41490,"Kliknij, aby zbadać Udomowienie".
-41491,"Kliknij, aby zbadać monety".
-41492,"Kliknij, aby zbadać Pług".
-41493,"Kliknij, aby zbadać Rzemiosło".
-41494,"Kliknij, aby zbadać Szlachtę".
-41495,"Kliknij, aby zbadać Inżynierię".
-41496,"Kliknij, aby zbadać matematykę".
-41497,"Kliknij, aby zbadać Alchemię".
+40761,"Kliknij, aby zbudować Umocniony mur."
+40762,"Kliknij, aby zbudować Średni mur."
+40763,"Kliknij, aby zbudować Mały mur."
+40764,"Kliknij, aby zbudować Wieżę obserwacyjną."
+40798,"Kliknij, aby zbudować Cud."
+40799,"Kliknij, aby zbudować Wieżę z balistą."
+40800,"Kliknij, aby zbudować Ciężkę trierę katapultową."
+40801,"Kliknij, aby zbudować Helepolis."
+40802,"Kliknij, aby zbudować Ciężką katapultę."
+40803,"Kliknij, aby stworzyć Ciężkiego konnego łucznika."
+40804,"Kliknij, aby stworzyć Legionistę."
+40805,"Kliknij, aby stworzyć Katafrakt."
+40806,"Kliknij, aby stworzyć Centuriona."
+40814,"Kliknij, aby stworzyć Procarza."
+40815,"Kliknij, aby stworzyć Jeźdźca wielbłądziego."
+40816,"Kliknij, aby zbudować Galerę ogniową."
+40817,"Kliknij, aby stworzyć Rydwan z kosami."
+40818,"Kliknij, aby stworzyć Słonia pancernego."
+41465,"Kliknij, aby ulepszyć do Łodzi transportowej."
+41468,"Kliknij, aby ulepszyć do Statku rybackiego."
+41469,"Kliknij, aby ulepszyć do Galery wojennej."
+41470,"Kliknij, aby ulepszyć do Statku handlowego."
+41471,"Kliknij, aby ulepszyć do Triery."
+41472,"Kliknij, aby ulepszyć do Statku transportowego."
+41473,"Kliknij, aby odkryć Trierę katapultową."
+41474,"Kliknij, aby odkryć Mały mur."
+41475,"Kliknij, aby ulepszyć do Wieży wartowniczej."
+41476,"Kliknij, aby ulepszyć do Średniego muru."
+41477,"Kliknij, aby ulepszyć do Umocnionego muru."
+41478,"Kliknij, aby ulepszyć do Wieży strażniczej."
+41479,"Kliknij, aby odkryć Wieżę obserwacyjną."
+41480,"Kliknij, aby zaadoptować Astrologię."
+41481,"Kliknij, aby zaadoptować Politeizm."
+41482,"Kliknij, aby zaadoptować Monoteizm."
+41483,"Kliknij, aby zaadoptować Mistycyzm."
+41484,"Kliknij, aby zaadoptować Życie pozagrobowe."
+41485,"Kliknij, aby zaadoptować Zelotyzm."
+41486,"Kliknij, aby zaadoptować Fanatyzm."
+41487,"Kliknij, aby odkryć Balistykę."
+41488,"Kliknij, aby odkryć Nawadnianie."
+41489,"Kliknij, aby odkryć Koło."
+41490,"Kliknij, aby odkryć Udomowienie."
+41491,"Kliknij, aby odkryć Mennictwo."
+41492,"Kliknij, aby odkryć Pług."
+41493,"Kliknij, aby odkryć Rzemiosło."
+41494,"Kliknij, aby odkryć Szlachtę."
+41495,"Kliknij, aby odkryć Inżynierię."
+41496,"Kliknij, aby odkryć Matematykę."
+41497,"Kliknij, aby odkryć Alchemię."
 41499,"Kliknij, aby zbadać Skórzane Zbroje dla Piechoty".
 41500,"Kliknij, aby zbadać Skórzane Zbroje dla Łuczników".
 41501,"Kliknij, aby zbadać Skórzany Zbroja dla Kawalerii".
