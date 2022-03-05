@@ -3482,55 +3482,55 @@
 41495,"Kliknij, aby odkryć Inżynierię."
 41496,"Kliknij, aby odkryć Matematykę."
 41497,"Kliknij, aby odkryć Alchemię."
-41499,"Kliknij, aby zbadać Skórzane Zbroje dla Piechoty".
-41500,"Kliknij, aby zbadać Skórzane Zbroje dla Łuczników".
-41501,"Kliknij, aby zbadać Skórzany Zbroja dla Kawalerii".
-41502,"Kliknij, aby zbadać pancerz łuskowy dla piechoty".
-41503,"Kliknij, aby zbadać Zbroję Łuskową dla Łuczników."
-41504,"Kliknij, aby zbadać Zbroję Łuskową dla Kawalerii".
-41505,"Kliknij, aby zbadać Obróbka narzędzi".
-41506,"Kliknij, aby zbadać Kolczugę dla piechoty."
-41507,"Kliknij, aby zbadać Kolczugę dla łuczników."
-41508,"Kliknij, aby zbadać Kolczugę dla Kawalerii."
-41509,"Kliknij, aby zbadać Obróbkę metali".
-41510,"Kliknij, aby zbadać metalurgię".
-41511 "Kliknij, aby ulepszyć do Ciężkiej Katapulty."
-41512,"Kliknij, aby zbadać Ulepszony łuk".
-41513,"Kliknij, aby uaktualnić do łuku kompozytowego".
-41514,"Kliknij, aby uaktualnić do balisty".
-41515,"Kliknij, aby ulepszyć do Chariot Archer."
-41516,"Kliknij, aby ulepszyć do Kawalerii Łucznika."
-41517,"Kliknij, aby uaktualnić do Łucznik na słoniu".
-41518,"Kliknij, aby uaktualnić do Battle Axe".
-41519,"Kliknij, aby zbadać Krótki miecz".
-41520,"Kliknij, aby uaktualnić do Bronze Shield".
-41521,"Kliknij, aby uaktualnić do Długiego Miecza."
-41522,"Kliknij, aby uaktualnić do Chariot."
-41523,"Kliknij, aby zbadać kawalerię".
-41524,"Kliknij, aby uaktualnić do Słonia bojowego".
-41525,"Kliknij, aby ulepszyć do ciężkiej kawalerii".
-41526 "Kliknij, aby uaktualnić do Phalanx".
-41527 "Kliknij, aby przejść do wieku narzędzia."
-41528 "Kliknij, aby przejść do epoki brązu".
-41529,"Kliknij, aby przejść do epoki żelaza".
-41531,"Kliknij, aby uaktualnić do Broad Sword".
-41532,"Kliknij, aby zbadać stolarstwo".
-41533,"Kliknij, aby zbadać wydobycie złota".
-41534,"Kliknij, aby zbadać górnictwo kamienia".
-41535,"Kliknij, aby zbadać Rzemiosło".
-41536,"Kliknij, aby zbadać Siegecraft".
-41537,"Kliknij, aby zbadać architekturę".
-41538,"Kliknij, aby zbadać arystokrację".
-41539,"Kliknij, aby zbadać pisanie".
-41542,"Kliknij, aby ulepszyć do Żelaznej Tarczy".
-41543,"Kliknij, aby ulepszyć do wieży balisty".
-41544,"Kliknij, aby uaktualnić do Juggernaught".
-41545 "Kliknij, aby uaktualnić do Helepolis".
-41546,"Kliknij, aby ulepszyć do Ciężkiej Katapulty".
-41547,"Kliknij, aby ulepszyć do Ciężkiego Łucznika Konnego."
-41548,"Kliknij, aby ulepszyć do Legionu".
-41549,"Kliknij, aby uaktualnić do katafrakta".
-41550,"Kliknij, aby uaktualnić do Centuriona".
+41499,"Kliknij, aby odkryć Zbroję skórzaną piechoty."
+41500,"Kliknij, aby odkryć Zbroję skórzaną łuczników."
+41501,"Kliknij, aby odkryć Zbroję skórzaną kawalerii."
+41502,"Kliknij, aby odkryć Zbroję łuskową piechoty."
+41503,"Kliknij, aby odkryć Zbroję łuskową łuczników."
+41504,"Kliknij, aby odkryć Zbroję łuskową kawalerii."
+41505,"Kliknij, aby odkryć Obróbkę narzędzi."
+41506,"Kliknij, aby odkryć Kolczugę piechoty."
+41507,"Kliknij, aby odkryć Kolczugę łuczników."
+41508,"Kliknij, aby odkryć Kolczugę kawalerii."
+41509,"Kliknij, aby odkryć Obróbkę metali."
+41510,"Kliknij, aby odkryć Metalurgię."
+41511,"Kliknij, aby ulepszyć do Ciężkiej katapulty."
+41512,"Kliknij, aby odkryć Ulepszony łuk."
+41513,"Kliknij, aby ulepszyć do Łuku kompozytowego."
+41514,"Kliknij, aby ulepszyć do Balisty."
+41515,"Kliknij, aby ulepszyć do Rydwanu z łucznikiem."
+41516,"Kliknij, aby ulepszyć do Konnego łucznika."
+41517,"Kliknij, aby ulepszyć do Łucznika na słoniu."
+41518,"Kliknij, aby ulepszyć do Topora bojowego."
+41519,"Kliknij, aby odkryć Gladiusa."
+41520,"Kliknij, aby ulepszyć do Tarczy z brązu."
+41521,"Kliknij, aby ulepszyć do Spathy."
+41522,"Kliknij, aby ulepszyć do Rydwanu."
+41523,"Kliknij, aby odkryć Jeźdźca."
+41524,"Kliknij, aby ulepszyć do Słonia bojowego."
+41525,"Kliknij, aby ulepszyć do Ciężkiego jeźdźca."
+41526,"Kliknij, aby ulepszyć do Falangisty."
+41527,"Kliknij, aby przejść do Ery Narzędzi."
+41528,"Kliknij, aby przejść do Ery Brązu."
+41529,"Kliknij, aby przejść do Ery Żelaza."
+41531,"Kliknij, aby ulepszyć do Falcaty."
+41532,"Kliknij, aby odkryć Obróbkę drewna."
+41533,"Kliknij, aby odkryć Wydobywanie złota."
+41534,"Kliknij, aby odkryć Wydobywanie kamienia."
+41535,"Kliknij, aby odkryć Rzemiosło zaawansowane."
+41536,"Kliknij, aby odkryć Sztukę oblężniczą."
+41537,"Kliknij, aby odkryć Architekturę."
+41538,"Kliknij, aby odkryć Arystokrację."
+41539,"Kliknij, aby odkryć Pismo."
+41542,"Kliknij, aby ulepszyć do Tarczy żelaznej."
+41543,"Kliknij, aby ulepszyć do Wieży z balistą."
+41544,"Kliknij, aby ulepszyć do Ciężkiej triery katapultowej."
+41545,"Kliknij, aby ulepszyć do Helepolis."
+41546,"Kliknij, aby ulepszyć do Ciężkiej katapulty."
+41547,"Kliknij, aby ulepszyć do Ciężkiego konnego łucznika."
+41548,"Kliknij, aby ulepszyć do Legionisty."
+41549,"Kliknij, aby ulepszyć do Katafraktu."
+41550,"Kliknij, aby ulepszyć do Centuriona."
 41554,"Kliknij, aby zbadać Logistyka. Jednostki koszarowe liczą się tylko jako połowa jednostki w stosunku do twojej populacji, więc możesz zasadniczo przekroczyć limit populacji, szkoląc jednostki koszarowe. Na przykład, jeśli limit populacji wynosi 50 i zbudujesz 20 zwykłych jednostek, możesz może wyszkolić 60 jednostek Koszar (łącznie 80 jednostek) bez przekraczania limitu populacji."
 41555 "Kliknij, aby ulepszyć do rydwanu z kosą."
 41556 "Kliknij, aby ulepszyć do opancerzonego słonia".
