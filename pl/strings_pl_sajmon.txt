@@ -3531,13 +3531,13 @@
 41548,"Kliknij, aby ulepszyć do Legionisty."
 41549,"Kliknij, aby ulepszyć do Katafraktu."
 41550,"Kliknij, aby ulepszyć do Centuriona."
-41554,"Kliknij, aby zbadać Logistyka. Jednostki koszarowe liczą się tylko jako połowa jednostki w stosunku do twojej populacji, więc możesz zasadniczo przekroczyć limit populacji, szkoląc jednostki koszarowe. Na przykład, jeśli limit populacji wynosi 50 i zbudujesz 20 zwykłych jednostek, możesz może wyszkolić 60 jednostek Koszar (łącznie 80 jednostek) bez przekraczania limitu populacji."
-41555 "Kliknij, aby ulepszyć do rydwanu z kosą."
-41556 "Kliknij, aby ulepszyć do opancerzonego słonia".
-41557,"Kliknij, aby zbadać Galerę ogniową Nieużywana".
-41558,"Kliknij, aby zbadać Medycynę, która zwiększa szybkość leczenia kapłana."
-41559,"Kliknij, aby zbadać Poświęcenie, które pozwala natychmiast nawrócić wrogą jednostkę poprzez poświęcenie jednego ze swoich Kapłanów. Nie możesz użyć Poświęcenia do nawrócenia wrogiego Kapłana.\n\nAby nawrócić jednostkę za pomocą Poświęcenia, kliknij Kapłana, a następnie w prawo -kliknij wrogą jednostkę, którą chcesz przekonwertować. Gdy Kapłan rozpocznie konwersję, naciśnij DELETE.
-41560,"Kliknij, aby zbadać Tarczę Wieży, która zapewnia zbroję piechoty przeciwko balistym, Helepolis i broniom rakietowym."
+41554,"Kliknij, aby odkryć Logistykę. Jednostki tworzone w koszarach liczą się jako pół jednostki w limicie populacji, możesz więc przekroczyć limit populacji, tworząc jednostki w Koszarach. Na przykład, jeśli limit populacji wynosi 50, a ty posiadasz 20 jednostek, możesz stworzyć 60 jednostek w Koszarach (w sumie 80 jednostek) bez przekraczania limitu populacji."
+41555,"Kliknij, aby ulepszyć do Rydwanu z kosami."
+41556,"Kliknij, aby ulepszyć do Słonia pancernego."
+41557,"Kliknij, aby odkryć Galerę ogniową Nieużywane."
+41558,"Kliknij, aby odkryć Medycynę, co zwiększa prędkość uzdrawiania przez kapłanów."
+41559,"Kliknij, aby odkryć Męczeństwo, które pozwala na natychmiastowe nawrócenie wrogiej jednostki przez kapłanów. Nie możesz użyć Męczeństwa, aby nawrócić wrogiego Kapłana.\n\nAby nawrócić wrogą jednostkę za pomocą Męczeństwa, kliknij Kapłana, a następnie kliknij prawym przyciskiem myszy wrogą jednostkę, którą chcesz nawrócić. Po rozpoczęciu nawracania przez Kapłana naciśnij przycisk DELETE."
+41560,"Kliknij, aby odkryć Tarczę prostokątna, która wzmacnia pancerz piechoty przed atakiem balistami, Helopolis i jednostkami miotającymi."
 41564,"Kliknij, aby wymienić żywność na złoto."
 41565,"Kliknij, aby wymienić drewno na złoto."
 41566,"Kliknij, aby wymienić kamień na złoto."
