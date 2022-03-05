@@ -943,7 +943,7 @@
 5436,	"Drzewo - Wiąz (Las)"
 5437,	"Drzewo - Martwe (Las)"
 5438,	"Drzewo - Klon jesienny (Las)"
-5439,	"Drzewo - Jodła żólta"
+5439,	"Drzewo - Jodła żółta"
 5440,	"Drzewo - Martwa jodła"
 5441,	"Drzewo - Jodła niebieska (Las)"
 5442,	"Drzewo - Martwa jodła (Las)"
