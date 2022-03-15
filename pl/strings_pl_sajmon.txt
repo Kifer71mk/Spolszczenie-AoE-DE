@@ -3589,56 +3589,56 @@
 54510,"Zapas drewna: %d"
 54511,"Zapas złota: %d"
 54512,"Zapas kamieni: %d"
-54513,"Kliknij, aby rozkazać Kapłanowi uleczyć przyjazną lub sprzymierzoną jednostkę."
-54514,"Kliknij, aby rozkazać Kapłanowi nawrócić jednostkę wroga."
-54515 "Kliknij, aby rozkazać jednostkom zaatakować."
-54516,"Kliknij, aby zamówić jednostki do przeniesienia."
-54517,"Kliknij, aby zamówić jednostki do pracy."
-54518 "Kliknij, aby zamówić jednostki do naprawy budynku lub łodzi".
-54519,"Więcej informacji na temat Age of Empires: Definitive Edition można znaleźć na stronie www.ageofempires.com".
+54513,"Kliknij, aby rozkazać Kapłanowi uzdrowić przyjazną lub sprzymierzoną jednostkę."
+54514,"Kliknij, aby rozkazać Kapłanowi nawrócić wrogą jednostkę."
+54515,"Kliknij, aby wydać jednostkom rozkaz do ataku."
+54516,"Kliknij, aby wydać rozkaz przemieszczenia jednostek."
+54517,"Kliknij, aby skierować jednostki do pracy."
+54518,"Kliknij, aby skierować jednostki do naprawy budynku lub łodzi."
+54519,"Więcej informacji na temat Age of Empires: Definitive Edition uzyskasz na stronie www.ageofempires.com."
 
 //Atrybuty cywilizacji w drzewie technologicznym
 //Asyryjczycy
 61000,"• Wieśniacy poruszają się o 10% szybciej."
 61001,"• Łucznicy strzelają o 25% szybciej."
 //Babilończycy
-61005,"• Górnicy kamienia pracują o 20% szybciej i niosą +2 kamień.\n• Technologie rynkowe kosztują -30%."
-61006,"• Mury i wieże +60% punktów wytrzymałości."
-61007,"• Kapłani odmładzają się o 30% szybciej."
-//Choson	
-61010,"• Topornik, Krótcy/Szeroki/Długi szermierze i Legion +5/+15/+20/+60/+80 punktów wytrzymałości."
-61011,"• Technologie Storage Pit kosztują -40%.\n• Zasięg wież +2."
-61012,"• Kapłani kosztują -30%."
+61005,"• Wydobywający kamień pracują o 20% szybciej i transportują o 2 sztuki kamieni więcej.\n• Technologie odkrywane na targowisku są tańsze o 30%."
+61006,"• Mury i wieże posiadają 60% więcej punktów wytrzymałości."
+61007,"• Kapłani regenerują się o 30% szybciej."
+//Chosoni	
+61010,"• Topornicy,  szermierze z gladiusem/z falcatą/ze spathą i legioniści mają wyższą wytrzymałość. Odpowiednio o 5, 15/20/60 i 80 punktów."
+61011,"• Technologie odkrywane w ziemiance są tańsze o 40%.\n• Wieże mają o 2 zwiększony zasięg."
+61012,"• Kapłani tańsi o 30%."
 //Egipcjanie	
-61015,"• Farmy kosztują -20%.\n• Wydobywcy złota pracują o 20% szybciej i mają +2 złota."
-61016,"• Jednostki rydwanów +33% punktów wytrzymałości."
-61017,"• Kapłani +3 do zasięgu."
+61015,"• Farmy tańsze o 20%.\n•  Wydobywający złoto pracują o 20% szybciej i transportują o 2 sztuki więcej złota."
+61016,"• Jednostki rydwanowe posiadają większą wytrzymałość o 33 punkty."
+61017,"• Większy zasięg kapłanów o 3."
 //Grecy	
-61020,"• Centra miast działają o 10% szybciej począwszy od epoki narzędzi.\n• Jednostki Akademii poruszają się o 30% szybciej i\nkosztują -20%."
+61020,"• Centra miast działają o 10% szybciej począwszy od ery narzędzi.\n• Jednostki Akademii poruszają się o 30% szybciej i\nkosztują 20% mniej."
 61021,"• Statki poruszają się o 20% szybciej."
 //Hetyci
-61025,"• Wszyscy łucznicy +1 atak."
-61026,"• Miotacz kamieni, katapulta i ciężka katapulta +50% punktów wytrzymałości."
-61027,"• Okręty wojenne (z wyjątkiem galery ogniowej) +2 w epoce narzędzi, +3 w epoce brązu/żelaza."
+61025,"• Zwiększony atak wszystkich łuczników o 1."
+61026,"• Miotacze kamieni, katapulty, i ciężkie katapulty posiadają 50% więcej punktów wytrzymałości."
+61027,"• Okręty wojenne (oprócz galery ogniowej) zasięg zwiększony o 2 w erze narzędzi, 3 w erze brązu i erze żelaza."
 //Minojczycy	
-61030,"• Koszt statków -30%."
-61031,"• Łucznik złożony +2 do zasięgu."
-61032,"• Farmy +60 żywności".
+61030,"• Statki tańsze o 30%."
+61031,"• Łucznicy kompozytowi posiadają zwiększony zasięg o 2."
+61032,"• Farmy produkują o 60 sztuk żywności więcej."
 //Persowie	
-61035,"• Łowcy pracują o 30% szybciej i niosą +3 żywności."
-61036,"• Jednostki słoni poruszają się o 25% szybciej."
-61037,"• Triremy strzelają 25% szybciej."
+61035,"• Łowcy polują o 30% szybciej i niosą o 3 sztuki żywności więcej."
+61036,"• Wszystkie jednostki ze słoniami poruszają się 25% szybciej."
+61037,"• Triery strzelają 25% szybciej."
 //Fenicjanie
-61040,"• Drwale pracują o 15% szybciej i noszą +2 drewna."
-61041,"• Jednostki słoni kosztują -25%."
-61042,"• Trirema katapultowana i Juggernaught strzelają o 30% szybciej."
+61040,"• Drwale pracują o 15% szybciej i noszą o 2 sztuki drewna więcej."
+61041,"• Jednostki ze słoniami są tańsze o 25%."
+61042,"• Triera katapultowa i ciężka triera katapultowa strzelają 30% szybciej."
 //Shang	
-61045,"• Wieśniacy kosztują 40 Pożywienia.\n• Rozpocznij grę z -40 Pożywienia."
-61046,"• Mury +60% punktów wytrzymałości."
+61045,"• Koszt wieśniaków to 40 sztuk pożywienia.\n• Gra rozpoczyna się z pomniejszoną ilością pożywienia o 40 sztuk."
+61046,"• Mury posiadają zwiększoną wytrzymałość o 60%."
 //Sumerowie	
-61050,"• Wieśniacy +15 punktów wytrzymałości".
-61051,"• Miotacz kamieni, katapulta, ciężka katapulta strzelają o 30% szybciej."
-61052,"• Farmy +125 żywności".
+61050,"• Wieśniacy posiadają o 15 więcej punktów wytrzymałości."
+61051,"• Miotacze kamieni, katapulty i ciężkie katapulty strzelają o 30% szybciej."
+
 //Yamato
 61055,"• Wieśniacy poruszają się o 10% szybciej."
 61056,"• Wszystkie jednostki kawalerii i łucznicy konni kosztują\n-15%."
