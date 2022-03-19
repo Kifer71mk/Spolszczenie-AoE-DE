@@ -3614,7 +3614,7 @@
 61016,"• Jednostki rydwanowe posiadajç wiỳkszç wytrzymaîoâá o 33 punkty."
 61017,"• Wiỳkszy zasiỳg kapîanów o 3."
 //Greeks	
-61020,"• Centra miast dziaîajç o 10% szybciej poczçwszy od ery narzỳdzi.\n• Jednostki Akademii poruszajç siỳ o 30% szybciej i\nkosztujç 20% mniej."
+61020,"• Centra miast dziaîajç o 10% szybciej poczçwszy od ery narzỳdzi.\n• Jednostki akademii poruszajç siỳ o 30% szybciej i\nkosztujç 20% mniej."
 61021,"• Statki poruszajç siỳ o 20% szybciej."
 //Hittites
 61025,"• Zwiỳkszony atak wszystkich îuczników o 1."
@@ -3644,13 +3644,13 @@
 61056,"• Wszystkie jednostki kawalerii i konni îucznicy \nsç taési o 15%."
 61057,"• Statki majç 20% wiỳcej punktów wytrzymaîoâci."
 //Carthaginians	
-61060,"• Rozpoczynajç grỳ grỳ z 50 dodatkowymi sztukami wszystkich zasobów.\n• Jednostki z Akademii i jednostki sîoni majç 25% wiỳcej punktów wytrzymaîoâci, Jeèdècy Wielbîçdzi  majç 15% wiỳcej punktów wytrzymaîoâci."
+61060,"• Rozpoczynajç grỳ grỳ z 50 dodatkowymi sztukami wszystkich zasobów.\n• Jednostki z akademii i jednostki sîoni majç 25% wiỳcej punktów wytrzymaîoâci, jeèdècy wielbîçdzi  majç 15% wiỳcej punktów wytrzymaîoâci."
 61061,"• Galery ogniowe posiadajç o 25% wiỳkszç siîỳ ataku."
 61062,"• Statki transportowe poruszajç siỳ o 25% szybciej."
 //Macedonians
 61065,"• Wszystkie jednostki niestrzelajçce posiadajç wiỳkszy o 2 punkty zasiỳg wzroku."
-61066,"• Jednostki Akademii posiadajç mocniejszy pancerz przeciw broni przebijajçcej o 1 w Erze brçzu i o 2 w Erze êelaza."
-61067,"• Jednostki Warsztatu oblỳêniczego taésze o 25%."
+61066,"• Jednostki akademii posiadajç mocniejszy pancerz przeciw broni przebijajçcej o 1 w Erze brçzu i o 2 w Erze êelaza."
+61067,"• Jednostki warsztatu oblỳêniczego taésze o 25%."
 61068,"• Wszystkie jednostki sç 4 razy bardziej odporne na nawracanie."
 //Palmyrans	
 61070,"• Koszt wieâniaków podniesiony do 75 êywnoâci, ale w zamian posiadajç pancerz i pracujç 25% szybciej."
@@ -3661,7 +3661,7 @@
 //Romans	
 61075,"• Budowa budynków taésza o 10%, z wyjçtkiem wieê, murów i cudów."
 61076,"• Wieêe taésze o 40%."
-61077,"• Szermierze atakujç 33% szybciej."
+61077,"• Piechurzy atakujç 33% szybciej."
 
 61080,"Niedostỳpne technologie:"
 61081,"Niedostỳpne jednostki:"
@@ -3675,64 +3675,64 @@
 61106,"• Podwojone punkty wytrzymaîoâci murów i wieê."
 61107,"• Kapîani regenerujç siỳ o 30% szybciej."
 //Choson	
-61110,"• Piechurzy ze spathç i Legioniâci posiadajç o 80 wiecej punktów wytrzymaîoâci."
+61110,"• Piechurzy ze spathç i legioniâci posiadajç o 80 wiecej punktów wytrzymaîoâci."
 61111,"• Wieêe maja zwiỳkszony zasiỳg o 2 punkty."
 61112,"• Kapîani taési o 30%."
 //Egyptians	
-61115,"• Gold Miners work 20% faster and carry +2 gold."
-61116,"• Rydwan units +33%  hit points."
-61117,"• Priests +3 range."
+61115,"• Wydobywcy zîota pracujç 20% szybciej i transportujç o 2 sztuki zîota wiỳcej."
+61116,"• Jednostki rydwanów posiadajç o 33% punktów wytrzymaîoâci wiỳcej."
+61117,"• Kapîani posiadajç 3 punkty zasiỳgu wiỳcej."
 //Greeks	
-61120,"• Akademia units move 30% faster."
-61121,"• Warships move 17% faster."
+61120,"• Jednostki akademii poruszajç siỳ o 30% szybciej."
+61121,"• Okrỳty wojenne poruszajç siỳ o 17% szybciej."
 //Hittites
-61125,"• All archers +1 attack."
-61126,"• Double Miotacz kamieni, Katapulta and Ciỳêka katapulta hit points."
-61127,"• Warships (except Galera ogniowa) +4 range."
+61125,"• Wszyscy îucznicy posiadajç atak mocniejszy o 1."
+61126,"• Podwojone punkty wytrzymaîoâci miotaczy kamieni, katapult i ciỳêkich katapult."
+61127,"• Okrỳty wojenne (z wyjçtkiem galery ogniowej) o 4 punkty wiỳcej zasiỳgu."
 //Minoans	
-61130,"• Ships cost -30%."
-61131,"• Ýucznik kompozytowy +2 range."
-61132,"• Farms +60 Food."
+61130,"• Koszt okrỳtów zmniejszony o 30%."
+61131,"• Ýucznicy kompozytowi posiadajç zasiỳg zwiỳkszony o 2."
+61132,"• Farmy produkujç o 60 sztuk êywnoâci wiỳcej."
 //Persians	
-61135,"• Hunters work 30% faster and carry +3 food."
-61136,"• Elephant units move 50% faster."
-61137,"• Triremes fire 38% faster."
+61135,"• Myâliwi pracujç o 30% szybciej i przenoszç o 3 sztuki êywnoâci wiỳcej."
+61136,"• Jednostki sîoni poruszajç siỳ o 50% szybciej."
+61137,"• Triery strzelajç o 38% szybciej."
 //Phoenicians
-61140,"• Woodcutters work 30% faster and carry +3 wood."
-61141,"• Elephant units cost -25%."
-61142,"• Triera katapultowa and Ciỳêka triera katapultowa fire 58% faster."
+61140,"• Drwale pracujç o 30% szybciej i przenoszç o 3 sztuki drewna wiỳcej."
+61141,"• Jednostki sîoni taésze o 25%."
+61142,"• Triera katapultowa i ciỳêka triera katapultowa strzelajç 58% szybciej."
 //Shang	
-61145,"• Villagers cost 40 Food."
-61146,"• Double wall hit points."
+61145,"• Koszt wieâniaka to 40 sztuk êywnoâci"
+61146,"• Podwójne punkty wytrzymaîoâci murów."
 
 //Sumerians	
-61150,"• Villagers +15 hit points."
-61151,"• Miotacz kamieni, Katapulta, Ciỳêka katapulta fire 30% faster."
-61152,"• Farms +250 Food."
+61150,"• Wieâniacy majç o 15 punktów wiỳcej wytrzymaîoâci".
+61151,"• Miotacze kamieni, katapulty i ciỳêkie katapulty strzelajç o 30% szybciej."
+61152,"• Farmy produkujç o 250 sztuk êywnoâci wiỳcej."
 //Yamato
-61155,"• Villagers move 18% faster."
-61156,"• All cavalry units and Konny îuczniks cost\n-20%."
-61157,"• Ships +30%  hit points."
+61155,"• Wieâniacy poruszajç siỳ o 18% szybciej."
+61156,"• Wszystkie jednostki kawalerii i konni îucznicy kosztujç\n20% mniej."
+61157,"• Statki posiadajç o 30% wiỳcej punktów wytrzymaîoâci."
 //Carthaginians	
-61160,"• Akademia units and elephant units +25%  hit points"
-61161,"• Galera ogniowa +25% attack."
-61162,"• Transport ships move 25% faster."
+61160,"• Jednostki akademii i jednostki sîoni + posiadajç o 25% wiỳcej punktów wytrzymaîoâci."
+61161,"• Galery ogniowe majç zwiỳkszona siîỳ ataku o 25%."
+61162,"• Statki transportowe poruszajç siỳ o 25% szybciej."
 //Macedonians
-61165,"• All non-ranged units +2 line of sight."
-61166,"• Akademia units +2 pierce armor."
-61167,"• Warsztat oblỳêniczy units cost -50%."
-61168,"• All units 4 times more resistant to conversion."
+61165,"• Wszystkie jednostki niestrzelajçce posiadajç o 2 punkty wiỳcej zasiỳgu wzroku."
+61166,"• Jednostki akademii o 2 punkty wiỳcej pancerza odpornego na przebicia."
+61167,"• Jednostki warsztatu oblỳêniczego taésze o 50%."
+61168,"• Wszystkie jednostki sç 4 razy bardziej odporne na nawracanie."
 
 //Palmyrans	
-61170,"• Villagers cost 75 Food, but have +1 armor and work 20% faster."
-61171,"• Camel Riders move 25% faster."
-61172,"• Tributes are free."
-61173,"• Trade ships return more gold."
+61170,"• Koszt wieâniaków to 75 êywnoâci, ale posiadajç o 1 mocniejszy pancerz i pracujç o 20% szybciej."
+61171,"• Jeèdècy na wielbîçdach poruszajç siỳ o 25% szybciej."
+61172,"• Daniny sç bezpîatne."
+61173,"• Statki handlowe transportujç wiỳcej zîota."
 
 //Romans	
-61175,"• Buildings cost -15%, except for towers, walls and Wonders."
-61176,"• Towers cost -50%."
-61177,"• Szermierze attack +33% faster."
+61175,"• Budynki taésze o 15%, z wyjçtkiem wieê, murów i cudów."
+61176,"• Wieêe taésze o 50%."
+61177,"• Piechurzy atakujç 33% szybciej."
 
 61190,"Punkty wytrzymaîoâci"
 61191,"Atak"

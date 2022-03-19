@@ -3614,7 +3614,7 @@
 61016,"• Jednostki rydwanowe posiadają większą wytrzymałość o 33 punkty."
 61017,"• Większy zasięg kapłanów o 3."
 //Greeks	
-61020,"• Centra miast działają o 10% szybciej począwszy od ery narzędzi.\n• Jednostki Akademii poruszają się o 30% szybciej i\nkosztują 20% mniej."
+61020,"• Centra miast działają o 10% szybciej począwszy od ery narzędzi.\n• Jednostki akademii poruszają się o 30% szybciej i\nkosztują 20% mniej."
 61021,"• Statki poruszają się o 20% szybciej."
 //Hittites
 61025,"• Zwiększony atak wszystkich łuczników o 1."
@@ -3644,13 +3644,13 @@
 61056,"• Wszystkie jednostki kawalerii i konni łucznicy \nsą tańsi o 15%."
 61057,"• Statki mają 20% więcej punktów wytrzymałości."
 //Carthaginians	
-61060,"• Rozpoczynają grę grę z 50 dodatkowymi sztukami wszystkich zasobów.\n• Jednostki z Akademii i jednostki słoni mają 25% więcej punktów wytrzymałości, Jeźdźcy Wielbłądzi  mają 15% więcej punktów wytrzymałości."
+61060,"• Rozpoczynają grę grę z 50 dodatkowymi sztukami wszystkich zasobów.\n• Jednostki z akademii i jednostki słoni mają 25% więcej punktów wytrzymałości, jeźdźcy wielbłądzi  mają 15% więcej punktów wytrzymałości."
 61061,"• Galery ogniowe posiadają o 25% większą siłę ataku."
 61062,"• Statki transportowe poruszają się o 25% szybciej."
 //Macedonians
 61065,"• Wszystkie jednostki niestrzelające posiadają większy o 2 punkty zasięg wzroku."
-61066,"• Jednostki Akademii posiadają mocniejszy pancerz przeciw broni przebijającej o 1 w Erze brązu i o 2 w Erze żelaza."
-61067,"• Jednostki Warsztatu oblężniczego tańsze o 25%."
+61066,"• Jednostki akademii posiadają mocniejszy pancerz przeciw broni przebijającej o 1 w Erze brązu i o 2 w Erze żelaza."
+61067,"• Jednostki warsztatu oblężniczego tańsze o 25%."
 61068,"• Wszystkie jednostki są 4 razy bardziej odporne na nawracanie."
 //Palmyrans	
 61070,"• Koszt wieśniaków podniesiony do 75 żywności, ale w zamian posiadają pancerz i pracują 25% szybciej."
@@ -3661,7 +3661,7 @@
 //Romans	
 61075,"• Budowa budynków tańsza o 10%, z wyjątkiem wież, murów i cudów."
 61076,"• Wieże tańsze o 40%."
-61077,"• Szermierze atakują 33% szybciej."
+61077,"• Piechurzy atakują 33% szybciej."
 
 61080,"Niedostępne technologie:"
 61081,"Niedostępne jednostki:"
@@ -3675,64 +3675,64 @@
 61106,"• Podwojone punkty wytrzymałości murów i wież."
 61107,"• Kapłani regenerują się o 30% szybciej."
 //Choson	
-61110,"• Piechurzy ze spathą i Legioniści posiadają o 80 wiecej punktów wytrzymałości."
+61110,"• Piechurzy ze spathą i legioniści posiadają o 80 wiecej punktów wytrzymałości."
 61111,"• Wieże maja zwiększony zasięg o 2 punkty."
 61112,"• Kapłani tańsi o 30%."
 //Egyptians	
-61115,"• Gold Miners work 20% faster and carry +2 gold."
-61116,"• Rydwan units +33%  hit points."
-61117,"• Priests +3 range."
+61115,"• Wydobywcy złota pracują 20% szybciej i transportują o 2 sztuki złota więcej."
+61116,"• Jednostki rydwanów posiadają o 33% punktów wytrzymałości więcej."
+61117,"• Kapłani posiadają 3 punkty zasięgu więcej."
 //Greeks	
-61120,"• Akademia units move 30% faster."
-61121,"• Warships move 17% faster."
+61120,"• Jednostki akademii poruszają się o 30% szybciej."
+61121,"• Okręty wojenne poruszają się o 17% szybciej."
 //Hittites
-61125,"• All archers +1 attack."
-61126,"• Double Miotacz kamieni, Katapulta and Ciężka katapulta hit points."
-61127,"• Warships (except Galera ogniowa) +4 range."
+61125,"• Wszyscy łucznicy posiadają atak mocniejszy o 1."
+61126,"• Podwojone punkty wytrzymałości miotaczy kamieni, katapult i ciężkich katapult."
+61127,"• Okręty wojenne (z wyjątkiem galery ogniowej) o 4 punkty więcej zasięgu."
 //Minoans	
-61130,"• Ships cost -30%."
-61131,"• Łucznik kompozytowy +2 range."
-61132,"• Farms +60 Food."
+61130,"• Koszt okrętów zmniejszony o 30%."
+61131,"• Łucznicy kompozytowi posiadają zasięg zwiększony o 2."
+61132,"• Farmy produkują o 60 sztuk żywności więcej."
 //Persians	
-61135,"• Hunters work 30% faster and carry +3 food."
-61136,"• Elephant units move 50% faster."
-61137,"• Triremes fire 38% faster."
+61135,"• Myśliwi pracują o 30% szybciej i przenoszą o 3 sztuki żywności więcej."
+61136,"• Jednostki słoni poruszają się o 50% szybciej."
+61137,"• Triery strzelają o 38% szybciej."
 //Phoenicians
-61140,"• Woodcutters work 30% faster and carry +3 wood."
-61141,"• Elephant units cost -25%."
-61142,"• Triera katapultowa and Ciężka triera katapultowa fire 58% faster."
+61140,"• Drwale pracują o 30% szybciej i przenoszą o 3 sztuki drewna więcej."
+61141,"• Jednostki słoni tańsze o 25%."
+61142,"• Triera katapultowa i ciężka triera katapultowa strzelają 58% szybciej."
 //Shang	
-61145,"• Villagers cost 40 Food."
-61146,"• Double wall hit points."
+61145,"• Koszt wieśniaka to 40 sztuk żywności"
+61146,"• Podwójne punkty wytrzymałości murów."
 
 //Sumerians	
-61150,"• Villagers +15 hit points."
-61151,"• Miotacz kamieni, Katapulta, Ciężka katapulta fire 30% faster."
-61152,"• Farms +250 Food."
+61150,"• Wieśniacy mają o 15 punktów więcej wytrzymałości".
+61151,"• Miotacze kamieni, katapulty i ciężkie katapulty strzelają o 30% szybciej."
+61152,"• Farmy produkują o 250 sztuk żywności więcej."
 //Yamato
-61155,"• Villagers move 18% faster."
-61156,"• All cavalry units and Konny łuczniks cost\n-20%."
-61157,"• Ships +30%  hit points."
+61155,"• Wieśniacy poruszają się o 18% szybciej."
+61156,"• Wszystkie jednostki kawalerii i konni łucznicy kosztują\n20% mniej."
+61157,"• Statki posiadają o 30% więcej punktów wytrzymałości."
 //Carthaginians	
-61160,"• Akademia units and elephant units +25%  hit points"
-61161,"• Galera ogniowa +25% attack."
-61162,"• Transport ships move 25% faster."
+61160,"• Jednostki akademii i jednostki słoni + posiadają o 25% więcej punktów wytrzymałości."
+61161,"• Galery ogniowe mają zwiększona siłę ataku o 25%."
+61162,"• Statki transportowe poruszają się o 25% szybciej."
 //Macedonians
-61165,"• All non-ranged units +2 line of sight."
-61166,"• Akademia units +2 pierce armor."
-61167,"• Warsztat oblężniczy units cost -50%."
-61168,"• All units 4 times more resistant to conversion."
+61165,"• Wszystkie jednostki niestrzelające posiadają o 2 punkty więcej zasięgu wzroku."
+61166,"• Jednostki akademii o 2 punkty więcej pancerza odpornego na przebicia."
+61167,"• Jednostki warsztatu oblężniczego tańsze o 50%."
+61168,"• Wszystkie jednostki są 4 razy bardziej odporne na nawracanie."
 
 //Palmyrans	
-61170,"• Villagers cost 75 Food, but have +1 armor and work 20% faster."
-61171,"• Camel Riders move 25% faster."
-61172,"• Tributes are free."
-61173,"• Trade ships return more gold."
+61170,"• Koszt wieśniaków to 75 żywności, ale posiadają o 1 mocniejszy pancerz i pracują o 20% szybciej."
+61171,"• Jeźdźcy na wielbłądach poruszają się o 25% szybciej."
+61172,"• Daniny są bezpłatne."
+61173,"• Statki handlowe transportują więcej złota."
 
 //Romans	
-61175,"• Buildings cost -15%, except for towers, walls and Wonders."
-61176,"• Towers cost -50%."
-61177,"• Szermierze attack +33% faster."
+61175,"• Budynki tańsze o 15%, z wyjątkiem wież, murów i cudów."
+61176,"• Wieże tańsze o 50%."
+61177,"• Piechurzy atakują 33% szybciej."
 
 61190,"Punkty wytrzymałości"
 61191,"Atak"
