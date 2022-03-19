@@ -872,7 +872,7 @@
 5368,"Saint Francis"
 5369,"Winsett's other Z"
 5370,"BabyPrez"//
-5371,"Flare"
+5371,"Flara"
 
 //New Object
 5372,	"Grass Dry"
@@ -1901,7 +1901,7 @@
 13007,"Stajnia"
 13008,"Świątynia"
 13009,"Govt Ctr"
-13010,"Siege Wkshop"
+13010,"Siege Workshop"
 13011,"Akademia"
 13012,"Era Narzędzi"
 13013,"Era Brązu"
@@ -3648,20 +3648,20 @@
 61061,"• Galery ogniowe posiadają o 25% większą siłę ataku."
 61062,"• Statki transportowe poruszają się o 25% szybciej."
 //Macedonians
-61065,"• All non-ranged units +2 line of sight."
-61066,"• Akademia units +1 pierce armor in Bronze Age, +2 in Era Żelaza."
-61067,"• Warsztat oblężniczy units cost -25%."
-61068,"• All units 4 times more resistant to conversion."
+61065,"• Wszystkie jednostki niestrzelające posiadają większy o 2 punkty zasięg wzroku."
+61066,"• Jednostki Akademii posiadają mocniejszy pancerz przeciw broni przebijającej o 1 w Erze brązu i o 2 w Erze żelaza."
+61067,"• Jednostki Warsztatu oblężniczego tańsze o 25%."
+61068,"• Wszystkie jednostki są 4 razy bardziej odporne na nawracanie."
 //Palmyrans	
-61070,"• Villagers cost 75 Food, but have armor and work 25% faster."
-61071,"• Start the game with +75 Food."
-61072,"• Camel Riders move 25% faster."
-61073,"• Tributes are free."
-61074,"• Trade ships return more gold."
+61070,"• Koszt wieśniaków podniesiony do 75 żywności, ale w zamian posiadają pancerz i pracują 25% szybciej."
+61071,"• Rozpoczynasz grę z liczbą żywności wyższą o 75 sztuk."
+61072,"• Jeźdźcy na wielbłądach poruszają się o 25% szybciej."
+61073,"• Daniny są bezpłatne."
+61074,"• Statki handlowe transportują więcej złota."
 //Romans	
-61075,"• Buildings cost -10%, except for towers, walls and Wonders."
-61076,"• Towers cost -40%."
-61077,"• Szermierze attack +33% faster."
+61075,"• Budowa budynków tańsza o 10%, z wyjątkiem wież, murów i cudów."
+61076,"• Wieże tańsze o 40%."
+61077,"• Szermierze atakują 33% szybciej."
 
 61080,"Niedostępne technologie:"
 61081,"Niedostępne jednostki:"

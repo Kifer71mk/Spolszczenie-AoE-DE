@@ -872,7 +872,7 @@
 5368,"Saint Francis"
 5369,"Winsett's other Z"
 5370,"BabyPrez"//
-5371,"Flare"
+5371,"Flara"
 
 //New Object
 5372,	"Grass Dry"
@@ -1901,7 +1901,7 @@
 13007,"Stajnia"
 13008,"Âwiçtynia"
 13009,"Govt Ctr"
-13010,"Siege Wkshop"
+13010,"Siege Workshop"
 13011,"Akademia"
 13012,"Era Narzỳdzi"
 13013,"Era Brçzu"
@@ -3648,20 +3648,20 @@
 61061,"• Galery ogniowe posiadajç o 25% wiỳkszç siîỳ ataku."
 61062,"• Statki transportowe poruszajç siỳ o 25% szybciej."
 //Macedonians
-61065,"• All non-ranged units +2 line of sight."
-61066,"• Akademia units +1 pierce armor in Bronze Age, +2 in Era Êelaza."
-61067,"• Warsztat oblỳêniczy units cost -25%."
-61068,"• All units 4 times more resistant to conversion."
+61065,"• Wszystkie jednostki niestrzelajçce posiadajç wiỳkszy o 2 punkty zasiỳg wzroku."
+61066,"• Jednostki Akademii posiadajç mocniejszy pancerz przeciw broni przebijajçcej o 1 w Erze brçzu i o 2 w Erze êelaza."
+61067,"• Jednostki Warsztatu oblỳêniczego taésze o 25%."
+61068,"• Wszystkie jednostki sç 4 razy bardziej odporne na nawracanie."
 //Palmyrans	
-61070,"• Villagers cost 75 Food, but have armor and work 25% faster."
-61071,"• Start the game with +75 Food."
-61072,"• Camel Riders move 25% faster."
-61073,"• Tributes are free."
-61074,"• Trade ships return more gold."
+61070,"• Koszt wieâniaków podniesiony do 75 êywnoâci, ale w zamian posiadajç pancerz i pracujç 25% szybciej."
+61071,"• Rozpoczynasz grỳ z liczbç êywnoâci wyêszç o 75 sztuk."
+61072,"• Jeèdècy na wielbîçdach poruszajç siỳ o 25% szybciej."
+61073,"• Daniny sç bezpîatne."
+61074,"• Statki handlowe transportujç wiỳcej zîota."
 //Romans	
-61075,"• Buildings cost -10%, except for towers, walls and Wonders."
-61076,"• Towers cost -40%."
-61077,"• Szermierze attack +33% faster."
+61075,"• Budowa budynków taésza o 10%, z wyjçtkiem wieê, murów i cudów."
+61076,"• Wieêe taésze o 40%."
+61077,"• Szermierze atakujç 33% szybciej."
 
 61080,"Niedostỳpne technologie:"
 61081,"Niedostỳpne jednostki:"
@@ -4389,6 +4389,8 @@
 63189,"Cross-network play has arrived for Age of Empires! Install the newest version from the Windows Store to join the growing multiplayer community on all platforms.\nDon’t get left behind! All future game updates will be on the new version only. Update now for free!"
 63190,"Windows Store"
 63191,"Later"
+
+				 
 
 63200,"Utwórz grỳ"
 63201,"Anuluj"

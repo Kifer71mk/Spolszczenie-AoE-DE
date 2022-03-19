@@ -1932,7 +1932,7 @@
 14015,"Kliknij, aby zmienić klawisz skrótu."
 14016,"Kliknij, aby zresetować klawisz skrótu."
 14017,"Ranking"
-14018,"Match type:"
+14018,"Typ meczu:"
 14019,"Wygrane"
 14020,"Pozycja"
 14021,"Pasmo zwycięstw"
@@ -3206,7 +3206,7 @@
 30701,"Ustaw poziom trudności używany podczas testowania."
 30702 "Ustaw widok początkowy."
 30703 "Przejdź do widoku początkowego."
-39465 "Używany do szkolenia elitarnych jednostek piechoty, które mają wysoką siłę ataku i zbroję."
+39465,"Służy do szkolenia elitarnych jednostek piechoty, które mają wysoką siłę ataku i mocny pancerz."
 39466,"Predator, na który można polować dla pożywienia".
 39467,"Naturalne miejsca o znaczeniu. Zlokalizowanie wszystkich Odkryć jest warunkiem zwycięstwa. Aby zlokalizować Odkrycie, przesuń jednostkę w jego pobliże. Kolorowa flaga wskazuje, które cywilizacje zlokalizowały Odkrycie."
 39468,"Starożytne budowle zbudowane przez utracone kultury. Ruiny mogą być warunkiem zwycięstwa lub zwiększyć twój wynik".
@@ -3648,20 +3648,20 @@
 61061,"• Galery ogniowe posiadają o 25% większą siłę ataku."
 61062,"• Statki transportowe poruszają się o 25% szybciej."
 //Macedończycy
-61065,"• Wszystkie jednostki bez dystansu +2 w linii wzroku."
-61066,"• Jednostki Akademii +1 pancerz przebijający w epoce brązu, +2 w epoce żelaza."
-61067,"• Koszt jednostek Warsztatu Oblężniczego -25%."
-61068,"• Wszystkie jednostki 4 razy bardziej odporne na konwersję."
+61065,"• Wszystkie jednostki niestrzelające posiadają większy o 2 punkty zasięg wzroku."
+61066,"• Jednostki Akademii posiadają mocniejszy pancerz przeciw broni przebijającej o 1 w Erze brązu i o 2 w Erze żelaza."
+61067,"• Jednostki Warsztatu oblężniczego tańsze o 25%."
+61068,"• Wszystkie jednostki są 4 razy bardziej odporne na nawracanie."
 //Palmyran	
-61070,"• Wieśniacy kosztują 75 żywności, ale mają zbroję i pracują o 25% szybciej."
-61071,"• Rozpocznij grę z +75 żywności."
+61070,"• Koszt wieśniaków podniesiony do 75 żywności, ale w zamian posiadają pancerz i pracują 25% szybciej."
+61071,"• Rozpoczynasz grę z liczbą żywności wyższą o 75 sztuk."
 61072,"• Jeźdźcy na wielbłądach poruszają się o 25% szybciej."
-61073,"• Daniny są bezpłatne".
-61074,"• Statki handlowe zwracają więcej złota."
+61073,"• Daniny są bezpłatne."
+61074,"• Statki handlowe transportują więcej złota."
 //Rzymianie	
-61075,"• Budynki kosztują -10%, z wyjątkiem wież, murów i cudów."
-61076,"• Wieże kosztują -40%."
-61077,"• Szermierze atakują +33% szybciej."
+61075,"• Budowa budynków tańsza o 10%, z wyjątkiem wież, murów i cudów."
+61076,"• Wieże tańsze o 40%."
+61077,"• Szermierze atakują 33% szybciej."
 
 61080,"Niedostępne technologie:"
 61081,"Niedostępne jednostki:"
