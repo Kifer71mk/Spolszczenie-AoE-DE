@@ -3668,16 +3668,16 @@
 
 //Tech Tree Civ attributes Original
 //Assyrians
-61100,"• Villagers move 18% faster."
-61101,"• Archers fire 25% faster."
+61100,"• Wieśniacy poruszają się 18% szybciej."
+61101,"• Łucznicy strzelają 25% szybciej."
 //Babylonians
-61105,"• Stone Miners work 30% faster and carry +3 stone."
-61106,"• Double Wall and towers hit points."
-61107,"• Priests rejuvenate 30% faster."
+61105,"• Wydobywcy kamienni pracują o 30% szybciej i noszą o 3 kamienie więcej."
+61106,"• Podwojone punkty wytrzymałości murów i wież."
+61107,"• Kapłani regenerują się o 30% szybciej."
 //Choson	
-61110,"• Long swordsmen and Legionista +80  hit points."
-61111,"• Towers +2 range."
-61112,"• Priests cost -30%."
+61110,"• Piechurzy ze spathą i Legioniści posiadają o 80 wiecej punktów wytrzymałości."
+61111,"• Wieże maja zwiększony zasięg o 2 punkty."
+61112,"• Kapłani tańsi o 30%."
 //Egyptians	
 61115,"• Gold Miners work 20% faster and carry +2 gold."
 61116,"• Rydwan units +33%  hit points."

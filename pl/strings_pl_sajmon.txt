@@ -3668,16 +3668,16 @@
 
 //Atrybuty cywilizacji w drzewie technologicznym Oryginalne
 //Asyryjczycy
-61100,"• Wieśniacy poruszają się o 18% szybciej."
+61100,"• Wieśniacy poruszają się 18% szybciej."
 61101,"• Łucznicy strzelają 25% szybciej."
 //Babilończycy
-61105,"• Górnicy kamieni pracują o 30% szybciej i niosą +3 kamienie."
-61106,"• Punkty wytrzymałości podwójnych ścian i wież".
-61107,"• Kapłani odmładzają się o 30% szybciej."
+61105,"• Wydobywcy kamienni pracują o 30% szybciej i noszą o 3 kamienie więcej."
+61106,"• Podwojone punkty wytrzymałości murów i wież."
+61107,"• Kapłani regenerują się o 30% szybciej."
 //Choson	
-61110,"• Długi szermierze i Legion +80 punktów wytrzymałości."
-61111,"• Zasięg wież +2".
-61112,"• Kapłani kosztują -30%."
+61110,"• Piechurzy ze spathą i Legioniści posiadają o 80 wiecej punktów wytrzymałości."
+61111,"• Wieże maja zwiększony zasięg o 2 punkty."
+61112,"• Kapłani tańsi o 30%."
 //Egipcjanie	
 61115,"• Wydobywcy złota pracują 20% szybciej i niosą +2 złota."
 61116,"• Jednostki rydwanów +33% punktów wytrzymałości."
