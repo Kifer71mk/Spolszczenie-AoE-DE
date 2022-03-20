@@ -3227,41 +3227,41 @@
 39493 "Wyrafinowany batawski okręt wojenny, który może wędrować po morzach, rzucać kamieniami i toczyć się po lądzie".
 39536 "Tratwa ma jednego pasażera".
 39547,"Służy do budowy i ulepszania statków rybackich, handlowych, transportowych i wojennych."
-39549,"Można na nie polować w celu zdobycia pożywienia."
-39550,"Można na nie polować w celu zdobycia pożywienia."
+39549,"Można na nie polować w celu zdobycia żywności."
+39550,"Można na nie polować w celu zdobycia żywności."
 39551,"Poznaje mapę".
 39552,"Zapewnia ograniczoną ilość żywności, którą może zebrać Wieśniak. Farmy po wyczerpaniu stworzonej żywności muszą być ponownie obsiane."
-39553 "Zbiera żywność z farmy".
-39557,"Można je łowić w celu zdobycia pożywienia."
-39558,"Można je łowić w celu zdobycia pożywienia."
-39559,"Można je łowić w celu zdobycia pożywienia."
-39560,"Można je łowić w celu zdobycia pożywienia."
-39561,"Można je łowić w celu zdobycia pożywienia."
-39562,"Ryby na żywność".
+39553,"Zbiera żywność z farmy."
+39557,"Można je łowić w celu zdobycia żywności."
+39558,"Można je łowić w celu zdobycia żywności."
+39559,"Można je łowić w celu zdobycia żywności."
+39560,"Można je łowić w celu zdobycia żywności."
+39561,"Można je łowić w celu zdobycia żywności."
+39562,"Można je łowić w celu zdobycia żywności."
 39563 "Baner, przedstawiający kolory frakcji".
-39565,"Może być zielonka na żywność".
-39566 "Zbiera żywność z krzewów jagodowych".
-39567 "Można polować na jedzenie".
+39565,"Możliwość zdobywania pożywienia."
+39566,"Zbiera żywność z krzewów jagodowych."
+39567,"Można na nie polować w celu zdobycia pożywienia."
 39569,"Służy do badań technologii ulepszających budynki i jednostki wojskowe. Wymagane do budowy dodatkowych Centrów miast."
 39570,"Używany przez wieśniaków do składowania żywności z krzewów jagodowych i farm. Można tu badać ulepszenia murów i wież. Wymagany do budowania Targowisk."
 39581,"Ulepszenie Wieży wartowniczej. Wieża strażnicza ma więcej punktów wytrzymałości, siły ataku i zasięgu."
 39583,"Podnosi liczbę dostępnej populacji o 4 Wieśniaków, jednostki wojskowe lub łodzie. Aby móc tworzyć nowe jednostki, musisz mieć wystarczającą liczbę Domów."
-39585 "Poluje na zwierzęta na żywność".
+39585,"Poluje na zwierzęta pozyskując żywność."
 39586 "Młody i ambitny król Macedonii i władca Grecji. Jeden z największych dowódców w całej historii".
 39587,"Najpotężniejsze z egipskich bóstw. Jest bogiem słońca, a także »Królem Bogów«".
 39588 "Syn Zeusa, założyciel Myken i pogromca Gorgony Meduzy. Ulubiony przez bogów."
 39589 "Cesarz wbrew swojej woli, ale jeden z największych generałów Rzymu".
 39590,"Król królów. Władca imperium perskiego i notoryczny ekspansjonista".
-39591,"Predator, na który można polować dla pożywienia".
-39592,"Predator, na który można polować dla pożywienia".
+39591,"Drapieżnik, na którego można polować w celu zdobycia żywności."
+39592,"Drapieżnik, na którego można polować w celu zdobycia żywności."
 39593 "Szczęśliwy lew o wielkim sercu. Odpowiada Richardowi. Wiarygodni magowie aprobują oswojenie tego lwa".
-39594 "Ręby drzew na drewno".
+39594,"Ścina drzewo w celu pozyskania drewna."
 39595,"Możesz go wysłać do pozyskiwania żywności, drewna, kamieni i złota, do naprawy czy remontu, lub do walki."
 39596,"Służy do badań nad technologiami, które poprawiają skuteczność jednostek wojskowych i Wieśniaków. Wymagane do budowy Farm, Świątyń i Centrów rządowych."
-39598 "Może być wydobywany na złoto".
-39603 "Może być wydobywany na kamień".
-39604,"Zbiera złoto z Kopalni Złota".
-39605 "Zbiera kamień z Kopalni Kamienia."
+39598,"Można wydobywać złoto."
+39603,"Można wydobywać kamień."
+39604,"Zbiera złoto ze złoża."
+39605,"Zbiera kamień ze złoża."
 39606,"opis"
 39607,"Najsilniejsza wieża. Ulepszenie Wieży strażniczej. Wieża z balistą ma większą siłę ataku niż Wieża strażnicza."
 39608,"Ulepszenie Triery katapultowej. Ciężka triera katapultowa ma więcej punktów wytrzymałości i większy zasięg."
@@ -3342,7 +3342,7 @@
 39816,"Szybki okręt wojenny z krótkodystansowym atakiem ogniowym do walki z innymi okrętami. Lepszy od Triera w starciu jeden na jednego. Otrzymuje dodatkowe obrażenia od broni oblężniczej i Trier katapultowych."
 39817,"Ulepszenie Rydwanu. Ma wysoką odporność na nawracanie. Zadaje obrażenia sąsiednim wrogim jednostkom tratując je (podtyp ataku obszarowego)."
 39818,"Ulepszenie Słonia bojowego. Ma zwiększony pancerz przeciwko Balistom, Helepolisom i broni miotającej oraz zadaje obrażenia sąsiednim wrogim jednostkom tratując je (podtyp ataku obszarowego)."
-39819,"Można polować na jedzenie".
+39819,"Można na nie polować w celu zdobycia żywności."
 39820,"Zmora Rzymu i czempion Kartaginy. Jest mało prawdopodobne, że był lub kiedykolwiek będzie lepszy generał niż Hannibal 'Błyskawica' ​​Barca".
 39821 "Genialny generał i mąż stanu. Jego ambicja zostania jedynym władcą Republiki Rzymskiej prawdopodobnie doprowadzi do jego zamordowania".
 39822 "Rzymski generał ze słynnej rodziny dowódców wojskowych. Pokonał Kartaginę".
@@ -3352,7 +3352,7 @@
 39826 "Dumny wódz Arwernów. Utworzył koalicję plemion galijskich, aby powstrzymać rosnącą potęgę Rzymu".
 39827 "Genialny grecki naukowiec i wynalazca. Słynący ze swoich osiągnięć matematycznych i inżynierskich".
 39828 "Zawiera wyrafinowany zestaw luster zbierających światło, które skupiają intensywne ciepło na atakujących statkach i oddziałach".
-39829,"Można polować na jedzenie".
+39829,"Można na nie polować w celu zdobycia żywności."
 39830,"Robot łowca-zabójca wysłany na ziemię, by niszczyć żołnierzy rebeliantów".
 39832 "Pomimo nazwy ten Franciszek nie jest pacyfistą".
 39833,"Edycja zimowa z ulepszeniami Q. Wystrzeliwuje mniejsze rakiety z większą szybkością. Tylko mama Winsetta wie, jak to włączyć. Ma klucze".
@@ -4294,7 +4294,7 @@
 63063,"Wygrane/Przegrane:"
 63064,"Stosunek wygranych:"
 
-63065,"Match Type"
+63065,"Typ meczu"
 63066,"Region"
 63067,"Gra"
 63068,"Typ mapy"
@@ -4374,6 +4374,7 @@
 63163,"Utwórz grę w sieci lokalnej, do której mogą dołączyć inni gracze. Ty wybierasz ustawienia gry."
 63164,"X4 jest dostępny tylko dla maszyn z 16GB RAM lub więcej."
 63165,"Znajdź niestandardowe kampanie"
+
 63180,"Dzięki za udział w grze!"
 63181,"Podoba Ci się Age of Empires: Definitive Edition?\nOceń grę!"
 63182,"Oceń"
@@ -4573,7 +4574,7 @@
 64103,"Nie masz odpowiednich uprawnień."
 64104,"Wszystkie miejsca zajęte."
 64105,"Brak połączenia z usługą Xbox Live. Gra wieloosobowa i przechowywanie w chmurze są niedostępne do momentu nawiązania połączenia."
-64106,"Dołacz do poczekalni..."
+64106,"Dołącz do poczekalni..."
 64107,"Nie można połączyć się z poczekalni."
 64108,"Poczekalnia jest obecnie niedostępna. Proszę spróbować ponownie za kilka minut.."
 64109,"Pobieranie poczekalni...."
