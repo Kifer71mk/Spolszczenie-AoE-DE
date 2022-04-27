@@ -3294,7 +3294,7 @@
 39652,"Powolna i ciężka jednostka piechoty z potężnym atakiem."
 39653,"Ulepszenie Hoplity. Falangista ma większą siłę ataku i mocniejszy pancerz."
 39654,"Lekki jeździec z dużym zasięgiem wzroku, przydatny do eksploracji mapy."
-39655 "Ten mały chłopiec tak naprawdę nie interesuje się teorią względności, ale rozszczepia atomy w celach destrukcyjnych. Kombinezon astronauty maskuje jego złe uczynki jako czyny w imię nauki".
+39655,"Teoria względności nie bardzo interesuje tego chłopca, ale rozszczepia on atomy w celach destrukcyjnych. Jego kostium astronauty sprawia, że jego straszne występki wyglądają jak badania naukowe."
 39656,"Służy do szkolenia jednostek kawalerii, które angażują się w walkę wręcz. Wymagana do budowy Akademii."
 39657,"Używana przez wieśniaków jako miejsce składowania żywności z polowań i rybołówstwa, a także drewna, kamienia i złota. Można tu opracowywać technologie poprawiające pancerz i siłę ataku jednostek wojskowych."
 39659,"Służy do szkolenia Kapłanów i badań nad technologiami, które zwiększają ich moce."
@@ -3304,26 +3304,26 @@
 39762,"Ulepszenie Małego muru. Średni mur ma więcej punktów wytrzymałości."
 39763,"Mały mur. Służy do ochrony przed wrogami."
 39764,"Najprostsza wieża. Atakuje wrogów strzałami."
-39773 "Odważny przywódca Argonautów, który odzyskał Złote Runo z wyspy Colchis".
-39774 "Szanowany facet, który naprawdę śmierdzi w chowanego".
-39775 "Najlepiej o nim nie myśleć".
-39776 "Ten człowiek ma jeden cel: zniszczyć wszystko, co może i spowodować jak najwięcej cierpienia. Prawdopodobnie dlatego zaczęli nazywać go Mor Havoc".
-39777 "Ludzie, których marzeniem jest zostać bohaterem. Czy mu się uda?"
-39778,"Bracie Corlis, ma takie same ambicje. Prawdopodobnie nie pochodzi z najmądrzejszej z rodzin".
-39779 "Książę Troi i pogromca greckich bohaterów. Dumny wojownik, którego odwaga rzadko go zawodzi".
-39780 "Siły specjalne zaznajomione z kamuflażem, pływaniem, strzelaniem z łuku i desantami. Kiedy widzisz drzewa na wodzie, to starożytni marines!"
-39781,"Najwspanialszy rodzaj starożytnej moździerza, jaki kiedykolwiek zbudowano. Według legendy (i ku zazdrości rzymskich inżynierów oblężniczych) został zbudowany przez germańskich rzemieślników".
-39782,"Bohaterowie mają specjalne atrybuty, jak pokazano w polu stanu w dolnej środkowej części ekranu gry".
-39783 "Jeżdżą w czerni i sieją terror, gdziekolwiek się pojawią. Przypuszczalnie wyłącznie w imieniu sprawiedliwości".
-39784,"Ogólny bohater".
-39785 "Bohaterowie mają specjalne atrybuty, jak pokazano w polu statusu w dolnej środkowej części ekranu gry."
-39786 "Ten, który zdradził swoich przyjaciół, rodzinę i zasady".
-39787 "Zahartowany weteran, który walczy o najwyższą cenę".
-39788 "Żołnierz kosmiczny wyposażony w przenośne lustrzane działo Archimediana, które wystrzeliwuje fotony z większą prędkością niż CERN".
-39789,"Rydwan przyszłości o ogromnej sile ognia i mocy. Specjalna konstrukcja zamówiona przez S. Winsetta z wyrzutnią rakiet zamontowaną przez Zaibatsu. Czy to cię kręci?"
-39790 "Oto smoki. Według legendy te starożytne smoki z Cambrii ogłaszają nadejście króla Brytyjczyków. Pożerały wszystkie ptaki i mają skórę twardą jak kamień."
-39791,"Bohaterowie mają specjalne atrybuty, jak pokazano w polu stanu w dolnej środkowej części ekranu gry".
-39792,"Bohaterowie mają specjalne atrybuty, jak pokazano w polu stanu w dolnej środkowej części ekranu gry".
+39773,"Lekkomyślny przywódca Argonautów, którzy wyruszyli po złote runo na wyspę Kolchida."
+39774,"Szanowany człowiek, który naprawdę nie potrafi się ukryć."
+39775,"Lepiej o nim nie myśleć."
+39776,"Ten człowiek ma jeden cel; niszczyć wszystko, co się da, i zadawać jak najwięcej cierpienia. Pewnie dlatego zaczęto go nazywać Wielkim Niszczycielem"
+39777,"Biedny prostaczek, który marzy o tym, by zostać bohaterem. Czy to się uda?"
+39778,"Brat Corlisa, jego ambicje są identyczne. Ich rodzina prawdopodobnie nie należy do najzdolniejszych."
+39779,"Książę Troi i pogromca greckich bohaterów. Dumny wojownik, któremu rzadko brakuje odwagi."
+39780,"Siły specjalne są mistrzami kamuflażu, pływania, strzelania z łuku i desantu amfibijnego. Jeśli widzisz drzewa na wodzie, to są to mstarożytni marines!"
+39781,"Najwspanialszy typ starożytnego moździerza, jaki kiedykolwiek powstał. Zgodnie z legendą (i ku przerażeniu rzymskich inżynierów oblężniczych) został zaprojektowany przez germańskich rzemieślników."
+39782,"Bohaterowie mają specjalne atrybuty, które są wyświetlane w obszarze stanu w dolnej środkowej części ekranu gry."
+39783,"Jeżdżą w czerni i sieją terror, gdziekolwiek się pojawią. Przypuszczalnie wyłącznie w imieniu sprawiedliwości."
+39784,"Zwykły bohater."
+39785,"Bohaterowie mają specjalne atrybuty, które są widoczne w polu stanu w dolnej środkowej części ekranu gry."
+39786,"Człowiek, który zdradził swoich przyjaciół, swoją rodzinę i swoje zasady."
+39787,"Zaprawiony w bojach weteran, który walczy o najwyższą stawkę."
+39788,"Kosmiczny żołnierz z działkiem zwierciadlanym Archimedesa, które wystrzeliwuje fotony z prędkością bardziej zabójczą niż zderzacz hadronów CERN."
+39789,"Rydwan przyszłości o ogromnej sile ognia i mocy koni mechanicznych. Specjalna konstrukcja dostosowana do potrzeb Auta rakietowego, wyposażony w wyrzutnię rakiet zainstalowaną przez Zaibatsu. Czy to cię kręci?"
+39790,"Tu mieszkają smoki. Według legendy te pradawne smoki z Cambrii zwiastują przybycie brytyjskiego króla. Pożerają wszystkie ptaki i mają skórę twardą jak kamień."
+39791,"Bohaterowie mają specjalne atrybuty, które są widoczne w polu stanu w dolnej środkowej części ekranu gry."
+39792,"Bohaterowie mają specjalne atrybuty, które są widoczne w polu stanu w dolnej środkowej części ekranu gry."
 39798,"Masywna budowla będąca ukoronowaniem cywilizacji. Zbudowanie Cudu może być warunkiem zwycięstwa lub zwiększyć Twój wynik."
 39799,"Najsilniejsza wieża. Ulepszenie Wieży strażniczej. Wieża z balistą ma większą siłę ataku niż Wieża strażnicza."
 39800,"Ulepszenie Triery katapultowej. Ciężka triera katapultowa ma więcej punktów wytrzymałości i większy zasięg."
@@ -3339,13 +3339,13 @@
 39817,"Ulepszenie Rydwanu. Ma wysoką odporność na nawracanie. Zadaje obrażenia sąsiednim wrogim jednostkom tratując je (podtyp ataku obszarowego)."
 39818,"Ulepszenie Słonia bojowego. Ma zwiększony pancerz przeciwko Balistom, Helepolisom i broni miotającej oraz zadaje obrażenia sąsiednim wrogim jednostkom tratując je (podtyp ataku obszarowego)."
 39819,"Można na nie polować w celu zdobycia żywności."
-39820,"Zmora Rzymu i czempion Kartaginy. Jest mało prawdopodobne, że był lub kiedykolwiek będzie lepszy generał niż Hannibal 'Błyskawica' ​​Barca".
-39821 "Genialny generał i mąż stanu. Jego ambicja zostania jedynym władcą Republiki Rzymskiej prawdopodobnie doprowadzi do jego zamordowania".
-39822 "Rzymski generał ze słynnej rodziny dowódców wojskowych. Pokonał Kartaginę".
-39823,"Porucznik Cezara, miłośnik Kleopatry i niedoszły pan Rzymu".
-39824 "Okręt flagowy Kleopatry. Dowodzi całą swoją flotą z tego stanowiska dowodzenia".
-39825 "Architektoniczne arcydzieło Królowej Zenobii. Ta obronna konstrukcja jest najsilniejsza z istniejących".
-39826 "Dumny wódz Arwernów. Utworzył koalicję plemion galijskich, aby powstrzymać rosnącą potęgę Rzymu".
+39820,"Zmora Rzymu i mistrz Kartaginy. Prawdopodobnie żaden inny generał nie był i nigdy nie będzie tak potężny jak Hannibal Barca, 'pioruński' Kartagińczyk."
+39821,"Generał i genialny mąż stanu. Jego ambicje, by zostać jedynym przywódcą Republiki Rzymskiej, z pewnością okażą się zgubne."
+39822,"Rzymski generał pochodzący ze słynnej wojskowej rodziny. Pokonał Kartaginę."
+39823,"Porucznik Cezara, kochanek Kleopatry i niedoszły władca Rzymu."
+39824,"Okręt flagowy Kleopatry. Z niego dowodzi całą swoją flotą."
+39825,"Arcydzieło architektoniczne królowej Zenobii. Ta struktura obronna jest najsilniejszą jak kiedykolwiek istniała."
+39826,"Dumny wódz Arwrnów. Zawiązał koalicję ze wszystkimi plemionami galijskimi, aby powstrzymać natarcie wojsk rzymskich."
 39827 "Genialny grecki naukowiec i wynalazca. Słynący ze swoich osiągnięć matematycznych i inżynierskich".
 39828 "Zawiera wyrafinowany zestaw luster zbierających światło, które skupiają intensywne ciepło na atakujących statkach i oddziałach".
 39829,"Można na nie polować w celu zdobycia żywności."
@@ -3593,45 +3593,46 @@
 54518,"Kliknij, aby skierować jednostki do naprawy budynku lub łodzi."
 54519,"Więcej informacji na temat Age of Empires: Definitive Edition uzyskasz na stronie www.ageofempires.com."
 
-//Atrybuty cywilizacji w drzewie technologicznym
-//Asyryjczycy
+//Tech Tree Civ attributes
+//Tech Tree Civ attributes
+//Assyrians
 61000,"• Wieśniacy poruszają się o 10% szybciej."
 61001,"• Łucznicy strzelają o 25% szybciej."
-//Babilończycy
+//Babylonians
 61005,"• Wydobywający kamień pracują o 20% szybciej i transportują o 2 sztuki kamieni więcej.\n• Technologie odkrywane na targowisku są tańsze o 30%."
 61006,"• Mury i wieże posiadają 60% więcej punktów wytrzymałości."
 61007,"• Kapłani regenerują się o 30% szybciej."
-//Chosoni	
+//Choson	
 61010,"• Topornicy,  szermierze z gladiusem/z falcatą/ze spathą i legioniści mają wyższą wytrzymałość. Odpowiednio o 5, 15/20/60 i 80 punktów."
 61011,"• Technologie odkrywane w ziemiance są tańsze o 40%.\n• Wieże mają o 2 zwiększony zasięg."
 61012,"• Kapłani tańsi o 30%."
-//Egipcjanie	
+//Egyptians	
 61015,"• Farmy tańsze o 20%.\n•  Wydobywający złoto pracują o 20% szybciej i transportują o 2 sztuki więcej złota."
 61016,"• Jednostki rydwanowe posiadają większą wytrzymałość o 33 punkty."
 61017,"• Większy zasięg kapłanów o 3."
-//Grecy	
+//Greeks	
 61020,"• Centra miast działają o 10% szybciej począwszy od ery narzędzi.\n• Jednostki akademii poruszają się o 30% szybciej i\nkosztują 20% mniej."
 61021,"• Statki poruszają się o 20% szybciej."
-//Hetyci
+//Hittites
 61025,"• Zwiększony atak wszystkich łuczników o 1."
 61026,"• Miotacze kamieni, katapulty, i ciężkie katapulty posiadają 50% więcej punktów wytrzymałości."
 61027,"• Okręty wojenne (oprócz galery ogniowej) zasięg zwiększony o 2 w erze narzędzi, 3 w erze brązu i erze żelaza."
-//Minojczycy	
+//Minoans	
 61030,"• Statki tańsze o 30%."
 61031,"• Łucznicy kompozytowi posiadają zwiększony zasięg o 2."
 61032,"• Farmy produkują o 60 sztuk żywności więcej."
-//Persowie	
+//Persians	
 61035,"• Łowcy polują o 30% szybciej i niosą o 3 sztuki żywności więcej."
 61036,"• Wszystkie jednostki ze słoniami poruszają się 25% szybciej."
 61037,"• Triery strzelają 25% szybciej."
-//Fenicjanie
+//Phoenicians
 61040,"• Drwale pracują o 15% szybciej i noszą o 2 sztuki drewna więcej."
 61041,"• Jednostki ze słoniami są tańsze o 25%."
 61042,"• Triera katapultowa i ciężka triera katapultowa strzelają 30% szybciej."
 //Shang	
 61045,"• Koszt wieśniaków to 40 sztuk pożywienia.\n• Gra rozpoczyna się z pomniejszoną ilością pożywienia o 40 sztuk."
 61046,"• Mury posiadają zwiększoną wytrzymałość o 60%."
-//Sumerowie	
+//Sumerians	
 61050,"• Wieśniacy posiadają o 15 więcej punktów wytrzymałości."
 61051,"• Miotacze kamieni, katapulty i ciężkie katapulty strzelają o 30% szybciej."
 61052,"• Farmy produkują 125 sztuk żywności więcej."
@@ -3639,22 +3640,22 @@
 61055,"• Wieśniacy poruszają się o 10% szybciej."
 61056,"• Wszystkie jednostki kawalerii i konni łucznicy \nsą tańsi o 15%."
 61057,"• Statki mają 20% więcej punktów wytrzymałości."
-//Kartagińczycy	
+//Carthaginians	
 61060,"• Rozpoczynają grę grę z 50 dodatkowymi sztukami wszystkich zasobów.\n• Jednostki z akademii i jednostki słoni mają 25% więcej punktów wytrzymałości, jeźdźcy wielbłądzi  mają 15% więcej punktów wytrzymałości."
 61061,"• Galery ogniowe posiadają o 25% większą siłę ataku."
 61062,"• Statki transportowe poruszają się o 25% szybciej."
-//Macedończycy
+//Macedonians
 61065,"• Wszystkie jednostki niestrzelające posiadają większy o 2 punkty zasięg wzroku."
 61066,"• Jednostki akademii posiadają mocniejszy pancerz przeciw broni przebijającej o 1 w Erze brązu i o 2 w Erze żelaza."
 61067,"• Jednostki warsztatu oblężniczego tańsze o 25%."
 61068,"• Wszystkie jednostki są 4 razy bardziej odporne na nawracanie."
-//Palmyran	
+//Palmyrans	
 61070,"• Koszt wieśniaków podniesiony do 75 żywności, ale w zamian posiadają pancerz i pracują 25% szybciej."
 61071,"• Rozpoczynasz grę z liczbą żywności wyższą o 75 sztuk."
 61072,"• Jeźdźcy na wielbłądach poruszają się o 25% szybciej."
 61073,"• Daniny są bezpłatne."
 61074,"• Statki handlowe transportują więcej złota."
-//Rzymianie	
+//Romans	
 61075,"• Budowa budynków tańsza o 10%, z wyjątkiem wież, murów i cudów."
 61076,"• Wieże tańsze o 40%."
 61077,"• Piechurzy atakują 33% szybciej."
@@ -3662,11 +3663,11 @@
 61080,"Niedostępne technologie:"
 61081,"Niedostępne jednostki:"
 
-//Atrybuty cywilizacji w drzewie technologicznym Oryginalne
-//Asyryjczycy
+//Tech Tree Civ attributes Original
+//Assyrians
 61100,"• Wieśniacy poruszają się 18% szybciej."
 61101,"• Łucznicy strzelają 25% szybciej."
-//Babilończycy
+//Babylonians
 61105,"• Wydobywcy kamienni pracują o 30% szybciej i noszą o 3 kamienie więcej."
 61106,"• Podwojone punkty wytrzymałości murów i wież."
 61107,"• Kapłani regenerują się o 30% szybciej."
@@ -3674,26 +3675,26 @@
 61110,"• Piechurzy ze spathą i legioniści posiadają o 80 wiecej punktów wytrzymałości."
 61111,"• Wieże maja zwiększony zasięg o 2 punkty."
 61112,"• Kapłani tańsi o 30%."
-//Egipcjanie	
+//Egyptians	
 61115,"• Wydobywcy złota pracują 20% szybciej i transportują o 2 sztuki złota więcej."
 61116,"• Jednostki rydwanów posiadają o 33% punktów wytrzymałości więcej."
 61117,"• Kapłani posiadają 3 punkty zasięgu więcej."
-//Grecy	
+//Greeks	
 61120,"• Jednostki akademii poruszają się o 30% szybciej."
 61121,"• Okręty wojenne poruszają się o 17% szybciej."
-//Hetyci
+//Hittites
 61125,"• Wszyscy łucznicy posiadają atak mocniejszy o 1."
 61126,"• Podwojone punkty wytrzymałości miotaczy kamieni, katapult i ciężkich katapult."
 61127,"• Okręty wojenne (z wyjątkiem galery ogniowej) o 4 punkty więcej zasięgu."
-//Minojczycy	
+//Minoans	
 61130,"• Koszt okrętów zmniejszony o 30%."
 61131,"• Łucznicy kompozytowi posiadają zasięg zwiększony o 2."
 61132,"• Farmy produkują o 60 sztuk żywności więcej."
-//Persowie	
+//Persians	
 61135,"• Myśliwi pracują o 30% szybciej i przenoszą o 3 sztuki żywności więcej."
 61136,"• Jednostki słoni poruszają się o 50% szybciej."
 61137,"• Triery strzelają o 38% szybciej."
-//Fenicjanie
+//Phoenicians
 61140,"• Drwale pracują o 30% szybciej i przenoszą o 3 sztuki drewna więcej."
 61141,"• Jednostki słoni tańsze o 25%."
 61142,"• Triera katapultowa i ciężka triera katapultowa strzelają 58% szybciej."
@@ -3701,7 +3702,7 @@
 61145,"• Koszt wieśniaka to 40 sztuk żywności"
 61146,"• Podwójne punkty wytrzymałości murów."
 
-//Sumerowie	
+//Sumerians	
 61150,"• Wieśniacy mają o 15 punktów więcej wytrzymałości".
 61151,"• Miotacze kamieni, katapulty i ciężkie katapulty strzelają o 30% szybciej."
 61152,"• Farmy produkują o 250 sztuk żywności więcej."
@@ -3709,23 +3710,23 @@
 61155,"• Wieśniacy poruszają się o 18% szybciej."
 61156,"• Wszystkie jednostki kawalerii i konni łucznicy kosztują\n20% mniej."
 61157,"• Statki posiadają o 30% więcej punktów wytrzymałości."
-//Kartagińczycy	
+//Carthaginians	
 61160,"• Jednostki akademii i jednostki słoni + posiadają o 25% więcej punktów wytrzymałości."
 61161,"• Galery ogniowe mają zwiększona siłę ataku o 25%."
 61162,"• Statki transportowe poruszają się o 25% szybciej."
-//Macedończycy
+//Macedonians
 61165,"• Wszystkie jednostki niestrzelające posiadają o 2 punkty więcej zasięgu wzroku."
 61166,"• Jednostki akademii o 2 punkty więcej pancerza odpornego na przebicia."
 61167,"• Jednostki warsztatu oblężniczego tańsze o 50%."
 61168,"• Wszystkie jednostki są 4 razy bardziej odporne na nawracanie."
 
-//Palmyran	
+//Palmyrans	
 61170,"• Koszt wieśniaków to 75 żywności, ale posiadają o 1 mocniejszy pancerz i pracują o 20% szybciej."
 61171,"• Jeźdźcy na wielbłądach poruszają się o 25% szybciej."
 61172,"• Daniny są bezpłatne."
 61173,"• Statki handlowe transportują więcej złota."
 
-//Rzymianie	
+//Romans	
 61175,"• Budynki tańsze o 15%, z wyjątkiem wież, murów i cudów."
 61176,"• Wieże tańsze o 50%."
 61177,"• Piechurzy atakują 33% szybciej."
