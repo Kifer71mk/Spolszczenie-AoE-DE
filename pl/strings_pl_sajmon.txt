@@ -3346,30 +3346,30 @@
 39824,"Okręt flagowy Kleopatry. Z niego dowodzi całą swoją flotą."
 39825,"Arcydzieło architektoniczne królowej Zenobii. Ta struktura obronna jest najsilniejszą jak kiedykolwiek istniała."
 39826,"Dumny wódz Arwrnów. Zawiązał koalicję ze wszystkimi plemionami galijskimi, aby powstrzymać natarcie wojsk rzymskich."
-39827 "Genialny grecki naukowiec i wynalazca. Słynący ze swoich osiągnięć matematycznych i inżynierskich".
-39828 "Zawiera wyrafinowany zestaw luster zbierających światło, które skupiają intensywne ciepło na atakujących statkach i oddziałach".
+Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matematyki i inżynierii.
+39828,"Zawiera zaawansowany układ luster skupiajacych światło, a tak uzyskane ciepło jest kierowane na atakujące okręty i wojska."
 39829,"Można na nie polować w celu zdobycia żywności."
-39830,"Robot łowca-zabójca wysłany na ziemię, by niszczyć żołnierzy rebeliantów".
-39832 "Pomimo nazwy ten Franciszek nie jest pacyfistą".
-39833,"Edycja zimowa z ulepszeniami Q. Wystrzeliwuje mniejsze rakiety z większą szybkością. Tylko mama Winsetta wie, jak to włączyć. Ma klucze".
-39834,"Zamontowana niemowlę na trójkołowym rowerze. Słodkie, niewinne dziecko w cuchnących spodniach i strzelbie tatusia. Taka mała ukochana!"
-39835,"Dowódca armii".
-39836,"Wysoki Kapłan starożytnej tajemnej religii".
-39837,"Przywódca polityczny i religijny ludu egipskiego".
-39838 "Grecki bohater wojny trojańskiej i największy wojownik, jaki kiedykolwiek żył. Nieśmiertelny, ale z jakiegoś powodu bardzo chroni swoje pięty".
-39839,"Brat broni Achillesa oraz najsilniejszy i najwyższy ze wszystkich greckich wojowników. Jedynym wojownikiem wystarczająco potężnym, by go pokonać… jest on sam."
-39840 "Król wyspy Itaki i najgenialniejszy z Greków".
-39841,"Dziwny i uparty, ale głupi książę Troi. Inicjator wojny trojańskiej".
-39842,"Spartański generał najemników i geniusz taktyczny wynajęty przez Kartagińczyków do pomocy w walce z Rzymem".
-39843 "Pierwszy obywatel Aten. Zamienił małe miasto-państwo w imperium ateńskie".
-39844,"Wódz potężnej konfederacji plemiennej".
-39845 "Czarownik dworski cesarza chińskiego poszukujący życia wiecznego na górze Fuji. Znany również jako Jofuku."
-39846,"Książę wojowników i obrońca cesarza".
-39847,"Wielki Faraon i ucieleśnienie Boga Słońca".
-39848,"Przerażający hetycki król-wojownik".
-39849,"Wybierz wieśniaka i kliknij prawym przyciskiem myszy, aby ponownie obsiać tę farmę."
-39864,"Pokazuje cywilizację, nazwę, punkty życia, atak, zbroję, zbroję przebijającą i zasięg wybranej jednostki. Wyświetla także wiarę Kapłana (procent)."
-40464,"********** MESSAGES FOR UNIT BUILDS **********"
+39830,"Robot łowca-zabójca wysłany na Ziemię w celu unicestwienia żołnierzy rebeliantów."
+39832,"Pomimo swojego imienia, ten Franciszek nie jest pacyfistą."
+39833,"Wersja zimowa z ulepszeniami zaprojektowanymi przez Q. Wystrzeliwuje mniejsze pociski, ale z większą szybkością. Tylko matka Auta rakietowego wie, jak go uruchomić. To ona ma klucze."
+39834,"Niemowlę na trójkołowym rowerze. Urocze, niewinne dziecko z kupką w majtach i strzelbą tatusia. Taki uroczy mały łobuziak!"
+39835,"Dowódca wojsk."
+39836,"Najwyższy kapłan tajemniczej starożytnej religii."
+39837,"Polityczny i religijny przywódca narodu egipskiego."
+39838,"Grecki bohater wojny trojańskiej i największy wojownik, jaki kiedykolwiek chodził po tej ziemi. Nieśmiertelny, ale z jakiegoś powodu bardzo chroni swoje pięty."
+39839,"Brat Achillesa, największego i najsilniejszego z greckich wojowników. Jedynym wojownikiem, który jest wystarczająco silny, by go pokonać... jest on sam."
+39840,"Król wyspy Itaki i najinteligentniejszy z Greków."
+39841,"Zuchwały i uparty, ale głupi książę Troi. Zapoczątkował wojnę trojańską."
+39842,"Spartański generał najemny i geniusz taktyczny, zwerbowany przez Kartagińczyków, by pomóc im pokonać Rzym."
+39843,"Pierwszy obywatel Aten. Przekształcił to małe miasto-państwo w imperium ateńskie, które znamy dzisiaj."
+39844,"Wódz potężnej konfederacji plemiennej."
+39845,"Nadworny czarownik cesarza chińskiego, szukający życia wiecznego na górze Fuji. Znany również jako Jofuku."
+39846,"Książę wojownik i obrońca cesarza."
+39847,"Wielki faraon i wcielenie Boga Słońca."
+39848,"Przerażający wojowniczy król Hetytów."
+39849,"Wybierz wieśniaka i kliknij prawym przyciskiem myszy, aby ponownie obsiać farmę."
+39864,"Wyświetla informacje o cywilizacji, nazwę, punkty wytrzymałości, ataku, pancerza, pancerza przeciw pociskom przebijającym i zasięgu wybranej jednostki. Pokazuje również wiarę kapłanów (w procentach)."
+40464,"********** KOMUNIKATY DOTYCZĄCE BUDOWANIA JEDNOSTEK **********"
 40465,"Kliknij, aby zbudować Akademię."
 40472,"Kliknij, aby zbudować Koszary."
 40473,"Kliknij, aby zbudować Łódź rybacką."
