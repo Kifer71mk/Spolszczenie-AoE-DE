@@ -1250,8 +1250,8 @@
 9223,"Zapisana gra"
 9224,"Kampania"
 9225,"Anuluj"
-9226,"Mapa Losowa"
-9227,"Igrzyska Śmierci"
+9226,"Mapa losowa"
+9227,"Igrzyska śmierci"
 9241,"Microsoft® Age of Empires® Expansion:"
 9242,"Wersja 1.0"
 9243,"© & "
@@ -3537,32 +3537,32 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 41566,"Kliknij, aby wymienić kamień na złoto."
 
 
-//44000-44999 zarezerwowane dla deweloperów Skybox
-44000 "NIERANKING: Gra jest obecnie nierankingowa".
-44001,"Twój wynik Elo się nie zmienił. Mecz nie był w trybie rankingowym."
-44002,"RANKING: Losowa mapa"
-44003,"Zmiana oceny Elo na losowej mapie: %d (%+d) = %d."
-44004,"RANKING: Death Match"
-44005,"Zmiana rankingu Deathmatch Elo: %d (%+d) = %d."
-44007,"Twój wynik Elo się nie zmienił. Co najmniej jeden gracz opuścił grę przed %d sekund."
-44008,"JESZCZE NIE RANKING: Muszą być dokładnie 2 zrównoważone drużyny"
-44009,"Twój wynik Elo się nie zmienił. Mecz nie miał dwóch zrównoważonych drużyn."
-44010,"JESZCZE NIE RANKINGOWY: W meczu rankingowym nie może być graczy AI"
-44011,"Twój wynik Elo się nie zmienił. Mecz zawierał graczy AI."
-44012,"JESZCZE NIE RANKING: Nie można włączyć kodów w grze rankingowej"
-44013,"Twój wynik Elo się nie zmienił. Mecz miał włączone kody."
-44014,"JESZCZE NIE RANKING: Gracze w trybie współpracy nie są dopuszczeni do gry rankingowej"
-44015,"Twój wynik Elo się nie zmienił. Była drużyna kooperacyjna".
+//44000-44999 reserved for Skybox dev
+44000,"NIERANKINGOWA: Gra nie jest wliczana do rankingu."
+44001,"Twój wynik Elo nie uległ zmianie. Gra nie była rozgrywana w trybie rankingowym."
+44002,"RANKINGOWA: Mapa losowa"
+44003,"Zmiana oceny Elo na mapie losowej: %d (%+d) = %d."
+44004,"RANKINGOWA: Igrzyska śmierci"
+44005,"Zmiana oceny Elo na mapie igrzysk śmierci: %d (%+d) = %d."
+44007,"Twój wynik Elo się nie zmienił. Co najmniej jeden gracz opuścił grę przed upływem %d sek.."
+44008,"NIERANKINGOWA: gra musi mieć dokładnie 2 równoważne drużyny."
+44009,"Twój wynik Elo się nie zmienił. Gra nie miała dwóch zrównoważonych drużyn."
+44010,"NIERANKINGOWA: W grze rankingowej nie może być graczy AI."
+44011,"Twoja ocena Elo nie uległa zmianie. Gra zawierała graczy sterowanych przez AI."
+44012,"NIERANKINGOWA: Gra rankingowa nie może mieć włączonych kodów"
+44013,"Twój wynik Elo się nie zmienił. Gra miała włączone kody."
+44014,"NIERANKINGOWA: gracze w trybie współpracy nie mogą uczestniczyć w rozgrywkach rankingowych."
+44015,"Twoja ocena Elo nie uległa zmianie. Gra zawierała drużynę kooperacyjną."
 44017,"Twój wynik Elo nie zmienił się z powodu nieoczekiwanego błędu."
-44018,"JESZCZE NIE RANKINGOWANE: Drużyny muszą być zablokowane"
-44019,"Twój wynik Elo się nie zmienił. Drużyny zostały odblokowane."
-44020,"JESZCZE NIE RANKING: Nie udało się zdobyć wyników Elo"
-44021,"Twój wynik Elo się nie zmienił. Nie można obliczyć wyników Elo."
-44025,"Tablica wyników"
-44026,"JESZCZE NIE RANKINGOWANY: Nieprawidłowa liczba graczy w 1v1."
-44031,"JESZCZE NIE RANKING: Co najmniej 4 graczy jest wymaganych do gry zespołowej".
-44032,"Twój wynik Elo się nie zmienił. W meczu było mniej niż 4 graczy."
-44033,"Twój wynik Elo nie mógł być w tej chwili pobrany. Być może będziesz musiał zagrać jeszcze kilka gier, aby zostać sklasyfikowanym na tej tablicy wyników."
+44018,"NIERANKINGOWA: Drużyny muszą być zablokowane."
+44019,"Twój wynik Elo się nie zmienił. Drużyny były odblokowane."
+44020,"NIERANKINGOWA: Nie udało się zdobyć punktów Elo."
+44021,"Twój wynik Elo się nie zmienił. Nie można było obliczyć punktów Elo."
+44025,"Ranking"
+44026,"NIERANKINGOWA: Nieprawidłowa liczba graczy w 1v1."
+44031,"NIERANKINGOWA: Do gry zespołowej wymagane jest co najmniej 4 graczy."
+44032,"Twój wynik Elo się nie zmienił. W meczu uczestniczyło mniej niż 4 graczy."
+44033,"Nie można teraz pobrać Twojego wyniku Elo. Być może będziesz musiał zagrać w kilka innych gier, aby zostać sklasyfikowanym w rankingu."
 
 50000,"Testuj"
 54477,"Kliknij, aby wyświetlić menu gry."
@@ -3593,7 +3593,6 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 54518,"Kliknij, aby skierować jednostki do naprawy budynku lub łodzi."
 54519,"Więcej informacji na temat Age of Empires: Definitive Edition uzyskasz na stronie www.ageofempires.com."
 
-//Tech Tree Civ attributes
 //Tech Tree Civ attributes
 //Assyrians
 61000,"• Wieśniacy poruszają się o 10% szybciej."
