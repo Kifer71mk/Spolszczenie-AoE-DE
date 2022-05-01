@@ -1554,11 +1554,11 @@
 9854,"Neutralny"
 9855,"Wróg"
 9856,"Przekaż daninę (koszt %d%%)"
-9857,"Zwycięstwo w Sojuszu"
+9857,"Zwycięstwo w sojuszu"
 9858,"Potwierdź"
 9859,"Wyczyść daniny"
 9860,"Wyjście"
-9861,"100 Złota"
+9861,"100 złota"
 9862,"Nazwa"
 9863,"Potrzebujesz Targowiska, aby zapłacić daninę."
 9871,"--------Populacja--------"
@@ -1635,24 +1635,24 @@
 10107,"Losowo"
 10211,"Komputer"
 10212,"Dowolnie"
-10231,"Egipcjanie"//Egyptian
-10232,"Grecy"//Greek
-10233,"Babilończycy"//Babylonian
-10234,"Asyryjczycy"//Assyrian
-10235,"Minojczycy"//Minoan
-10236,"Hetyci"//Hittite
-10237,"Fenicjanie"//Phoenician
-10238,"Sumerowie"//Sumerian
-10239,"Persowie"//Persian
-10240,"Shang"//
-10241,"Yamato"//
-10242,"Choson"//
+10231,"Egipcjanie"
+10232,"Grecy"
+10233,"Babilończycy"
+10234,"Asyryjczycy"
+10235,"Minojczycy"
+10236,"Hetyci"
+10237,"Fenicjanie"
+10238,"Sumerowie"
+10239,"Persowie"
+10240,"Shang"
+10241,"Yamato"
+10242,"Choson"
 10244,"Nieznany"
 10245,"Nazwa plemienia"
-10246,"Rzymianie"//Roman
-10247,"Kartagińczycy"//Carthaginian
-10248,"Macedończycy"//Macedonian
-10249,"Palmyrczycy"//Palmyran
+10246,"Rzymianie"
+10247,"Kartagińczycy"
+10248,"Macedończycy"
+10249,"Palmyrczycy"
 10250,"Losowo"
 10251,"Żywność"
 10252,"Drewno"
@@ -2650,7 +2650,7 @@
 20100,"Polecenia dla jednostek"
 20101,"Polecenia gry"
 20102,"Polecenia przewijania"
-20103 "Twórz wieśniaka"
+20103,"Wieśniacy - polecenia budowy"
 20104,"Centrum miasta"
 20106,"Kuźnia"
 20107,"Port"
@@ -3013,7 +3013,7 @@
 30208,"Wybierz liczbę graczy."
 30209,"Kliknij, aby wyświetlić adres sieciowy. Możesz podać swój adres IP innym graczom, aby mogli dołączyć do Twojej gry."
 30210,"Kliknij, aby zaznaczyć, że jesteś gotowy do rozpoczęcia gry. Twórca gry nie może rozpocząć gry, dopóki wszyscy gracze nie będą gotowi. Nazwy graczy, którzy są gotowi są zaznaczone na zielono."
-30211,"Kliknij, aby wybrać drużynę. Myślnik (-) oznacza brak drużyny, znak zapytania (?) oznacza losowo wybraną drużynę. Jeśli wszyscy gracze wybiorą losowe drużyny, zostaną utworzone dwie drużyny. Postawa dyplomatyczna graczy w tej samej drużynie jest ustawiona na Sprzymierzeniec i Zwycięstwo w Sojuszu."
+30211,"Kliknij, aby wybrać drużynę. Myślnik (-) oznacza brak drużyny, znak zapytania (?) oznacza losowo wybraną drużynę. Jeśli wszyscy gracze wybiorą losowe drużyny, zostaną utworzone dwie drużyny. Postawa dyplomatyczna graczy w tej samej drużynie jest ustawiona na Sprzymierzeniec i Zwycięstwo w sojuszu."
 30212,"Kliknij, aby wybrać kolor cywilizacji. W grze wieloosobowej, dwóch lub więcej graczy może wybrać ten sam kolor i grać w grę kooperacyjną, w której dzielą się kontrolą nad tą samą cywilizacją."
 30213,"Kliknij, aby anulować grę."
 30214,"Kliknij, aby otworzyć drzewo technologii i zobaczyć różnice między cywilizacjami."
@@ -3069,7 +3069,7 @@
 30345,"Kliknij, aby złożyć daninę temu graczowi w wysokości 100 sztuk złota. Za każdym razem, gdy klikniesz przycisk, z twoich zapasów odejmowane jest 125 sztuk złota (100 trafia do gracza, a 25 jest pobierane jako podatek)."
 30346,"Kliknij, aby złożyć daninę temu graczowi w wysokości 100 sztuk kamieni. Za każdym razem, gdy klikniesz przycisk, z twoich zapasów odejmowane jest 125 sztuk kamieni (100 trafia do gracza, a 25 jest pobierane jako podatek)."
 30347,"Kliknij, aby wyczyścić wszystkie daniny przed ich wypłaceniem."
-30348,"Jeśli zaznaczysz, sojusznicy wygrywają lub przegrywają jako drużyna. Każdy sojuszniczy gracz, który osiągnie warunek zwycięstwa, wygrywa grę dla wszystkich sojuszników. Wszyscy gracze, którzy chcą dążyć do zwycięstwa sojuszniczego, muszą wybrać opcję Zwycięstwo w Sojuszu."
+30348,"Jeśli zaznaczysz, sojusznicy wygrywają lub przegrywają jako drużyna. Każdy sojuszniczy gracz, który osiągnie warunek zwycięstwa, wygrywa grę dla wszystkich sojuszników. Wszyscy gracze, którzy chcą dążyć do zwycięstwa sojuszniczego, muszą wybrać opcję Zwycięstwo w sojuszu."
 30400,"Kliknij, aby utworzyć losowo generowane lub niestandardowe mapy."
 30401,"Kliknij, aby umieścić zasoby, wzniesienia, klify, lasy i wodę."
 30402,"Kliknij, aby wybrać erę początkową, ilość zasobów, cywilizację, technologię początkową i cywilizację, oraz AI graczy komputerowych."
@@ -3168,7 +3168,7 @@
 30522,"Kliknij, aby uniemożliwić graczowi zbudowanie centrum miasta i dostęp do zawartych w nim jednostek i technologii."
 30523,"Kliknij, aby uniemożliwić graczowi zbudowanie cudu."
 30525,"Wybierz gracza, który ma zostać dostosowany."
-30526,"Kliknij, aby wybrać, czy gracze sojuszniczy mają wygrywać i przegrywać jako drużyna. Każdy sojuszniczy gracz, który osiągnie warunek zwycięstwa, wygrywa grę dla wszystkich sojuszników. Musisz wybrać zwycięstwo w sojuszu dla wszystkich sojuszników."
+30526,"Kliknij, aby wybrać, czy gracze sojuszniczy mają wygrywać i przegrywać jako drużyna. Każdy sojuszniczy gracz, który osiągnie warunek zwycięstwa, wygrywa grę dla wszystkich sojuszników. Musisz wybrać Zwycięstwo w sojuszu dla wszystkich sojuszników."
 30527,"Kliknij, aby ustawić stanowisko dyplomatyczne gracza wobec tego gracza na sojusznicze. Jednostki wojskowe gracza nie atakują tej cywilizacji."
 30528,"Kliknij, aby ustawić postawę dyplomatyczną gracza wobec tego gracza na neutralną. Jednostki wojskowe gracza atakują budynki i wieśniaków na rozkaz, a także automatycznie atakują wszystkie jednostki wojskowe znajdujące się w zasięgu ich wzroku."
 30529,"Kliknij, aby ustawić postawę dyplomatyczną gracza wobec tego gracza na wrogą. Jednostki wojskowe gracza (z wyjątkiem zwiadowców) atakują wszystkie budynki, jednostki wojskowe i wieśniaków, którzy znajdą się w zasięgu ich wzroku."
@@ -3969,7 +3969,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62118,"Minimapa"
 62119,"Mapa w kształcie rombu pokazuje świat w pomniejszonej skali. Kliknij na minimapę, aby przejść do tego samego miejsca na dużej mapie."
 62120,"Era"
-62121,"Opis paska wieku"
+62121,"Opis paska ery"
 62122,"Stop"
 62123,"Kliknij, aby zatrzymać bieżące działanie."
 62124,"Buduj"
@@ -4194,8 +4194,8 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62853,"Kliknij, aby ustawić swoją postawę dyplomatyczną wobec tego gracza jako neutralną. Twoje jednostki wojskowe atakują budynki i wieśniaków tylko na rozkaz, ale automatycznie atakują wszystkie jednostki wojskowe w zasięgu ich wzroku."
 62854,"Wróg"
 62855,"Kliknij, aby ustawić swoją postawę dyplomatyczną wobec tego gracza na wrogą. Twoje jednostki wojskowe (z wyjątkiem Zwiadowców) atakują wszystkie budynki, jednostki wojskowe i wieśniaków, którzy znajdą się w zasięgu ich wzroku."
-62856,"Zwycięstwo w Sojuszu"
-62857,"Jeśli zaznaczone, sojusznicy wygrywają lub przegrywają jako drużyna. Każdy sojuszniczy gracz, który osiągnie warunek zwycięstwa, wygrywa grę dla wszystkich sojuszników. Wszyscy gracze, którzy chcą dążyć do zwycięstwa sojuszniczego muszą wybrać Zwycięstwo w Sojuszu."
+62856,"Zwycięstwo w sojuszu"
+62857,"Jeśli zaznaczone, sojusznicy wygrywają lub przegrywają jako drużyna. Każdy sojuszniczy gracz, który osiągnie warunek zwycięstwa, wygrywa grę dla wszystkich sojuszników. Wszyscy gracze, którzy chcą dążyć do zwycięstwa sojuszniczego muszą wybrać Zwycięstwo w sojuszu."
 62858,"Potwierdź"
 62859,"Kliknij, aby potwierdzić wszystkie zmiany dyplomatyczne i wysłać wszystkie wprowadzone daniny."
 62860,"Wyczyść daniny"
@@ -4290,7 +4290,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 63063,"Wygrane/Przegrane:"
 63064,"Stosunek wygranych:"
 
-63065,"Typ meczu"
+63065,"Typ gry"
 63066,"Region"
 63067,"Gra"
 63068,"Typ mapy"
@@ -4305,9 +4305,9 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 63077,"Wszystkie"
 
 63078,"Znajomi"
-63079,"Umiejętność"
+63079,"Umiejętności"
 63080,"Daleko"
-63081,"Regionalny"
+63081,"Regionalna"
 63082,"Zamknij"
 63083,"Graj"
 63084,"Kampanie"
@@ -4323,24 +4323,24 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 63093,"Dodaj jako znajomego"
 63094,"Zablokuj użytkownika"
 63095,"Zaproś..."
-63096,"Wyświetl kartę gracza"
+63096,"Pokaż profil gracza"
 63097,"Zgłoś gracza"
 63098,"Przełącz na tryb klasyczny."
 63099,"Pokaż profil."
-63100,"Zaloguj się przy użyciu Twojego profilu Xbox Live, aby kontynuować."
+63100,"Aby kontynuować, zaloguj się za pomocą swojego profilu Xbox Live."
 63101,"ZALOGUJ SIĘ"
-63102,"WYJŚCIE"
+63102,"WYJŚCIE"//WYLOGUJ SIĘ????
 63103,"Poszukiwanie gry..."
 63104,"Anuluj"
 63105,"Musisz być online, \n aby grać w trybie wieloosobowym"
 63106,"Zmień ustawienia prywatności,\n aby grać w trybie wieloosobowym"
-63107,"Ranga"
-63108,"Ranga Igrzyska Śmierci"
+63107,"Ranking Elo"
+63108,"Elo Igrzysk Śmierci"
 
 63109,"Wersja"
-63110,"Poczekaj chwilę.\nNie jesteś do końca synchronizowany\nz usługą Xbox Live"
+63110,"Poczekaj chwilę.\nNie jesteś synchronizowany(a)\nz usługą Xbox Live"
 63111,"Ping"
-63112,"Ranga"
+63112,"Ranking Elo"
 
 63113,"Ogranicz do 30 FPS"
 63114,"Narrator"
