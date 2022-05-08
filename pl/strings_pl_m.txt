@@ -1451,7 +1451,7 @@
 9710,"Rozpocznij grę"
 9711,"IP"
 9712,"Limit populacji: %d"
-9713,"Znajdowanie ścieżki: %s"//?????
+9713,"Znajdowanie ścieżki: %s"//???
 9714,"Drzewo technologii"
 9715,"Typ gry"
 9716,"Nie masz tego scenariusza lub masz inną jego wersję."
