@@ -4041,7 +4041,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62190,"Ustaw jednostki w postawie pasywnej."
 62191,"Kliknij, aby ustawić jednostki w postawie pasywnej. Jednostki nie będą atakować i nie będą odpowiadać na atakujących."
 
-//62600-62699 Official Campaign titles and descriptions for localizaion
+//62600-62699 Oficjalne tytuły i opisy kampanii dla lokalizacji
 62600,"Kampania szkoleniowa: Rozkwit Egiptu"
 62601,"Postaw pierwsze kroki w Age of Empires i poznaj historię najdłuższej na świecie, nieprzerwanie istniejącej cywilizacji. Jako duch przewodni Egiptu osiedlaj się wzdłuż żyznej rzeki Nil, prowadź wojny i jednocz królestwa Górnego i Dolnego Egiptu z Narmerem, buduj wspaniałe zabytki Hatszepsut i zapuszczaj się w obce krainy, by podbijać Nubijczyków i Kananejczyków. Doświadczeni gracze Age of Empires mogą zacząć od scenariusza 9 - Placówka nad rzeką."
 62602,"Kampania szkoleniowa: Rozkwit Egiptu została ukończona!"
