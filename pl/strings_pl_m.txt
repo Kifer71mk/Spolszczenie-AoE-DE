@@ -4581,7 +4581,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 
 // Languages
 64300,"English"
-64301,"Español Mexicano"
+64301,"Polski"
 64302,"Español"
 64303,"Portugues Brasil"
 64304,"Franąais"

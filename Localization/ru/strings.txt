@@ -4577,7 +4577,7 @@
 
 // Языки
 64300,"English"
-64301,"Español Mexicano"
+64301,"Polski"
 64302,"Español"
 64303,"Português Brasil"
 64304,"Français"

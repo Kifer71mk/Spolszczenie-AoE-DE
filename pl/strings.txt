@@ -4122,6 +4122,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62732,"Cud świata"
 62733,"Oblężenie Kanaanu"
 62734,"Claiming Territory"
+							   
 62735,"Acropolis"
 62736,"The Conquest of Crete"
 62737,"The Trojan War"
@@ -4580,7 +4581,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 
 // Languages
 64300,"English"
-64301,"Español Mexicano"
+64301,"Polski"
 64302,"Español"
 64303,"Portugues Brasil"
 64304,"Franąais"
@@ -4712,6 +4713,9 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 70263,"The combined might of the Spartan land and naval forces was too much for your garrison. As the Spartan army advanced towards the walls of Athens, the harbor of Piraeus was blockaded by a plethora of Spartan ships, preventing any supplies from reaching the city from the Aegean. With supplies running low and morale even lower, you have no choice but to surrender to the enemy. Pray to Athena that they will be merciful!"
 70264,"By the 5th century BCE, the region of Hellas (as the Greeks called modern-day Greece) was dominated by a number of several powerful city-states, such as Athens, Sparta, Thebes, and Corinth. These city-states tended to compete with each other economically, militarily, and culturally, but were briefly galvanized by a pair of dangerous invasions conducted by the Achaemenid Empire. This period was termed as the Persian Wars, and yielded some of the most popular narratives to come out of the classical era, such as the heroic but doomed defense of the coastal passage of Thermopylae by King Leonidas of Sparta and his 300 warriors. In the wake of the victory over the Persians, the Greek city-states flourished and expanded their influence further than ever before.\n\nTwo city-states arose to prominence during this time. Athens was the leader of the powerful Delian League, a thalassocracy of city-states and territories that encompassed much of the Aegean Sea, dominating the economic climate of the region and boasting quite possibly the most powerful navy in the Mediterranean seen to date. Sparta, on the other hand, headed the fearsome Peloponnesian League, a formidable land-based power built on a slave economy and rigorous military training. Although the focus of each alliance was largely different, the tension between them began to increase as time went on.\n\nBy 431 BCE, a Theban-Spartan attack on Plataea (an Athenian ally) had drawn the Delian and Peloponnesian Leagues into a deadly war that would last nearly thirty years. Thucydides' vivid account of the events of the entire Peloponnesian War demonstrates considerable early success on the part of the Athenian navy—a success that was nevertheless tempered by the effects of a devastating plague that ravaged Attica, killing roughly half of its population. The conflict carried on for years with relatively equal victories and defeats seen by both sides, but the balance was tipped by the folly of the disastrous Sicilian Expedition of 415-413 BCE, which cost Athens 100 triremes, 30,000 oarsmen, and virtually a generation of citizen-soldiers. Their military power was crippled considerably.\n\nAlthough Athens attempted to recover over the next several years, the Spartans were able to push into Attica, while simultaneously defeating the Athenian navy at Aegospotomai in 405 BCE. Its naval supply cut, the city of Athens had no choice but to surrender to the besieging Spartans, who humbled the once-great power and ended the war. Internal difficulties plagued the Peloponnesian League, however, and democracy was soon restored in Athens."
 
+																																																																																																																																																																																																																																																								
+																																																																																										   
+																																																																																																																																																																																																								  
 
 70270,"Mesopotamia, 401 BCE\n\nThe Peloponnesian War has concluded, bringing peace to Hellas for a short time. You are part of a company of 10,000 Greek mercenaries hired to support Cyrus the Younger in his struggle to claim the Persian throne from Artaxerxes II, his brother. The Battle of Cunaxa yielded an overwhelming victory for your company, but it is all for naught as Cyrus fell in combat. Your contingent of mercenaries is now isolated deep inside the Persian Empire, with no help in sight. The journey to the nearest port on the Black Sea will be long and perilous, but it yields the opportunity for ample spoils and an eventual return home. Capture the Artifact held in the city on the coast, build a transport ship there, and bring the Artifact to friendly territory in the far north.\n\nCele:\n• Capture the Artifact.\n• Escort the Artifact to your Centrum rządowe in the north of the map."
 70271,"1. Choose your building sites carefully.\n2. Use your resources wisely, for they are in short supply.\n3. A shortage of supplies means that not all buildings and ships will be available on your journey."
