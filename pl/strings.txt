@@ -1414,7 +1414,7 @@
 9673,"Zostałeś wyrzucony z gry."
 9674,"Gra została anulowana."
 9675,"Procent"
-9676,"Liczba"// konto, liczba? rachunek????
+9676,"Konto"
 9677,"Ilość"
 9678,"Gra wieloosobowa"
 9679,"Gra jednoosobowa"
@@ -1495,7 +1495,7 @@
 9754,"Nieprzejezdne farmy"
 9760,"Scenariusz"
 
-//Added for dropdown help text
+//Dodano do rozwijanego tekstu pomocy
 9761,"Najpopularniejszy typ gry; wybierasz ustawienia i warunki zwycięstwa"
 9762,"Wszyscy gracze zaczynają z ogromnymi zapasami drewna, żywności, złota i kamienia, a następnie walczą na śmierć i życie."
 9763,"Zagraj na niestandardowej mapie, którą stworzyłeś Ty lub społeczność."
@@ -3815,7 +3815,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 61277,"Tarcza"
 61278,"Tarcza żelazna"
 61279,"Wieża z balistą"
-61280,"Ciężkia triera katapultowa"
+61280,"Ciężka triera katapultowa"
 61281,"Helepolis"
 61282,"Ciężka katapulta"
 61283,"Ciężki konny łucznik"
@@ -4706,7 +4706,6 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 70212,"Twoje zwycięstwo nad sąsiednimi plemionami zapewniło Twojemu ludowi dostęp do najbardziej żyznej ziemi pod zasiewy. Pelazgowie, Achajowie i Danaowie poddali się dobrowolnie twojej władzy lub uciekli do sąsiednich regionów, by leczyć rany. Twoi ludzie mogą teraz budować osady, zakładać szlaki handlowe i rozszerzać swoje wpływy na sąsiednie regiony."
 70213,"Twoi ludzie walczyli dzielnie, ale nie mieli charyzmatycznego przywódcy, w przeciwieństwie do swoich przeciwników. Ciągłe najazdy wrogów złamały waszą wolę i zmusiły was do udania się na jałowe, surowe ziemie, których nie pożądają inni osadnicy. Żyjąc z niewielkich zasobów dostępnych w tym bezlitosnym terenie, twoi ludzie marzą o dniu, w którym zdolniejszy przywódca wskaże im lepszą przyszłość."
 70214,"Cywilizacja mykeńska rozwinęła się najpierw w regionie Argolidy na Peloponezie, ale wkrótce rozprzestrzeniła się na wiele sąsiednich krain. Wczesna gospodarka mykeńska opierała się głównie na połączeniu rolnictwa i pasterstwa, koncentrując się na uprawie roślin i hodowli zwierząt gospodarskich. Dzięki ulepszonym i wydajniejszym technikom rolniczym, i co za tym idzie, podziałowi pracy, społeczeństwo mykeńskie stało się bardziej zróżnicowane, i rozpoczęło ekspansję terytorialną. Jednym z najsłynniejszych artefaktów z tego okresu jest tzw. \"Maska Agamemnona\", złota maska grobowa datowana na XVI wiek p.n.e.\n\nChociaż klimat Grecji był ogólnie korzystny, znaczna część terenu była górzysta, a ilość żyznej ziemi pod uprawy ograniczona. Rywalizacja o ziemię uprawną i zasoby mineralne sprzyjała konfliktom między sąsiadującymi grupami i powstałymi później miastami-państwami. Plemiona nieustannie walczyły ze sobą i choć starannie przygotowane bitwy zdarzały się rzadko, wojna często prowadziła do niszczenia wrogich upraw i kradzieży inwentarza - ataków, które miały za cel pozbawienie przeciwnika zdolności do produkcji żywności. Uprawy zboża były palone, drzewa oliwne ścinane, a zwierzęta gospodarskie kradzione lub zabijane na miejscu. W rezultacie osady przenosiły się z miejsc w pobliżu pól uprawnych do cytadeli na wzgórzach, przez Greków nazywanymi akropolami, które były łatwiejsze do obrony.\n\nSpołeczeństwa mykeńskie gromadziły się wokół tych ufortyfikowanych osad. Zwykli ludzie byli rządzeni przez elitę wojowników, na czele której stał zwykle król, zwany w lokalnym języku \"wanaks\". Zwyczaje pogrzebowe stały się w tym okresie bardziej wyrafinowane, a wiele archeologicznych dowodów kultury mykeńskiej dostępnych historykom znajduje się właśnie w miejscach pochówku. Mimo że konflikty były częste, miasta-państwa wolały nawiązywać stosunki dyplomatyczne i więzi gospodarcze z sąsiadami, które później rozszerzały na inne kraje. Mykeńskie artefakty zostały znalezione w licznych obszarach przybrzeżnych w pobliżu Morza Egejskiego, a nawet tak odległych jak Cypr, Egipt i ziemie fenickie we wschodniej części Morza Śródziemnego."
-
 70220,"Mycenae, 1400 BCE\n\nYour people are now largely settled, and they have prospered for the past several generations. You are not alone, however—other city-states have risen and begun to expand as well. As border clashes begin, it becomes clear that growth is possible only at the expense of neighboring rivals. The Tirynians covet the lands that you now control, and have begun to aggressively press the issue. This outrage must not be allowed to continue. Secure your control over this region by capturing the ancient Ruins close to the nearby town of Tiryns. Build two Wieża strażnicza adjacent to the Ruins to deter any further enemy incursions.\n\nCele:\n• Capture the Ruins.\n• Construct 2 Wieża strażnicza beside the Ruins."
 70221,"1. Utilize your initial stone reserves wisely—stone will prove useful in several situations.\n2. Seize and defend as many stone and gold mines as you can, for they are the key to victory.\n3. The Mycenaeans are restricted to the Bronze Age—you cannot advance to the Era żelaza."
 70222,"The demoralized Tirynian troops flee before the blades of your disciplined soldiers! With the ruins and mineral resources of the region secured, the conflict will surely not last much longer. Soon, your enemies will humbly kneel before you, offering their wealth and begging for peace. With the nearby region secured, your people can now look beyond their borders, making alliances and even expanding overseas. Lead them onward!"

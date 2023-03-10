@@ -1414,7 +1414,7 @@
 9673,"Zostałeś wyrzucony z gry."
 9674,"Gra została anulowana."
 9675,"Procent"
-9676,"Liczba"
+9676,"Konto"
 9677,"Ilość"
 9678,"Gra wieloosobowa"
 9679,"Gra jednoosobowa"
@@ -1451,7 +1451,7 @@
 9710,"Rozpocznij grę"
 9711,"IP"
 9712,"Limit populacji: %d"
-9713,"Znajdowanie ścieżki: %s"//???
+9713,"Znajdowanie ścieżki: %s"
 9714,"Drzewo technologii"
 9715,"Typ gry"
 9716,"Nie masz tego scenariusza lub masz inną jego wersję."
@@ -1495,7 +1495,7 @@
 9754,"Nieprzejezdne farmy"
 9760,"Scenariusz"
 
-//Added for dropdown help text
+//Dodano do rozwijanego tekstu pomocy
 9761,"Najpopularniejszy typ gry; wybierasz ustawienia i warunki zwycięstwa"
 9762,"Wszyscy gracze zaczynają z ogromnymi zapasami drewna, żywności, złota i kamienia, a następnie walczą na śmierć i życie."
 9763,"Zagraj na niestandardowej mapie, którą stworzyłeś Ty lub społeczność."
@@ -3815,7 +3815,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 61277,"Tarcza"
 61278,"Tarcza żelazna"
 61279,"Wieża z balistą"
-61280,"Ciężkia triera katapultowa"
+61280,"Ciężka triera katapultowa"
 61281,"Helepolis"
 61282,"Ciężka katapulta"
 61283,"Ciężki konny łucznik"
