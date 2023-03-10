@@ -4158,7 +4158,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62805,"Pokonaj wszystkich wrogów %ss."
 62806,"Zniszcz %s z %s %d/%d."
 62807,"Zniszcz %s."
-62808,"Stwórz %d %s w oznaczonym obszarze %d/%d."
+62808,"Zbuduj %d %s w oznaczonym obszarze %d/%d."
 62809,"Stwórz %s %d/%d."
 62810,"Przechwyć %s."
 62811,"Pokonaj wszystkich wrogów w ciągu %d lat."
