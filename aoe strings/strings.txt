@@ -2660,7 +2660,10 @@
 20111,"Warsztat oblỳêniczy"
 20112,"Âwiçtynia"
 20113,"Targowisko"
-19326,"Powrót do poprzedniego widoku"
+20114,"Jednostki wojskowe"
+20115,"Zamek"
+20116,"Formacja"
+20117,"Mîyn"
 23929,"akademia"
 23930,"zasoby"
 23932,"kamienne krỳgi"
@@ -4164,21 +4167,60 @@ Genialny grecki naukowiec i wynalazca. Znany z osiçgniỳá w dziedzinie matema
 				
 					   
 					  
+		
 						   
 					   
 						
+		 
+	 
+	   
 				 
+	   
+	   
+	   
+		
+		  
 					 
 						 
 						 
+		
+		 
+   
+	   
 						
+	  
+		
+	   
+
+62800,"*********** Tekst okna celów *******"
+			   
+					 
+						
+						 
+						
+						
+						 
+						  
+					  
+			  
+			   
+						 
+				
+					   
+					  
+				
+						   
+					   
+						
+					   
+				 
 					 
 						
 						 
 						 
 						
 
-62800,"*********** Objectives window text *******"
+									 
 62801,"Przejdè do %s."
 62802,"Punkty do zwyciỳstwa %d z %d."
 62803,"Dostarcz %s do %s."
@@ -4186,7 +4228,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiçgniỳá w dziedzinie matema
 62805,"Pokonaj wszystkich wrogów %ss."
 62806,"Zniszcz %s z %s %d/%d."
 62807,"Zniszcz %s."
-62808,"Zbuduj %d %s w oznaczonym obszarze %d/%d."
+62808,"Zbuduj w wyznaczonym obszarze %d obiekty tego typu: \"%s\" %d/%d"
 62809,"Stwórz %s %d/%d."
 62810,"Przechwyá %s."
 62811,"Pokonaj wszystkich wrogów w ciçgu %d lat."
@@ -4711,17 +4753,17 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostaîy wykonane przez zagi
 70212,"Twoje zwyciỳstwo nad sçsiednimi plemionami zapewniîo Twojemu ludowi dostỳp do najbardziej êyznej ziemi pod zasiewy. Pelazgowie, Achajowie i Danaowie poddali siỳ dobrowolnie twojej wîadzy lub uciekli do sçsiednich regionów, by leczyá rany. Twoi ludzie mogç teraz budowaá osady, zakîadaá szlaki handlowe i rozszerzaá swoje wpîywy na sçsiednie regiony."
 70213,"Twoi ludzie walczyli dzielnie, ale nie mieli charyzmatycznego przywódcy, w przeciwieéstwie do swoich przeciwników. Ciçgîe najazdy wrogów zîamaîy waszç wolỳ i zmusiîy was do udania siỳ na jaîowe, surowe ziemie, których nie poêçdajç inni osadnicy. Êyjçc z niewielkich zasobów dostỳpnych w tym bezlitosnym terenie, twoi ludzie marzç o dniu, w którym zdolniejszy przywódca wskaêe im lepszç przyszîoâá."
 70214,"Cywilizacja mykeéska rozwinỳîa siỳ najpierw w regionie Argolidy na Peloponezie, ale wkrótce rozprzestrzeniîa siỳ na wiele sçsiednich krain. Wczesna gospodarka mykeéska opieraîa siỳ gîównie na poîçczeniu rolnictwa i pasterstwa, koncentrujçc siỳ na uprawie roâlin i hodowli zwierzçt gospodarskich. Dziỳki ulepszonym i wydajniejszym technikom rolniczym, i co za tym idzie, podziaîowi pracy, spoîeczeéstwo mykeéskie staîo siỳ bardziej zróênicowane, i rozpoczỳîo ekspansjỳ terytorialnç. Jednym z najsîynniejszych artefaktów z tego okresu jest tzw. \"Maska Agamemnona\", zîota maska grobowa datowana na XVI wiek p.n.e.\n\nChociaê klimat Grecji byî ogólnie korzystny, znaczna czỳâá terenu byîa górzysta, a iloâá êyznej ziemi pod uprawy ograniczona. Rywalizacja o ziemiỳ uprawnç i zasoby mineralne sprzyjaîa konfliktom miỳdzy sçsiadujçcymi grupami i powstaîymi póèniej miastami-paéstwami. Plemiona nieustannie walczyîy ze sobç i choá starannie przygotowane bitwy zdarzaîy siỳ rzadko, wojna czỳsto prowadziîa do niszczenia wrogich upraw i kradzieêy inwentarza - ataków, które miaîy za cel pozbawienie przeciwnika zdolnoâci do produkcji êywnoâci. Uprawy zboêa byîy palone, drzewa oliwne âcinane, a zwierzỳta gospodarskie kradzione lub zabijane na miejscu. W rezultacie osady przenosiîy siỳ z miejsc w pobliêu pól uprawnych do cytadeli na wzgórzach, przez Greków nazywanymi akropolami, które byîy îatwiejsze do obrony.\n\nSpoîeczeéstwa mykeéskie gromadziîy siỳ wokóî tych ufortyfikowanych osad. Zwykli ludzie byli rzçdzeni przez elitỳ wojowników, na czele której staî zwykle król, zwany w lokalnym jỳzyku \"wanaks\". Zwyczaje pogrzebowe staîy siỳ w tym okresie bardziej wyrafinowane, a wiele archeologicznych dowodów kultury mykeéskiej dostỳpnych historykom znajduje siỳ wîaânie w miejscach pochówku. Mimo êe konflikty byîy czỳste, miasta-paéstwa wolaîy nawiçzywaá stosunki dyplomatyczne i wiỳzi gospodarcze z sçsiadami, które póèniej rozszerzaîy na inne kraje. Mykeéskie artefakty zostaîy znalezione w licznych obszarach przybrzeênych w pobliêu Morza Egejskiego, a nawet tak odlegîych jak Cypr, Egipt i ziemie fenickie we wschodniej czỳâci Morza Âródziemnego."
-70220,"Mycenae, 1400 BCE\n\nYour people are now largely settled, and they have prospered for the past several generations. You are not alone, however—other city-states have risen and begun to expand as well. As border clashes begin, it becomes clear that growth is possible only at the expense of neighboring rivals. The Tirynians covet the lands that you now control, and have begun to aggressively press the issue. This outrage must not be allowed to continue. Secure your control over this region by capturing the ancient Ruins close to the nearby town of Tiryns. Build two Wieêa wartownicza adjacent to the Ruins to deter any further enemy incursions.\n\nCele:\n• Capture the Ruins.\n• Construct 2 Wieêa wartownicza beside the Ruins."
+70220,"Mykeny, 1400 p.n.e.\n\nTwój lud jest juê dobrze zadomowiony i prosperuje od kilku pokoleé. Jednak nie jesteâ sam; inne miasta-paéstwa równieê powstaîy i zaczỳîy siỳ rozwijaá.
+
+
+
+Gdy zaczynajç siỳ starcia graniczne, staje siỳ jasne, êe wzrost jest moêliwy tylko kosztem sçsiednich rywali. Tirynianie poêçdajç ziem, które teraz kontrolujesz i zaczỳli agresywnie naciskaá na sprawỳ. Nie moêna pozwoliá, aby ten skandal trwaî nadal. Zabezpiecz swojç kontrolỳ nad tym regionem, zdobywajçc staroêytne ruiny w pobliêu pobliskiego miasta Tiryns. Zbuduj dwie Wieêe wartownicze przylegajçce do Ruin, aby odstraszyá dalszych wrogów.
+
+\n\nCele:\n• Capture the Ruins.\n• Construct 2 Wieêa wartownicza beside the Ruins."
 70221,"1. Utilize your initial stone reserves wisely—stone will prove useful in several situations.\n2. Seize and defend as many stone and gold mines as you can, for they are the key to victory.\n3. The Mycenaeans are restricted to the Bronze Age—you cannot advance to the Era êelaza."
 70222,"The demoralized Tirynian troops flee before the blades of your disciplined soldiers! With the ruins and mineral resources of the region secured, the conflict will surely not last much longer. Soon, your enemies will humbly kneel before you, offering their wealth and begging for peace. With the nearby region secured, your people can now look beyond their borders, making alliances and even expanding overseas. Lead them onward!"
 70223,"Alas! Your armies marched into battle, but most did not return. Outnumbered and outmaneuvered by their Tirynian foes, they fell like stalks of wheat before a scythe. The survivors have regrouped for a final stand, but the future looks bleak. The Tirynians descend upon you, the spirit of Nike, the goddess of victory, at their backs. It will not be long before you are all slain or carried off into slavery."
 70224,"As the Mycenaeans gradually became more established in the region, their settlements and lifestyle grew increasingly complex. One particularly notable development was the construction of palace complexes, known in the local language as megaron. From within these, the wanax (king) of each growing city-state watched their realm carefully. As territorial borders expanded, aspirations did as well, and city-states found themselves locked in deadly conflicts over farmland, mineral resources, lumber sources, and trade routes. The most notable of these city-states was located at Mycenae, where nineteenth-century excavations unearthed large fortifications, a sophisticated palace complex and priceless treasures, many lying in burial mounds. Other significant centers of power included Tiryns, Argos, Pylos, and Menelaion, near the modern city of Sparta.\n\nDespite the volatile and variable political situation, the Mycenaean people who were spread across Attica, Boeotia, and the Peloponnese had a considerable amount in common. They shared an early form of the Greek language, polytheistic religious systems, and common cultural norms.\n\nThe Mycenaeans were almost certainly extremely warlike, as shown by numerous fortifications and various art forms valorizing warfare, such as ceramic artwork, wall frescoes, carvings, and funerary objects.\n\nThe palace complexes on the acropolis of a town served as both government and military centers. The king and the nobility ruled from a position of strength, and soldiers could be drilled nearby and outfitted with weaponry from the armory. In times of war, the acropolis was a secure place to take refuge from invaders, and the surplus food stored in the local granary could sustain a citadel under attack until the siege was broken or abandoned. It was often more prudent to destroy a city-state's economic wealth: farmland, crops, pastures, mineral deposits, port (if applicable), and trade routes. The Mycenaean city-states gradually formed alliances and trading agreements, however, and often displayed a loose sort of solidarity when facing outsiders."
-
-																																																																																																																																																																		
-																																																																																																																											  
-																																																																																																																																																																		
-																																																																																																																																											  
-																																																																																																																																																																																																																												  
 
 70230,"Crete, 1420 BCE\n\nAfter having acquired a valuable artifact for the Minoans, you have discovered that they plan to pay you not in coin but in blood. Led by a group of seven elderly Priests, the Minoans have surrounded your company and treacherously attacked! Hopelessly outnumbered, your only chance of survival is to flee. Escape the clutches of the Minoans and search for allied troops in the area. Once you have gathered your strength, return to Crete and exact your vengeance. Beware, for some of the locals support the Minoans. Destroy their Âwiçtynia and reclaim the Artifact for Mycenae.\n\nCele:\n• Capture the Artifact.\n• Destroy the Minoan Âwiçtynia."
 70231,"1. Search for friendly forces—joining them will be vital to your success.\n2. Escape the initial encounter quickly, but thereafter proceed carefully.\n3. The forces giving you the opportunity to escape do not appear on the starting screen. If you cannot immediately find them, use the idle military hotkey (default ',') to locate them.\n4. The Mycenaeans are restricted to the Bronze Age—you cannot advance to the Era êelaza."

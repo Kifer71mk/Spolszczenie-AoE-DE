@@ -2660,7 +2660,10 @@
 20111,"Warsztat oblężniczy"
 20112,"Świątynia"
 20113,"Targowisko"
-19326,"Powrót do poprzedniego widoku"
+20114,"Jednostki wojskowe"
+20115,"Zamek"
+20116,"Formacja"
+20117,"Młyn"
 23929,"akademia"
 23930,"zasoby"
 23932,"kamienne kręgi"
@@ -4121,6 +4124,34 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62731,"Bitwa morska"
 62732,"Cud świata"
 62733,"Oblężenie Kanaanu"
+						  
+		  
+				 
+							 
+					  
+							 
+						   
+						
+						   
+					
+						 
+				 
+					  
+					  
+				   
+							 
+							   
+					 
+					  
+			   
+								
+						   
+			
+				   
+						
+					 
+					   
+							
 
 62734,"Terytorium przejmujące"
 62735,"Akropol"
@@ -4150,7 +4181,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62759,"Najazd na Babilon"
 62760,"Bitwa pod Kadesz"
 
-62800,"*********** Objectives window text *******"
+62800,"*********** aaaaaaaaa *******"
 62801,"Przejdź do %s."
 62802,"Punkty do zwycięstwa %d z %d."
 62803,"Dostarcz %s do %s."
@@ -4683,8 +4714,8 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 70212,"Twoje zwycięstwo nad sąsiednimi plemionami zapewniło Twojemu ludowi dostęp do najbardziej żyznej ziemi pod zasiewy. Pelazgowie, Achajowie i Danaowie poddali się dobrowolnie twojej władzy lub uciekli do sąsiednich regionów, by leczyć rany. Twoi ludzie mogą teraz budować osady, zakładać szlaki handlowe i rozszerzać swoje wpływy na sąsiednie regiony."
 70213,"Twoi ludzie walczyli dzielnie, ale nie mieli charyzmatycznego przywódcy, w przeciwieństwie do swoich przeciwników. Ciągłe najazdy wrogów złamały waszą wolę i zmusiły was do udania się na jałowe, surowe ziemie, których nie pożądają inni osadnicy. Żyjąc z niewielkich zasobów dostępnych w tym bezlitosnym terenie, twoi ludzie marzą o dniu, w którym zdolniejszy przywódca wskaże im lepszą przyszłość."
 70214,"Cywilizacja mykeńska rozwinęła się najpierw w regionie Argolidy na Peloponezie, ale wkrótce rozprzestrzeniła się na wiele sąsiednich krain. Wczesna gospodarka mykeńska opierała się głównie na połączeniu rolnictwa i pasterstwa, koncentrując się na uprawie roślin i hodowli zwierząt gospodarskich. Dzięki ulepszonym i wydajniejszym technikom rolniczym, i co za tym idzie, podziałowi pracy, społeczeństwo mykeńskie stało się bardziej zróżnicowane, i rozpoczęło ekspansję terytorialną. Jednym z najsłynniejszych artefaktów z tego okresu jest tzw. \"Maska Agamemnona\", złota maska grobowa datowana na XVI wiek p.n.e.\n\nChociaż klimat Grecji był ogólnie korzystny, znaczna część terenu była górzysta, a ilość żyznej ziemi pod uprawy ograniczona. Rywalizacja o ziemię uprawną i zasoby mineralne sprzyjała konfliktom między sąsiadującymi grupami i powstałymi później miastami-państwami. Plemiona nieustannie walczyły ze sobą i choć starannie przygotowane bitwy zdarzały się rzadko, wojna często prowadziła do niszczenia wrogich upraw i kradzieży inwentarza - ataków, które miały za cel pozbawienie przeciwnika zdolności do produkcji żywności. Uprawy zboża były palone, drzewa oliwne ścinane, a zwierzęta gospodarskie kradzione lub zabijane na miejscu. W rezultacie osady przenosiły się z miejsc w pobliżu pól uprawnych do cytadeli na wzgórzach, przez Greków nazywanymi akropolami, które były łatwiejsze do obrony.\n\nSpołeczeństwa mykeńskie gromadziły się wokół tych ufortyfikowanych osad. Zwykli ludzie byli rządzeni przez elitę wojowników, na czele której stał zwykle król, zwany w lokalnym języku \"wanaks\". Zwyczaje pogrzebowe stały się w tym okresie bardziej wyrafinowane, a wiele archeologicznych dowodów kultury mykeńskiej dostępnych historykom znajduje się właśnie w miejscach pochówku. Mimo że konflikty były częste, miasta-państwa wolały nawiązywać stosunki dyplomatyczne i więzi gospodarcze z sąsiadami, które później rozszerzały na inne kraje. Mykeńskie artefakty zostały znalezione w licznych obszarach przybrzeżnych w pobliżu Morza Egejskiego, a nawet tak odległych jak Cypr, Egipt i ziemie fenickie we wschodniej części Morza Śródziemnego."
-70220,"Mykeny, 1400 pne\n\nTwoi ludzie są teraz w dużej mierze osiedleni i prosperują przez ostatnie kilka pokoleń. Nie jesteś jednak sam - inne miasta-państwa również powstały i zaczęły się rozwijać. zaczynasz, staje się jasne, że wzrost jest możliwy tylko kosztem sąsiednich rywali. Tiryńczycy pożądają ziem, które teraz kontrolujesz, i zaczęli agresywnie naciskać na tę sprawę. Nie można pozwolić, aby ta wściekłość trwała dalej. Zapewnij sobie kontrolę nad tym regionu, zdobywając starożytne kamienne kręgi w pobliżu pobliskiego miasta Tiryns. Zbuduj dwie wieże strażnicze przylegające do ruin, aby powstrzymać dalsze wtargnięcia wroga.\n\nCele:\n• Zdobyć kamienne kręgi.\n• Zbuduj 2 wieże strażnicze obok Gruzy."
-70221,"1. Mądrze wykorzystuj początkowe rezerwy kamienia — kamień przyda się w kilku sytuacjach.\n2. Zajmij i broń jak największej liczby kopalni kamienia i złota, ponieważ są one kluczem do zwycięstwa.\n3. Mykeńczycy są ograniczone do epoki brązu – nie możesz przejść do epoki żelaza".
+70220,"Mykeny, 1400 p.n.e.\n\nTwój lud jest już dobrze zadomowiony i prosperuje od kilku pokoleń. Nie jesteś jednak sam; inne miasta-państwa również powstały i zaczęły się rozwijać. Pojawiają się pierwsze konflikty graniczne i staje się jasne, że twój rozwój będzie musiał odbyć się kosztem twoich sąsiednich rywali. Tyrynianie pożądają ziem, które obecnie kontrolujesz i zachowują się coraz bardziej agresywnie. Nie możesz pozwolić, by ten proceder trwał dalej. Zabezpiecz swoją kontrolę nad tym regionem, zdobywając starożytne ruiny w pobliżu pobliskiego miasta Tyryns. Zbuduj dwie Wierze wartownicze przylegające do ruin, by zapobiec dalszym najazdom wroga.\n\nCele:\n• Zdobądź ruiny.\n• Zbuduj dwie Wieże wartownicze obok ruin."
+70221,"1. Wykorzystuj mądrze swoje początkowe zasoby kamienia - kamień okaże się przydatny w wielu sytuacjach.\n2. Przejmij i obroń jak najwięcej złóż kamienia i złota, bo to one są kluczem do zwycięstwa.\n3. Mykeńczycy są ograniczeni do Ery brązu - nie mogą awansować do Ery żelaza."
 70222,"Zdemoralizowane wojska tyryńskie uciekają przed ostrzami twoich zdyscyplinowanych żołnierzy! Mając kamienne kręgi i zasoby mineralne regionu, konflikt z pewnością nie potrwa długo. Wkrótce twoi wrogowie pokornie uklękną przed tobą, oferując swoje bogactwo i błagając o pokój. Mając zabezpieczony pobliski region, twoi ludzie mogą teraz patrzeć poza swoje granice, zawierać sojusze, a nawet rozszerzać się za granicę. Prowadź ich naprzód!"
 70223 "Niestety! Wasze armie wkroczyły do ​​bitwy, ale większość nie wróciła. Mniejsi liczebnie i wymanewrowani przez swoich tyryńskich wrogów, padli jak źdźbła pszenicy przed kosą. Ci, którzy przeżyli, przegrupowali się, by ostateczną walkę, ale przyszłość wygląda ponuro. Tiryńczycy zstępują na ciebie, duch Nike, bogini zwycięstwa, za ich plecami. Nie minie dużo czasu, zanim wszyscy zostaną zabici lub zabrani w niewolę.
 w pobliżu nowoczesnego miasta Sparty.\n\nPomimo niestabilnej i zmiennej sytuacji politycznej, Mykeńczycy rozsiani po Attyce, Beocji i Peloponezie mieli wiele wspólnego. Dzielili wczesną formę języka greckiego, politeistyczne systemy religijne i wspólne normy kulturowe.\n\nMykeńczycy byli prawie na pewno niezwykle wojowniczy, o czym świadczą liczne fortyfikacje i różne formy sztuki waloryzujące działania wojenne, takie jak dzieła sztuki ceramicznej, freski ścienne, rzeźby i obiekty pogrzebowe.\n\nZespoły pałacowe na akropolu miasta służyły jako ośrodki rządowe i wojskowe. Król i szlachta rządzili z pozycji siły, a żołnierze mogli być ćwiczeni w pobliżu i wyposażeni w uzbrojenie ze zbrojowni. W czasach wojny akropol był bezpiecznym miejscem schronienia się przed najeźdźcami, a nadwyżka żywności zmagazynowana w miejscowym spichlerzu mogła wytrzymać atak na cytadelę, dopóki oblężenie nie zostanie przerwane lub opuszczone. Często rozsądniej było zniszczyć ekonomiczne bogactwo miasta-państwa: pola uprawne, uprawy, pastwiska, złoża minerałów, port (jeśli dotyczy) i szlaki handlowe. Jednak mykeńskie miasta-państwa stopniowo zawierały sojusze i porozumienia handlowe, często okazując rodzaj luźnej solidarności w obliczu obcych".
