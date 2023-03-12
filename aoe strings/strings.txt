@@ -1233,7 +1233,7 @@
 9001,"GRA WSTRZYMANA\nNaciânij %s, aby wznowiá"
 9002,"Wybierz obiekt"
 9003,"Wybierz lokalizacjỳ"
-9004,"Jesteâ zwyciỳzcç!"
+9004,"Zwyciỳêyîeâ!"
 9005,"Zostaîeâ pokonany!"
 9006,"Koniec gry. Kliknij przycisk Menu, nastỳpnie Zakoécz grỳ, aby wyjâá."
 9100,"Nazwa hosta: %s"
@@ -4167,60 +4167,16 @@ Genialny grecki naukowiec i wynalazca. Znany z osiçgniỳá w dziedzinie matema
 				
 					   
 					  
-		
 						   
 					   
 						
-		 
-	 
-	   
-				 
-	   
-	   
-	   
-		
-		  
-					 
-						 
-						 
-		
-		 
-   
-	   
-						
-	  
-		
-	   
-
-62800,"*********** Tekst okna celów *******"
-			   
-					 
-						
-						 
-						
-						
-						 
-						  
-					  
-			  
-			   
-						 
-				
-					   
-					  
-				
-						   
-					   
-						
-					   
 				 
 					 
-						
 						 
 						 
 						
 
-									 
+62800,"*********** Tekst okna celów *******"
 62801,"Przejdè do %s."
 62802,"Punkty do zwyciỳstwa %d z %d."
 62803,"Dostarcz %s do %s."
@@ -5060,56 +5016,41 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostaîy wykonane przez zagi
 71234,"The war in Sicily increasingly became an endeavor of one lengthy siege after another. Seeking a swifter victory, the Romans planned a daring invasion of the North African coast to take the war to the Carthaginian homelands.\n\nAt the Battle of Cape Ecnomus (256 BCE), off the southern coast of Sicily, the Romans defeated Carthage in one of the ancient world's largest naval battles. Over 600 vessels participated in the engagement, which demonstrated that Rome could now challenge Carthage at sea on an equal footing. The victory allowed the Roman army, under the command of Marcus Atilius Regulus, to land in Africa.\n\nAt the Battle of Adys (255 BCE), Regulus defeated the Carthaginians, plundering the countryside and marching on Carthage. This weakening of the North African power incited the Numidians, a Berber people and sometime allies of Carthage, to revolt. Refugees from the pillaged countryside fled to the capital, causing an outbreak of disease and hunger.\n\nFortunately for Carthage, a Spartan mercenary general named Xanthippus appeared. The Spartan recognized that Carthage's cavalry and elephants, the backbone of its army, would fight best on open ground, allowing them to maneuver. Previously, Carthaginian generals had sought to fight the Romans in sieges and on rough terrain, where the tough Roman infantry held the advantage.\n\nThese changes were crucial to Carthaginian success at the Battle of Tunis, also known as the Battle of Bagradas, in 255 BCE. Battered by an elephant charge, flanked by the Carthaginian cavalry, and unable to defeat the Carthaginian phalanx in the center, the Romans were routed by a final cavalry charge. Regulus was captured and, according to Roman legends, was released on parole to negotiate a peace. In Rome, he urged the Senate to refuse the peace proposal and, fulfilling the terms of his parole, was said to have returned to Carthage to be tortured to death. The defeat of the Romans at Tunis was followed by the sinking of the Roman fleet in a storm, ending Rome's attempts at invading Africa during the war. The First Punic War would drag on for another fourteen years culminating in Carthage's defeat at the Battle of the Aegates in 241 BCE.\n\nAs for Xanthippus, his final fate is uncertain. Diodorus of Sicily writes that after the Battle of Tunis, the Spartan general saved the city of Lilybaeum in Sicily from a Roman siege. Leaders in the city were jealous of their savior's success and betrayed him by giving him a leaky ship for his voyage home."
 
 																																																																																					
-																																				 
-																																																							 
-																																																																	  
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																   
 
-																																																																																																																																																																																										 
-																																							
-																																																																																					
-																																																																																		
-																																																																																																																																																																																																																																																																																																																																																																																															
 
-																																																																																																																									
-																																																																														  
-																																																																																																			 
-																																					  
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																		
-
-71300,"Your Tribe"
+71300,"Twoje plemiỳ"
 71301,"Libijczycy"
-71302,"Egyptian Raiders"
-71303,"Upper Egypt"
-71304,"Lower Egypt"
-71305,"Kingdom of Egypt"
-71306,"Minoans"
-71307,"Canaanites"
-71308,"Libyan Raiders"
-71309,"Nubians"
+71302,"Egipscy najeèdècy"
+71303,"Górny Egipt"
+71304,"Dolny Egipt"
+71305,"Królestwo Egiptu"
+71306,"Minojczycy"
+71307,"Kananejczycy"
+71308,"Libijscy najeèdècy"
+71309,"Nubijczycy"
 
-71350,"Mycenaeans"
-71351,"Pelasgians"
-71352,"Danaans"
-71353,"Achaeans"
-71354,"Tiryns"
-71355,"Minoans"
-71356,"Minoan Scouts"
-71357,"Troy"
-71358,"Trojan Defenders"
-71359,"Athenian Settlers"
-71360,"Luwians"
-71361,"Aegean Pirates"
-71362,"Athens"
-71363,"Spartan Army"
-71364,"Spartan Navy"
-71365,"Theban Army"
-71366,"Greek Mercenaries"
-71367,"Persia"
-71368,"Macedonians"
-71369,"Satrapy of Lydia"
-71370,"Satrapy of Eber-Nari"
-71371,"Persian Army"
+71350,"Mykeéczycy"
+71351,"Pelazgianie"
+71352,"Danajowie"
+71353,"Achajowie"
+71354,"Tyryns"
+71355,"Minojczycy"
+71356,"Zwiadowcy minojscy"
+71357,"Troja"
+71358,"Obroécy Troi"
+71359,"Ateéscy osadnicy"
+71360,"Luwianie"
+71361,"Egejscy piraci"
+71362,"Ateny"
+71363,"Armia spartaéska"
+71364,"Marynarka spartaéska"
+71365,"Armia tebaéska"
+71366,"Greccy najemnicy"
+71367,"Persja"
+71368,"Macedoéczycy"
+71369,"Satrapia Lidii"
+71370,"Satrapia Eber-Nari"
+71371,"Armia perska"
 
 71400,"Babylonians"
 71401,"Sumerians"
