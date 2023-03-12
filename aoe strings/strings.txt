@@ -133,9 +133,9 @@
 3009,"%s przekazaî %d sztuk zîota jako daninỳ dla Ciebie."
 3010,"Za maîo miejsca na umieszczenie jednostki."
 3011,"Nie moêesz handlowaá z wrogiem."
-3012,"%s rozîçczyî siỳ."
-3013,"%s zrezygnowaî."
-3014,"%s zostaî pokonany."
+3012,"%s rozîçczyî(a) siỳ."
+3013,"%s zrezygnowaî(a)."
+3014,"%s zostaî(a) pokonany(a)."
 3015,"%s przekazaî %d sztuk drewna jako daninỳ dla Ciebie."
 3016,"%s przekazaî %d sztuk êywnoâci jako daninỳ dla Ciebie."
 3017,"%s przekazaî %d sztuk kamieni jako daninỳ dla Ciebie."
@@ -145,14 +145,14 @@
 3021,"%s zbudowaî Cud. Wygrasz, jeâli przetrwa 2000 lat!"
 3022,"%s zbudowaî Cud. Przegrasz, jeâli przetrwa 2000 lat!"
 3023,"Twój Cud zostaî zniszczony!"
-3024,"%s utraciî Cud!"
-3025,"%s zmieniî stanowisko dyplomatyczne wobec Ciebie na Neutralne."
-3026,"%s zmieniî stanowisko dyplomatyczne wobec Ciebie na Sojusznik."
-3027,"%s zmieniî stanowisko dyplomatyczne wobec Ciebie na Wróg."
+3024,"%s utraciî(a) Cud!"
+3025,"%s zmieniî(a) stanowisko dyplomatyczne wobec Ciebie na Neutralne."
+3026,"%s zmieniî(a) stanowisko dyplomatyczne wobec Ciebie na Sojusznik."
+3027,"%s zmieniî(a) stanowisko dyplomatyczne wobec Ciebie na Wróg."
 3028,"Zdobyîeâ wszystkie artefakty. Utrzymaj je przez 2000 lat, aby wygraá!"
 3029,"Wszystkie Artefakty zostaîy zdobyte. Przegrasz, jeêeli nie odbierzesz ich w ciçgu 2000 lat!"
 3030,"Kontrola nad Artefaktami zostaîa utracona!"
-3033,"Zajçîeâ wszystkie Kamienne krỳgi. Utrzymaj je w swojej wîadzy przez 2000 lat i bỳdziesz zwyciỳzcç!"
+3033,"Zajỳto wszystkie Kamienne krỳgi. Utrzymaj je w swojej wîadzy przez 2000 lat i bỳdziesz zwyciỳzcç!"
 3034,"Wszystkie Kamienne krỳgi zostaîy zajỳte. Przegrasz, jeêeli nie odbijesz ich w ciçgu 2000 lat!"
 3035,"Kontrola nad Kromlechami zostaîa utracona!"
 3039,"Kliknij na obszar, który chcesz zaatakowaá."
@@ -4124,11 +4124,10 @@ Genialny grecki naukowiec i wynalazca. Znany z osiçgniỳá w dziedzinie matema
 62731,"Bitwa morska"
 62732,"Cud âwiata"
 62733,"Oblỳêenie Kanaanu"
-62734,"Claiming Territory"
-							   
-62735,"Acropolis"
-62736,"The Conquest of Crete"
-62737,"The Trojan War"
+62734,"Sporne terytoria"
+62735,"Akropol"
+62736,"Podbój Krety"
+62737,"Wojna trojaéska"
 62738,"Colonization of Ionia"
 62739,"The Siege of Athens"
 62740,"Xenophon's March"
@@ -4152,30 +4151,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiçgniỳá w dziedzinie matema
 62758,"Opening Moves"
 62759,"Raid on Babylon"
 62760,"The Battle of Kadesh"
-
-							   
-			   
-					 
-						
-						 
-						
-						
-						 
-						  
-					  
-			   
-				
-					   
-					  
-						   
-					   
-						
-				 
-					 
-						 
-						 
-						
-
+	
 62800,"*********** Tekst okna celów *******"
 62801,"Przejdè do %s."
 62802,"Punkty do zwyciỳstwa %d z %d."
@@ -4715,9 +4691,9 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostaîy wykonane przez zagi
 70223,"Niestety! Twoja armia wyruszyîa do walki, ale wiỳkszoâá wojowników nie wróciîa. Mniej liczni i bezsilni wobec taktyki tyreéskich przeciwników, padali pod ich ciosami jak kîosy pszenicy pod kosç. Ci, którzy ocaleli, przegrupowali siỳ, by stawiá ostatni opór, ale przyszîoâá wyglçda mrocznie. Nie minie wiele czasu, gdy wszyscy zginiecie lub popadniecie w niewolỳ."
 70224,"W miarỳ jak Mykeéczycy stopniowo zadomawiali siỳ w regionie, ich osady i styl êycia stawaîy siỳ coraz bardziej zîoêone. Jednym ze szczególnie widocznych osiçgniỳá byîa budowa kompleksów paîacowych, lub \"megaronów\", jak nazywano je w lokalnym jỳzyku. To wîaânie stamtçd wanaks (król) kaêdego rozwijajçcego siỳ miasta-paéstwa bacznie obserwowaî swoje królestwo. Wraz z rozszerzaniem siỳ granic terytorialnych rosîy teê aspiracje i miasta-paéstwa czỳsto angaêowaîy siỳ w âmiertelne konflikty o ziemiỳ uprawnç, zasoby mineralne, èródîa drewna i szlaki handlowe. Jedno z najbardziej niezwykîych miast-paéstw znajdowaîo siỳ w Mykenach, gdzie podczas wykopalisk w XIX wieku odkryto wielkie fortyfikacje, rozbudowany kompleks paîacowy i bezcenne skarby, z których znaczna czỳâá leêaîa w kopcach grobowych. Innymi godnymi uwagi oârodkami wîadzy byîy Tyryns, Argos, Pylos i Menelaion, w pobliêu wspóîczesnego miasta Sparta.\n\nMimo tej niestabilnej i burzliwej sytuacji politycznej, ludy mykeéskie, rozsiane po regionach Attyki, Boeocji i Peloponezu, miaîy wiele wspólnego. Ýçczyîa ich prymitywna forma jỳzyka greckiego, politeistyczne systemy religijne i normy kulturowe.\n\nMykeéczycy byli najprawdopodobniej bardzo wojowniczy, o czym âwiadczç liczne fortyfikacje i róêne formy sztuki przedstawiajçcej wojnỳ, takie jak dzieîa sztuki ceramicznej, freski âcienne, rzeèby i przedmioty pogrzebowe.\n\nKompleksy paîacowe na miejskim akropolu byîy zarówno oârodkami rzçdowymi, jak i wojskowymi. Król i szlachta rzçdzili z pozycji siîy, a êoînierze mogli byá szkoleni w pobliêu i uzbrajani w zbrojowni. W czasie wojny akropol byî bezpiecznym schronieniem przed najeèdècami, a zapasy êywnoâci zgromadzone w miejscowym spichlerzu mogîy podtrzymaá atakowanç cytadelỳ do czasu odparcia lub zakoéczenia oblỳêenia. Czỳâciej niê w innych przypadkach rozwaêne byîo niszczenie bogactwa gospodarczego miasta-paéstwa: ziemi uprawnej, plonów, pastwisk, zîóê mineraîów, portu (jeâli takowy istniaî) i szlaków handlowych. Mykeéskie miasta-paéstwa stopniowo zawieraîy jednak sojusze i umowy handlowe, a takêe czỳsto okazywaîy wzglỳdnç solidarnoâá z cudzoziemcami."
 
-70230,"Crete, 1420 BCE\n\nAfter having acquired a valuable artifact for the Minoans, you have discovered that they plan to pay you not in coin but in blood. Led by a group of seven elderly Priests, the Minoans have surrounded your company and treacherously attacked! Hopelessly outnumbered, your only chance of survival is to flee. Escape the clutches of the Minoans and search for allied troops in the area. Once you have gathered your strength, return to Crete and exact your vengeance. Beware, for some of the locals support the Minoans. Destroy their Âwiçtynia and reclaim the Artifact for Mycenae.\n\nCele:\n• Capture the Artifact.\n• Destroy the Minoan Âwiçtynia."
-70231,"1. Search for friendly forces—joining them will be vital to your success.\n2. Escape the initial encounter quickly, but thereafter proceed carefully.\n3. The forces giving you the opportunity to escape do not appear on the starting screen. If you cannot immediately find them, use the idle military hotkey (default ',') to locate them.\n4. The Mycenaeans are restricted to the Bronze Age—you cannot advance to the Era êelaza."
-70232,"Fueled by fury at the treachery of the Minoans, your men struck back decisively. The Minoan temple lies destroyed, a smoldering ruin and a warning to any who should attempt such deceitful actions in the future. Your soldiers rejoice at their victory, pillaging the Minoan lands, carrying off their wealth, and enjoying countless casks of Cretan wine. With this great success, your people have eliminated their main trading rival in the region, taking control of the valuable routes of commerce that once lavished wealth upon the Minoan palaces."
+70230,"Kreta, 1420 p.n.e.\n\nPo zdobyciu cennego artefaktu od Minojczyków odkryîeâ, êe nie zamierzajç zapîaciá ci w zîocie, a raczej we krwi. Prowadzeni przez grupỳ siedmiu starszych Kapîanów, Minojczycy otoczyli waszç kompaniỳ i zdradziecko zaatakowali! Jest ich zdecydowanie za duêo i jedynç szansç na przeêycie jest ucieczka. Wyrwij siỳ ze szponów Minojczyków i poszukaj w okolicy sojuszniczych wojsk. Kiedy juê zbierzesz siîy, wróá na Kretỳ i dokonaj zemsty. Uwaêaj, niektórzy miejscowi popierajç Minojczyków. \n\nCele:\n• Przejmij artefakt.\n• Zniszcz minojskç âwiçtyniỳ."
+70231,"1. Szukaj sojuszniczych siî — doîçczenie do nich bỳdzie kluczowe dla twojego sukcesu.\n2. Szybko ucieknij z miejsca potyczki w poczçtkowej fazie gry, ale potem bçdè bardzo ostroêny.\n3. Siîy dajçce moêliwoâá ucieczki nie sç widoczne na ekranie startowym. Jeâli nie moêesz ich od razu znaleèá, uêyj skrótu klawiszowego nieaktywnej jednostki wojskowej (domyâlnie \",\" - przecinek), aby je znaleèá.\n4. Mykeéczycy sç ograniczeni do Ery brçzu - nie mogç awansowaá do Ery êelaza."
+70232,"Rozgniewani zdradç Minojczyków, twoi êoînierze zdecydowanie uderzyli. Minojska âwiçtynia zostaîa zniszczona, a jej tlçce siỳ ruiny stanowiç powaêne ostrzeêenie dla kaêdego, kto w przyszîoâci odwaêyîby siỳ popeîniá podobny bîçd. Twoi êoînierze cieszç siỳ ze zwyciỳstwa i plçdrujç ziemie minojskie, kradnçc wszystkie bogactwa i upijajçc siỳ kreteéskim winem. W wyniku tego wielkiego sukcesu twój lud pozbyî siỳ swojego gîównego przeciwnika w regionie, przejmujçc kontrolỳ nad cennymi szlakami handlowymi,  które niegdyâ wzbogacaîy minojskie paîace."
 70233,"Having suffered disastrous losses to the Minoan betrayal, only a handful of your men made it off the island. They were soon hunted down and slain, but you were not so lucky. For weeks now, you have languished in a dark cell, living off worms and dirt. You nurture the faint hope that some of your men might have escaped and could return with reinforcements, but with each passing day that notion becomes more and more bleak. The door to your cell opens, and a pair of guards drag you out to your execution. Meet your fate without fear…"
 70234,"The Minoan culture formed a robust presence on the island of Crete and the surrounding seas for over two millennia, lasting roughly from 3600 BCE to 1420 BCE. The causes of its decline are not entirely clear, although the catastrophic eruption of Thera, which devastated much of the eastern Mediterranean, stands out as a likely culprit. The damage that the eruption and its aftermath caused to Minoan Crete, and many of their trading partners, probably hamstrung their economy, which was dependent on the commercial import and export of goods.\n\nMinoan Crete was marked by numerous impressive institutions and advancements, particularly in the spheres of seafaring and writing. The Minoans were adept at navigating the Mediterranean, making contact and trading with many neighboring cultures across the sea. This legacy was represented in their art, particularly through the stunning frescoes of watercraft, fishermen, and sea life that adorn their artifacts. Their economy was predicated on trade and domination of the nearby sea routes, not on agriculture as was primarily the case in neighboring regions. Their settlements and palaces were relatively minimally fortified, demonstrating a reliance on their naval forces to stave off invasions.\n\nThrough contact with eastern cultures in Egypt, Lebanon, and Canaan, the Minoans acquired not only wealth but also various technological and intellectual advancements. However, such monumental success inevitably drew the attention of their neighbors. Sometime between the late 15th and early 14th centuries BCE (accounts vary), the Minoan palace centers were overrun by Mycenaean invaders. It is probable that the Mycenaeans observed the declining trend of Minoan civilization in the period following the natural disasters that befell the region, and determined that the time was right to strike decisively and eliminate a rival."
 
@@ -5014,9 +4990,6 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostaîy wykonane przez zagi
 71232,"You have snatched victory from near defeat! The Roman army has been crushed and Regulus sits in chains in your tent. Word has come that the fleeing survivors of the Roman fleet were caught in a storm and found their graves at the bottom of the sea. While your stunning victory has saved Carthage, you know that the Romans will never surrender. You fear that you have only delayed their eventual triumph."
 71233,"Your failure to defeat the Roman army has forced us to accept their peace terms, which are harsh. Take note of the treaty clause requiring that you serve out your years in a Roman stone quarry."
 71234,"The war in Sicily increasingly became an endeavor of one lengthy siege after another. Seeking a swifter victory, the Romans planned a daring invasion of the North African coast to take the war to the Carthaginian homelands.\n\nAt the Battle of Cape Ecnomus (256 BCE), off the southern coast of Sicily, the Romans defeated Carthage in one of the ancient world's largest naval battles. Over 600 vessels participated in the engagement, which demonstrated that Rome could now challenge Carthage at sea on an equal footing. The victory allowed the Roman army, under the command of Marcus Atilius Regulus, to land in Africa.\n\nAt the Battle of Adys (255 BCE), Regulus defeated the Carthaginians, plundering the countryside and marching on Carthage. This weakening of the North African power incited the Numidians, a Berber people and sometime allies of Carthage, to revolt. Refugees from the pillaged countryside fled to the capital, causing an outbreak of disease and hunger.\n\nFortunately for Carthage, a Spartan mercenary general named Xanthippus appeared. The Spartan recognized that Carthage's cavalry and elephants, the backbone of its army, would fight best on open ground, allowing them to maneuver. Previously, Carthaginian generals had sought to fight the Romans in sieges and on rough terrain, where the tough Roman infantry held the advantage.\n\nThese changes were crucial to Carthaginian success at the Battle of Tunis, also known as the Battle of Bagradas, in 255 BCE. Battered by an elephant charge, flanked by the Carthaginian cavalry, and unable to defeat the Carthaginian phalanx in the center, the Romans were routed by a final cavalry charge. Regulus was captured and, according to Roman legends, was released on parole to negotiate a peace. In Rome, he urged the Senate to refuse the peace proposal and, fulfilling the terms of his parole, was said to have returned to Carthage to be tortured to death. The defeat of the Romans at Tunis was followed by the sinking of the Roman fleet in a storm, ending Rome's attempts at invading Africa during the war. The First Punic War would drag on for another fourteen years culminating in Carthage's defeat at the Battle of the Aegates in 241 BCE.\n\nAs for Xanthippus, his final fate is uncertain. Diodorus of Sicily writes that after the Battle of Tunis, the Spartan general saved the city of Lilybaeum in Sicily from a Roman siege. Leaders in the city were jealous of their savior's success and betrayed him by giving him a leaky ship for his voyage home."
-
-																																																																																					
-
 
 71300,"Twoje plemiỳ"
 71301,"Libijczycy"

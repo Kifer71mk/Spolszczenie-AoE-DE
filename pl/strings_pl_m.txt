@@ -133,9 +133,9 @@
 3009,"%s przekazał %d sztuk złota jako daninę dla Ciebie."
 3010,"Za mało miejsca na umieszczenie jednostki."
 3011,"Nie możesz handlować z wrogiem."
-3012,"%s rozłączył się."
-3013,"%s zrezygnował."
-3014,"%s został pokonany."
+3012,"%s rozłączył(a) się."
+3013,"%s zrezygnował(a)."
+3014,"%s został(a) pokonany(a)."
 3015,"%s przekazał %d sztuk drewna jako daninę dla Ciebie."
 3016,"%s przekazał %d sztuk żywności jako daninę dla Ciebie."
 3017,"%s przekazał %d sztuk kamieni jako daninę dla Ciebie."
@@ -145,14 +145,14 @@
 3021,"%s zbudował Cud. Wygrasz, jeśli przetrwa 2000 lat!"
 3022,"%s zbudował Cud. Przegrasz, jeśli przetrwa 2000 lat!"
 3023,"Twój Cud został zniszczony!"
-3024,"%s utracił Cud!"
-3025,"%s zmienił stanowisko dyplomatyczne wobec Ciebie na Neutralne."
-3026,"%s zmienił stanowisko dyplomatyczne wobec Ciebie na Sojusznik."
-3027,"%s zmienił stanowisko dyplomatyczne wobec Ciebie na Wróg."
+3024,"%s utracił(a) Cud!"
+3025,"%s zmienił(a) stanowisko dyplomatyczne wobec Ciebie na Neutralne."
+3026,"%s zmienił(a) stanowisko dyplomatyczne wobec Ciebie na Sojusznik."
+3027,"%s zmienił(a) stanowisko dyplomatyczne wobec Ciebie na Wróg."
 3028,"Zdobyłeś wszystkie artefakty. Utrzymaj je przez 2000 lat, aby wygrać!"
 3029,"Wszystkie Artefakty zostały zdobyte. Przegrasz, jeżeli nie odbierzesz ich w ciągu 2000 lat!"
 3030,"Kontrola nad Artefaktami została utracona!"
-3033,"Zająłeś wszystkie Kamienne kręgi. Utrzymaj je w swojej władzy przez 2000 lat i będziesz zwycięzcą!"
+3033,"Zajęto wszystkie Kamienne kręgi. Utrzymaj je w swojej władzy przez 2000 lat i będziesz zwycięzcą!"
 3034,"Wszystkie Kamienne kręgi zostały zajęte. Przegrasz, jeżeli nie odbijesz ich w ciągu 2000 lat!"
 3035,"Kontrola nad Kromlechami została utracona!"
 3039,"Kliknij na obszar, który chcesz zaatakować."
@@ -4124,36 +4124,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62731,"Bitwa morska"
 62732,"Cud świata"
 62733,"Oblężenie Kanaanu"
-						  
-		  
-				 
-							 
-					  
-							 
-						   
-						
-						   
-					
-						 
-				 
-					  
-					  
-				   
-							 
-							   
-					 
-					  
-			   
-								
-						   
-			
-				   
-						
-					 
-					   
-							
-
-62734,"Terytorium przejmujące"
+62734,"Sporne terytoria"
 62735,"Akropol"
 62736,"Podbój Krety"
 62737,"Wojna trojańska"
@@ -4720,9 +4691,9 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 70223,"Niestety! Twoja armia wyruszyła do walki, ale większość wojowników nie wróciła. Mniej liczni i bezsilni wobec taktyki tyreńskich przeciwników, padali pod ich ciosami jak kłosy pszenicy pod kosą. Ci, którzy ocaleli, przegrupowali się, by stawić ostatni opór, ale przyszłość wygląda mrocznie. Nie minie wiele czasu, gdy wszyscy zginiecie lub popadniecie w niewolę."
 70224,"W miarę jak Mykeńczycy stopniowo zadomawiali się w regionie, ich osady i styl życia stawały się coraz bardziej złożone. Jednym ze szczególnie widocznych osiągnięć była budowa kompleksów pałacowych, lub \"megaronów\", jak nazywano je w lokalnym języku. To właśnie stamtąd wanaks (król) każdego rozwijającego się miasta-państwa bacznie obserwował swoje królestwo. Wraz z rozszerzaniem się granic terytorialnych rosły też aspiracje i miasta-państwa często angażowały się w śmiertelne konflikty o ziemię uprawną, zasoby mineralne, źródła drewna i szlaki handlowe. Jedno z najbardziej niezwykłych miast-państw znajdowało się w Mykenach, gdzie podczas wykopalisk w XIX wieku odkryto wielkie fortyfikacje, rozbudowany kompleks pałacowy i bezcenne skarby, z których znaczna część leżała w kopcach grobowych. Innymi godnymi uwagi ośrodkami władzy były Tyryns, Argos, Pylos i Menelaion, w pobliżu współczesnego miasta Sparta.\n\nMimo tej niestabilnej i burzliwej sytuacji politycznej, ludy mykeńskie, rozsiane po regionach Attyki, Boeocji i Peloponezu, miały wiele wspólnego. Łączyła ich prymitywna forma języka greckiego, politeistyczne systemy religijne i normy kulturowe.\n\nMykeńczycy byli najprawdopodobniej bardzo wojowniczy, o czym świadczą liczne fortyfikacje i różne formy sztuki przedstawiającej wojnę, takie jak dzieła sztuki ceramicznej, freski ścienne, rzeźby i przedmioty pogrzebowe.\n\nKompleksy pałacowe na miejskim akropolu były zarówno ośrodkami rządowymi, jak i wojskowymi. Król i szlachta rządzili z pozycji siły, a żołnierze mogli być szkoleni w pobliżu i uzbrajani w zbrojowni. W czasie wojny akropol był bezpiecznym schronieniem przed najeźdźcami, a zapasy żywności zgromadzone w miejscowym spichlerzu mogły podtrzymać atakowaną cytadelę do czasu odparcia lub zakończenia oblężenia. Częściej niż w innych przypadkach rozważne było niszczenie bogactwa gospodarczego miasta-państwa: ziemi uprawnej, plonów, pastwisk, złóż minerałów, portu (jeśli takowy istniał) i szlaków handlowych. Mykeńskie miasta-państwa stopniowo zawierały jednak sojusze i umowy handlowe, a także często okazywały względną solidarność z cudzoziemcami."
 
-70230,"Kreta, 1420 pne\n\nPo zdobyciu cennego artefaktu dla Minojczyków, odkryłeś, że planują zapłacić ci nie monetą, ale krwią. Prowadzeni przez grupę siedmiu starszych kapłanów, Minojczycy otoczyli twoje kompanii i zdradziecko zaatakowani! Beznadziejnie przewaga liczebna, jedyną szansą na przeżycie jest ucieczka. Ucieknij ze szponów Minojczyków i szukaj sojuszniczych oddziałów w okolicy. Gdy już zbierzesz siły, wróć na Kretę i dokonaj zemsty. niektórzy mieszkańcy wspierają Minojczyków. Zniszcz ich świątynię i odzyskaj artefakt dla Myken.\n\nCele:\n• Zdobycie artefaktu.\n• Zniszcz świątynię minojską."
-70231,"1. Szukaj sojuszniczych sił — dołączenie do nich będzie miało kluczowe znaczenie dla twojego sukcesu.\n2. Ucieknij szybko od pierwszego starcia, ale potem postępuj ostrożnie.\n3. Siły dające ci możliwość ucieczki nie pojawiają się na początku ekran. Jeśli nie możesz ich od razu znaleźć, użyj nieaktywnego klawisza skrótu wojskowego (domyślnie ","), aby je zlokalizować.\n4. Mykeńczycy są ograniczeni do epoki brązu – nie można przejść do epoki żelaza."
-70232,"Napełnieni wściekłością z powodu zdrady Minojczyków, twoi ludzie zdecydowanie zaatakowali. Minojska świątynia leży zniszczona, tlące się kamienne kręgi i ostrzeżenie dla każdego, kto w przyszłości podejmie takie oszukańcze działania. Twoi żołnierze radują się z ich zwycięstwa, plądrując ziemie minojskie, zabierając ich bogactwa i delektując się niezliczonymi beczkami kreteńskiego wina.Dzięki temu wielkiemu sukcesowi twoi ludzie wyeliminowali swojego głównego rywala handlowego w regionie, przejmując kontrolę nad cennymi szlakami handlowymi, które niegdyś obfitowały w bogactwa Minojczyków pałace".
+70230,"Kreta, 1420 p.n.e.\n\nPo zdobyciu cennego artefaktu od Minojczyków odkryłeś, że nie zamierzają zapłacić ci w złocie, a raczej we krwi. Prowadzeni przez grupę siedmiu starszych Kapłanów, Minojczycy otoczyli waszą kompanię i zdradziecko zaatakowali! Jest ich zdecydowanie za dużo i jedyną szansą na przeżycie jest ucieczka. Wyrwij się ze szponów Minojczyków i poszukaj w okolicy sojuszniczych wojsk. Kiedy już zbierzesz siły, wróć na Kretę i dokonaj zemsty. Uważaj, niektórzy miejscowi popierają Minojczyków. \n\nCele:\n• Przejmij artefakt.\n• Zniszcz minojską świątynię."
+70231,"1. Szukaj sojuszniczych sił — dołączenie do nich będzie kluczowe dla twojego sukcesu.\n2. Szybko ucieknij z miejsca potyczki w początkowej fazie gry, ale potem bądź bardzo ostrożny.\n3. Siły dające możliwość ucieczki nie są widoczne na ekranie startowym. Jeśli nie możesz ich od razu znaleźć, użyj skrótu klawiszowego nieaktywnej jednostki wojskowej (domyślnie \",\" - przecinek), aby je znaleźć.\n4. Mykeńczycy są ograniczeni do Ery brązu - nie mogą awansować do Ery żelaza."
+70232,"Rozgniewani zdradą Minojczyków, twoi żołnierze zdecydowanie uderzyli. Minojska świątynia została zniszczona, a jej tlące się ruiny stanowią poważne ostrzeżenie dla każdego, kto w przyszłości odważyłby się popełnić podobny błąd. Twoi żołnierze cieszą się ze zwycięstwa i plądrują ziemie minojskie, kradnąc wszystkie bogactwa i upijając się kreteńskim winem. W wyniku tego wielkiego sukcesu twój lud pozbył się swojego głównego przeciwnika w regionie, przejmując kontrolę nad cennymi szlakami handlowymi,  które niegdyś wzbogacały minojskie pałace."
 70233 "Ponosząc katastrofalne straty w wyniku zdrady minojskiej, tylko garstka twoich ludzi wydostała się z wyspy. Wkrótce zostali wytropieni i zabici, ale nie miałeś tyle szczęścia. Od tygodni marniejesz w ciemnej celi , żywiąc się robakami i brudem. Żywisz słabą nadzieję, że niektórzy z twoich ludzi mogli uciec i wrócić z posiłkiem, ale z każdym mijającym dniem ta myśl staje się coraz bardziej ponura. Drzwi do twojej celi otwierają się i para strażnicy ciągną cię na egzekucję. Spotkaj się ze swoim losem bez strachu…"
 Ta spuścizna była reprezentowana w ich sztuce, szczególnie poprzez oszałamiające freski jednostek pływających, rybaków i życia morskiego, które zdobią ich artefakty. Ich gospodarka opierała się na handlu i dominacji pobliskich szlaków morskich, a nie na rolnictwie, jak miało to miejsce głównie w sąsiednich regionach. Ich osady i pałace były stosunkowo słabo ufortyfikowane, co demonstrowało zależność od sił morskich w celu powstrzymania inwazji.\n\nDzięki kontaktom z kulturami Wschodu w Egipcie, Libanie i Kanaanie Minojczycy zdobyli nie tylko bogactwo, ale także różne postępy technologiczne i intelektualne . Jednak tak monumentalny sukces nieuchronnie zwrócił uwagę sąsiadów. Gdzieś między końcem XV a początkiem XIV wieku p.n.e. (doniesienia są różne) centra pałaców minojskich zostały opanowane przez najeźdźców mykeńskich.
 
@@ -5019,24 +4990,6 @@ s poprzez skuteczne przekształcanie bitew morskich w bitwy lądowe na pokładac
 71232 "Wyrwałeś zwycięstwo bliskiej porażce! Armia rzymska została zmiażdżona, a Regulus siedzi w kajdanach w twoim namiocie. Nadeszła wieść, że uciekający ocaleni z rzymskiej floty zostali złapani przez burzę i znaleźli swoje groby na dnie morze. Chociaż twoje oszałamiające zwycięstwo uratowało Kartaginę, wiesz, że Rzymianie nigdy się nie poddadzą. Obawiasz się, że tylko opóźniłeś ich ostateczny triumf.
 71233,"Twoje niepowodzenie w pokonaniu armii rzymskiej zmusiło nas do zaakceptowania ich warunków pokoju, które są surowe. Zwróć uwagę na klauzulę traktatu wymagającą, abyś odsiedział swoje lata w rzymskim kamieniołomie".
 lud Berberów, a czasem sojusznicy Kartaginy, do buntu. Uchodźcy ze splądrowanych terenów uciekli do stolicy, powodując wybuch choroby i głód.\n\nNa szczęście dla Kartaginy pojawił się spartański generał najemników o imieniu Xanthippus. Spartanin uznał, że kawaleria Kartaginy i słonie, kręgosłup jego armii, najlepiej będą walczyć na otwartym terenie, pozwalając im manewrować. Wcześniej kartagińscy generałowie starali się walczyć z Rzymianami podczas oblężeń i na trudnym terenie, gdzie twarda rzymska piechota miała przewagę.\n\nTe zmiany były kluczowe dla sukcesu Kartaginy w bitwie pod Tunisem, znanej również jako bitwa pod Bagradas. w 255 p.n.e. Pobici przez szarżę słoni, otoczeni przez kawalerię kartagińską i niezdolni do pokonania falangi kartagińskiej w centrum, Rzymianie zostali pokonani przez ostateczną szarżę kawalerii. Regulus został schwytany i, zgodnie z rzymskimi legendami, został zwolniony warunkowo, aby negocjować pokój. W Rzymie wezwał Senat do odrzucenia propozycji pokoju i, spełniając warunki swojego zwolnienia, miał wrócić do Kartaginy, by poddać się torturom na śmierć. Po klęsce Rzymian pod Tunisem nastąpiło zatopienie floty rzymskiej w czasie sztormu, kończące próby Rzymu inwazji na Afrykę podczas wojny. Pierwsza wojna punicka ciągnęła się przez kolejne czternaście lat, której kulminacją była porażka Kartaginy w bitwie pod Aegatami w 241 roku p.n.e.\n\nJeśli chodzi o Xanthippus, jego ostateczny los jest niepewny. Diodor z Sycylii pisze, że po bitwie pod Tunisem spartański generał uratował miasto Lilybaeum na Sycylii przed rzymskim oblężeniem. Przywódcy w mieście byli zazdrośni o swojego zbawiciela"
-
-																																																																																																																																																																												 
-																																																  
-																																																																	   
-																																																														  
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																													  
-
-																																																																																																																																																																																															  
-																																										 
-																																																																															  
-																																																																														 
-																																																																																																																																																																																																																																																																																																																																																																																																										 
-
-																																																																																																																										   
-																																																																																				   
-																																																																																																						   
-																																																		 
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								 
 
 71300,"Twoje plemię"
 71301,"Libijczycy"
