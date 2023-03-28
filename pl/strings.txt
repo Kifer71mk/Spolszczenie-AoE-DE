@@ -4131,7 +4131,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62738,"Kolonizacja Ionii"
 62739,"Oblężenie Aten"
 62740,"Marsz Ksenofonta"
-62741,"Alexander the Great"
+62741,"Aleksander Wielki"
 62742,"The Holy Man"
 62743,"The Tigris Valley"
 62744,"Vengeance"
