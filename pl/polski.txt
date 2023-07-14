@@ -4744,7 +4744,9 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 70333,"Hetyci nie tylko złupili nasze miasto, ukradli wszystkie nasze skarby i posągi bogów. Nikt nie będzie pamiętał o wielkim mieście Babilon, jego dziedzictwo przepadło na zawsze."
 70334,"Około 1595 roku p.n.e., mniej więcej 150 lat po śmierci Hammurabiego, najazd Hetytów pod wodzą Mursilisa I spustoszył osłabione państwo babilońskie. Hetyci zdetronizowali ostatniego babilońskiego władcę i splądrowali Babilon, kładąc kres imperium założonemu przez Hammurabiego. Po upadku Babilonu królestwo Mitanni założone przez Hetytów zdołało zapuścić się dalej w głąb babilońskiego terytorium na północy, podczas gdy półkoczowniczy Kasyci osiedlili się między rzekami Tygrys i Eufrat. Od 1800 r. p.n.e. Kasyci rozpoczęli liczne najazdy na dawne ziemie babilońskie do 1450 r. p.n.e. zdołali podbić lokalne państwa amorejskie i akadyjskie. Dynastia Kasytów pozostała u władzy przez wiele kolejnych stuleci, w przeciwieństwie do królestwa Hetytów, które zostało wchłonięte przez królestwa hetyckie i asyryjskie."
 
-70340,"Babylon, 1185 – 1155 BCE\n\nFollowing the Hittite sack of Babylon, the city has come under the dominion of the Kassites, who have controlled it for nearly 500 years. Kassite rule is in danger, however, because of Elamite and Assyrian intrusions. Another Elamite army is pressing forward at this moment and is moving to take Babylon. If the city cannot be held, you are to save what you can, retreat downriver, and build up a new army. When you are prepared, retake the city of Babylon and destroy the invading Elamites.\n\nCele:\n• Destroy the Elamites."
+70340,"Babilon, 1185-1155 p.n.e.\n\n
+
+Following the Hittite sack of Babylon, the city has come under the dominion of the Kassites, who have controlled it for nearly 500 years. Kassite rule is in danger, however, because of Elamite and Assyrian intrusions. Another Elamite army is pressing forward at this moment and is moving to take Babylon. If the city cannot be held, you are to save what you can, retreat downriver, and build up a new army. When you are prepared, retake the city of Babylon and destroy the invading Elamites.\n\nCele:\n• Destroy the Elamites."
 70341,"1. Escape may be your only answer.\n2. Look east for resources required for a victorious return to the city."
 70342,"Even though we lost the war against the Elamites, there is a silver lining in it all. Our Kassite overlords have fallen, and their dynasty has been overthrown. The new army you have built can serve the new Babylonian king. Under him, we will be able to restore Babylon to its former glory."
 70343,"Our lands have been ravaged by the Elamites! Although the Kassite dynasty is weak, we do not have the means to overthrow them. It seems that we will be forced to endure their rule for yet another 500 years."
@@ -5017,7 +5019,7 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 71408,"Hittite Army"
 71409,"Elamites"
 71410,"Susa"//
-71411,"Northern Aramaeans"
+71411,"Northern Aramaeans"
 71412,"Western Aramaeans"
 71413,"Nineveh"
 71414,"Nimrud"//

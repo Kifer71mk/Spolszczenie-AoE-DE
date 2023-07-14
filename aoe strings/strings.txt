@@ -5017,7 +5017,7 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostaîy wykonane przez zagi
 71408,"Hittite Army"
 71409,"Elamites"
 71410,"Susa"//
-71411,"Northern Aramaeans"
+71411,"Northern Aramaeans"
 71412,"Western Aramaeans"
 71413,"Nineveh"
 71414,"Nimrud"//
