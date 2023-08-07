@@ -5112,8 +5112,7 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostaîy wykonane przez zagi
 71701,"Tribesmen"
 71702,"Romans"
 71703,"Roman Army"
-71704,"Macedonia"
-71705,"Larissa"
+71704,arissa"
 71706,"Greeks"
 71707,"Larissa Garrison"
 71708,"Spartacus"
@@ -5128,5 +5127,4 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostaîy wykonane przez zagi
 71753,"Regulus"//
 71754,"Consul's Guard"
 
-72000,"Zbuduj swojç armiц, atakuj wrogów i niszcz budynki, aby zdobyá punkty. Âcigaj siц z komputerem, aby uzyskaá jak najwyêszy wynik!\n1.     Czas upîynie, gdy licznik Cudów w prawym górnym rogu osiçgnie 0!\n2.     Twój kolor to niebieski. [ÊÓÝTY] jest twoim sprzymierzeécem.\n3.     Zaczynasz z DUÊÇ iloâciç zasobów, wiцc moêesz ciçgle tworzyá jednostki. Ale uwaêaj na swój limit populacji!\n4.     Masz siîy i budynki w róênych miejscach na mapie. Znajdè je, aby rozbudowaá swojç armiц.\n5.     Zniszcz czerwony Cud, aby otrzymaá duêç premiц punktowç!\n\nPoinformuj personel o swoim wyniku, gdy skoéczysz. Najwyêszy wynik w Twojej grupie moêe otrzymaá nagrodц!"
-72001,"Wyâwietl swój profil Steam
+72000,"Zbuduj swojç armiц, atakuj wrogów i niszcz budynki, aby zdobyá punkty. Âcigaj siц z komputerem, aby uzyskaá jak najwyêszy wynik!\n1.     Czas upîynie, gdy licznik Cudów w prawym górnym rogu osiçgnie 0!\n2.     Twój kolor to niebieski. [ÊÓÝTY] jest twoim sprzymierzeécem.\n3.     Zaczynasz z DUÊÇ iloâciç zasobów, wiцc moêesz ciçgle tworzyá jednostki. Ale uwaêaj na swój limit populacji!\n4.     Masz siîy i budynki w róênych miejscach na mapie. Znajdè je, aby rozbudowaá swojç armiц.\n5.     Zniszcz czerwony Cud, aby otrzymaá duêç premiц punktowç!\n\nPoinformuj personel o swoim wyniku, gdy skoéczysz. Najwyêszy wynik w Twojej grupie moêe otrzy"Wyâwietl swój profil Steam
