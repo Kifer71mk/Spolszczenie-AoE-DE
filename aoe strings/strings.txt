@@ -4057,21 +4057,8 @@ Genialny grecki naukowiec i wynalazca. Znany z osiçgniцá w dziedzinie matemat
 62607,"Przez wieki Babilon byî obiektem zazdroâci âwiata. Jego wiszçce ogrody i ogromne zigguraty byîy èródîem legend, które odbijaîy siц echem przez wieki. Hammurabi, najwiцkszy król Babilonu, daî âwiatu pierwszy kodeks prawny. Zarzçdzaj tym majestatycznym miastem od jego niezwykîego powstania do oszaîamiajçcego upadku i przywróá mu dawnç âwietnoâá."
 62608,"Kampania Gîosy Babilonu zostaîa ukoéczona!"
 
-62609,"Yamato, Imperium Wschodzçcego Sîoéca"
-62610,"
-																	  
-
-On the very edge of the eastern world, a new civilization was born beneath the rising sun. Follow the Yamato as they eclipse the neighboring clans to dominate Japan, turning the islands of rice farmers and fishermen into an empire of warriors and poets.
-																																																																																																																																				 
-													
-
-Aux confins même de l'Orient, une nouvelle civilisation est née sous le soleil levant. Suivez les Yamato et aidez-les à écarter les clans voisins dans leur quête de domination du Japon, afin de faire de ces îles de riziculteurs et de pêcheurs l'empire des guerriers et des poètes.
-																																																																																																			
-										   
-
-На самом краю восточного мира возникла новая цивилизация под восходящим солнцем. Проследите за тем, как Ямато затмевают собой близлежащие кланы с целью доминирования в Японии, превращая острова рисовых фермеров и рыбаков в империю воинов и поэтов.
-
-On the very edge of the eastern world, a new civilization was born beneath the rising sun. Follow the Yamato as they eclipse the neighboring clans to dominate Japan, turning the islands of rice farmers and fishermen into an empire of warriors and poets."
+62609,"Yamato, Empire of the Rising Sun"
+62610,"On the very edge of the eastern world, a new civilization was born beneath the rising sun. Follow the Yamato as they eclipse the neighboring clans to dominate Japan, turning the islands of rice farmers and fishermen into an empire of warriors and poets."
 62611,"Yamato, Empire of the Rising Sun Complete message!"
 
 62612,"Reign of the Hittites"
@@ -4171,7 +4158,7 @@ On the very edge of the eastern world, a new civilization was born beneath the r
 62803,"Dostarcz %s do %s."
 62804,"Dostarcz %s do oznaczonego obszaru."
 62805,"Pokonaj wszystkich wrogów %ss."
-62806,"Zniszcz %s z %s (%d/%d)."//bîçd w oknie celów ostatniego scenariusza Babilonu, wymaga dopracowania, ale nie mam pomysîu. Tekst celu jest nastцpujçcy "Zniszcz Cud z Niniwa". Sprawdè teê w innych scenariuszach
+62806,"Zniszcz %s z %s %d/%d."
 62807,"Zniszcz/zabij: %s."
 62808,"Zbuduj w wyznaczonym obszarze %d obiekty tego typu: \"%s\" %d/%d"
 62809,"Stwórz %s %d/%d."
