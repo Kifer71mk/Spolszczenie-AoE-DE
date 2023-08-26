@@ -1,4 +1,4 @@
-﻿101,"1"
+101,"1"
 102,"Copperplate Gothic Light"
 103,"Comic Sans MS"
 104,"Arial"
@@ -1312,7 +1312,7 @@
 9422,"Wczytaj scenariusz"
 9423,"Nie można wczytać tego scenariusza."
 9431,"Opcje"
-9432,"Normalnie"
+9432,"Normalna"
 9433,"Szybka"
 9434,"Bardzo szybka"
 9435,"Muzyka\nGłośność"
@@ -3338,7 +3338,7 @@
 39806,"Ulepszenie Falangisty. Centurion to najlepsza elitarna jednostka piechoty. Ma więcej punktów wytrzymałości, siły ataku i mocniejszy pancerz niż Falangista."
 39814,"Wykwalifikowany wojownik miotający kamiennymi pociskami, które zadają dodatkowe obrażenia łucznikom, murom i wieżom."
 39815,"Jeździec ze zwiększonymi obrażeniami przeciwko wszystkim jednostkom konnym i słoniom."
-39816,"Szybki okręt wojenny z krótkodystansowym atakiem ogniowym do walki z innymi okrętami. Lepszy od Triera w starciu jeden na jednego. Otrzymuje dodatkowe obrażenia od broni oblężniczej i Trier katapultowych."
+39816,"Szybki okręt wojenny z krótkodystansowym atakiem ogniowym do walki z innymi okrętami. Lepszy od Triery w starciu jeden na jednego. Otrzymuje dodatkowe obrażenia od broni oblężniczej i Trier katapultowych."
 39817,"Ulepszenie Rydwanu. Ma wysoką odporność na nawracanie. Zadaje obrażenia sąsiednim wrogim jednostkom tratując je (podtyp ataku obszarowego)."
 39818,"Ulepszenie Słonia bojowego. Ma zwiększony pancerz przeciwko Balistom, Helepolisom i broni miotającej oraz zadaje obrażenia sąsiednim wrogim jednostkom tratując je (podtyp ataku obszarowego)."
 39819,"Można na nie polować w celu zdobycia żywności."
@@ -3348,7 +3348,7 @@
 39823,"Porucznik Cezara, kochanek Kleopatry i niedoszły władca Rzymu."
 39824,"Okręt flagowy Kleopatry. Z niego dowodzi całą swoją flotą."
 39825,"Arcydzieło architektoniczne królowej Zenobii. Ta struktura obronna jest najsilniejszą jak kiedykolwiek istniała."
-39826,"Dumny wódz Arwrnów. Zawiązał koalicję ze wszystkimi plemionami galijskimi, aby powstrzymać natarcie wojsk rzymskich."
+39826,"Dumny wódz Arwernów. Zawiązał koalicję ze wszystkimi plemionami galijskimi, aby powstrzymać natarcie wojsk rzymskich."
 Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matematyki i inżynierii.
 39828,"Zawiera zaawansowany układ luster skupiających światło, a tak uzyskane ciepło jest kierowane na atakujące okręty i wojska."
 39829,"Można na nie polować w celu zdobycia żywności."
@@ -4089,7 +4089,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62631,"Welcome to gamescom 2017! Press Play to advance to our exclusive gamescom scenario!"
 62632,"Gamescom Completed Complete message!"
 
-//62700-62799 Official Scenario descriptions
+//62700-62799 Nazwy scenariuszy
 62700,"The Birth of Rome"
 62701,"Pyrrhus of Epirus"
 62702,"The Siege of Syracuse"
@@ -4140,8 +4140,8 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62747,"Karawana"
 62748,"Władca Eufratu"
 62749,"Podbój Niniwy"
-62750,"The Assassins"
-62751,"Island Hopping"
+62750,"Asasyni"
+62751,"Z wyspy na wyspę"
 62752,"Capture"
 62753,"The Mountain Świątynia"
 62754,"The Canyon of Death"
@@ -4782,14 +4782,14 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 70413,"Po tym, jak nie udało ci się pokonać Jomonów i zdobyć eliksiru, w pośpiechu uciekłeś do Chin. Cesarz, bardzo rozczarowany twoją porażką, nakazał ci udać się do swojego mauzoleum. Będziesz mu służyć przez całą wieczność jako jedna z figurek jego Terakotowej Armii."
 70414,"Qin Shi Huang, pierwszy cesarz Chin, obawiał się śmierci i szukał sposobu na osiągnięcie nieśmiertelności. Według legend zlecił on Xu Fu, nadwornemu czarodziejowi i alchemikowi, znalezienie eliksiru życia na mitycznej górze Penglai na wyspach na wschód od Chin. Według chińskich przekazów, Xu Fu wylądował w 210 r. p.n.e. na japońskim półwyspie Kii, w pobliżu góry Fuji, wraz z załogą złożoną z żołnierzy, rolników i rzemieślników. Jednak Xu Fu nigdy nie powrócił do Chin, prawdopodobnie woląc koronować się na króla wysp niż wrócić do cesarza z pustymi rękami. Legenda głosi, że Xu Fu, znany również jako Jofuku w japońskich opowieściach, nauczał wyspiarzy technik medycznych i rolniczych. Ostatecznie stał się on jedną z możliwych historycznych inspiracji dla pierwszego japońskiego cesarza, Jimmu.\n\nChociaż nie ma dowodów archeologicznych potwierdzających te legendarne wydarzenia, rolnicy uprawiający ryż z kontynentu azjatyckiego zaczęli osiedlać się na japońskim archipelagu już w 300 r. p.n.e., wprowadzając chińskie elementy kulturowe i technologiczne. Pierwsi mieszkańcy Japonii, których kultura znana jest jako Jomon, byli ludem neolitycznym, który utrzymywał się głównie z łowiectwa, rybołówstwa i zbieractwa. Używali prostych kamiennych i drewnianych narzędzi, a ich ubrania były szyte z kory morwy. Jomonowie są najbardziej znani ze swojej wzorzystej ceramiki, od której kultura wzięła swoją nazwę. Jest to jedna z najstarszych form ceramiki na świecie, a niektóre odnalezione fragmenty wyrobów garncarskich są datowane na 14500 r. p.n.e.\n\nOkoło 300 r. p.n.e. kultura materialna Japonii stała się bardziej wyrafinowana dzięki wpływom z kontynentu. W ciągu następnych sześciu stuleci, w okresie zwanym Yayoi, Japonia przeszła rewolucję technologiczną wraz z wprowadzeniem uprawy ryżu i metalurgii. Chińskie kroniki z tego okresu opisują Japonię jako kraj setek społeczności plemiennych rozproszonych po całym kraju i często skonfliktowanych ze sobą."
 
-70420,"Awaji and Shodo Islands, 178 CE\n\nYour chiefdom has grown since the ancient days when a Chinese boat first came to your shores. Your people have benefited from the goods brought by the seasonal Chinese trade ships and your craftsmen have learned to use bronze to fashion prized dotaku bells. These bells are buried into the earth to charge them with spiritual power and then rung as part of rituals to ensure the success of the rice harvests. Your settlements are growing, however, and new bells will be needed to protect your people's livelihood. Invade the neighboring islands and capture these valuable treasures.\n\nCele:\n• Capture six Artifacts, each containing a dotaku bell."
-70421,"1. Some weapons can be fired across the seas while remaining out of enemy range.\n2. Quickly find and eliminate the source of Shikoku military ships."
-70422,"With these dotaku bells, you have ensured the success of the coming harvests. Your settlements continue to grow, but so do those of your rivals. Some chieftains have taken their men from the fields and formed war bands which aggressively attack rival settlements. Every region of Japan is touched by war."
-70423,"You have failed, but do not worry. The elders say there are things other than dotaku bells they can bury to ensure successful harvests. They ask that you report to the fields."
-70424,"The Yayoi period marked the change in Japanese society from one of hunter-gatherers to an agrarian and militarized society. Stone tools and weapons were replaced with those of bronze and iron, while rice farming encouraged the Japanese to settle in larger communities. The first powerful clans and the beginnings of a class system appeared, laying the foundations for the daimyo and samurai of later centuries.\n\nThe use of metal was not restricted to weapons and tools. The Yayoi were skilled blacksmiths, creating ceremonial bells known as dotaku. These bells were richly decorated with patterns and images representing nature and animals. They were used in agricultural rituals and as warning bells in case of attacks.\n\nChinese dynastic histories, which recount the activities of 'barbarian' neighbors, reference a great civil war in Japan during the late Yayoi period. The introduction of rice cultivation and metallurgy from the mainland had encouraged local leaders to extend their authority over other regions, particularly coastal villages, to control the flow of imports and mainland technologies. This conflict reduced the political fragmentation of the islands as a few powerful leaders expanded their territory at the expense of smaller and weaker chiefdoms."
+70420,"Wyspy Awaji i Shodo, 178 r. n.e.\n\nTwoje królestwo rozrosło się od czasów, gdy chińska łódź po raz pierwszy przybiła do waszych brzegów. Twój lud od dawna czerpie korzyści z towarów przywożonych z Chin przez sezonowe statki handlowe, a twoi rzemieślnicy nauczyli się obrabiać brąz, aby wytwarzać cenione wysoko dzwony Dotaku. Dzwony te zakopywano w ziemi, aby naładować je duchową energią, a następnie dzwoniono nimi w ramach rytuałów mających zapewnić udane zbiory ryżu. Twoje wioski rozrastają się i nowe dzwony będą potrzebne do ochrony upraw twych ludzi. Zaatakuj sąsiednie wyspy i zdobądź te bezcenne skarby.\n\nCele:\n• Zdobądź sześć artefaktów, z których każdy zawiera dzwon Dotaku."
+70421,"1. Niektóre bronie mogą strzelać przez morze, pozostając poza zasięgiem wroga.\n2. Szybko znajdź i wyeliminuj źródło okrętów wojennych Shikoku."
+70422,"Dzięki dzwonom Dotaku zapewniłeś powodzenie nadchodzących zbiorów. Twoje wioski wciąż się rozrastają, ale rywale dotrzymują ci kroku. Niektórzy wodzowie plemienni wycofali swoich ludzi z pól i utworzyli grupy wojskowe, aby atakować konkurencyjne osady. Wojna dotknęła każdy region Japonii."
+70423,"Zawiodłeś, ale nie martw się. Starszyzna twierdzi, że istnieją inne rzeczy niż dzwony Dotaku, które mogą zakopać, aby zapewnić udane zbiory. Proszą byś zjawił się na polach."
+70424,"W Japonii okres Yayoi oznaczał przejście od społeczeństwa łowiecko-zbierackiego do społeczeństwa agrarnego i zmilitaryzowanego. Kamień używany do produkcji narzędzi i broni został zastąpiony brązem i żelazem, a uprawa ryżu doprowadziła Japończyków do stworzenia większych społeczności. Pojawiły się pierwsze potężne klany i początki systemu klasowego, kładąc podwaliny pod Daimyo (panów feudalnych) i samurajów w kolejnych stuleciach.\n\nWykorzystanie metalu nie ograniczało się do broni i narzędzi. Ówcześni kowale byli szczególnie uzdolnieni i tworzyli rytualne dzwony znane jako Dotaku. Były one bogato zdobione motywami i obrazami przedstawiającymi naturę i zwierzęta. Używano ich w rytuałach rolniczych i jako dzwony alarmowe w przypadku ataku.\n\nChińskie kroniki dynastyczne, które opisują działania ich "barbarzyńskich" sąsiadów, mówią o wielkiej wojnie domowej w Japonii pod koniec okresu Yayoi. Wprowadzenie uprawy ryżu i metalurgii z kontynentu zachęciło lokalnych władców do rozszerzenia swojej dominacji na inne regiony, zwłaszcza przybrzeżne wioski, w celu kontrolowania przepływu importu i technologii z kontynentu azjatyckiego. Konflikt ten zmniejszył polityczną fragmentację wysp, ponieważ garstka potężnych przywódców rozszerzyła swoje terytorium kosztem mniejszych, słabszych plemion."
 
-70430,"Nara, 180 CE\n\nWar has raged over the islands for many years, and the spirits are angry. Their disharmony is felt in the trembles of the earth and the waves which fall over and sweep away the coastal villages. Though you are young, Himiko, as a shaman queen, you know how to assuage the gods and restore the harmony of Japan and her people. Many proud kings remain untouched by the spirits, however. Use your magic and show them the folly of their ways.\n\nCele:\n• Destroy the four Izumo Koszary\n• Capture the War Chest and bring it to your Świątynia"
-70431,"1. A Kapłan's healing can help even a simple Topornik defeat many opponents.\n2. If used smartly, two Priests can defeat groups of units.\n3. Rydwans are nearly immune to Priests. Use converted units against them."
+70430,"Nara, 180 r. n.e.\n\nWojna szaleje na wyspach od lat, a duchy są wściekłe. Ich dysonans można wyczuć w trzęsieniach ziemi i ogromnych falach, które przetaczają się przez przybrzeżne wioski. Możesz być młoda, królowo szamanów Himiko, ale wiesz, jak uspokoić bogów i przywrócić harmonię w Japonii. Jednak wielu aroganckich królów wciąż ignoruje duchy. Użyj swojej magii i pokaż im głupotę ich postępowania.\n\nCele:\n• Zniszcz cztery Koszary Izumo.n• Zdobądź Skrzynię wojenną i przynieś ją do swojej Świątyni."
+70431,"1. Leczenie przez Kapłana może pomóc nawet zwykłemu Topornikowi pokonać wielu przeciwników.\n2. Przy odrobinie sprytu dwóch Kapłanów może pokonać całe grupy jednostek.\n3. Kapłani nie mają praktycznie żadnego wpływu na Rydwany. Użyj nawróconych jednostek przeciwko nim."
 70432,"Queen Himiko, you have pleased the spirits and saved untold lives from the blight of war. Japan is finally united under your rule and harmony has been restored. You will send envoys to China to establish relations with the mighty Cao Wei kingdom. And when you finally breathe your last, your people will inter your remains in a great earthen mound built to honor your illustrious life."
 70433,"Maybe becoming queen of Japan was a bit too ambitious, even for a shamaness. You might be better off using your magic on something more attainable. There are some sheep who could use a leader."
 70434,"The introduction of rice agriculture in Japan had profound impacts on Japanese culture. Population increased tenfold from the earlier Jomon period and Yayoi sites featured large structures suggestive of grain storehouses. As in other parts of the world following the introduction of large-scale agriculture, these changes were followed by increased social stratification, tribal warfare, and the construction of military fortifications to defend grain stores and farming lands. \n\nChinese records from the 3rd century CE mention a kingdom called Yamataikoku, a possible precursor state to the later Yamato. According to these sources, the kingdom was ruled by Queen Himiko, a spiritual leader who ascended the throne as a young woman after the great civil war in the islands. It was said in the Chinese histories that Himiko used magic and her knowledge of the spirits to bewitch the people into placing her on the throne. As Queen, she established diplomatic relations with the Chinese kingdom of Cao Wei, famed for its role during the Three Kingdoms Period of Chinese history. Himiko remained unmarried during her long reign and resided in a grand palace with one thousand women and one man as attendants.\n\nUnlike the Chinese accounts, however, the Japanese chronicles are less certain of Himiko's existence, with the two oldest Japanese histories making no mention of the queen. In later centuries, Japanese writers would identify Himiko with other women, most notably Empress Jingū, another legendary figure who reigned as regent during the minority of her son, Homutawake, later known as the Emperor Ōjin."
@@ -5026,7 +5026,7 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 71415,"Assyrian Defenders"
 
 71450,"Xu Fu"
-71451,"Jomon Tribes"
+71451,"Plemiona Jomon"
 71452,"Yamato"//
 71453,"Shikoku"
 71454,"Queen Himiko"
