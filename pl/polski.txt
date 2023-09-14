@@ -4144,7 +4144,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62751,"Z wyspy na wyspę"
 62752,"Przechwytywanie"
 62753,"Górska świątynia"
-62754,"The Canyon of Death"
+62754,"Kanion śmierci"
 62755,"Coup"
 62756,"Jinshin War"
 62757,"Fujiwara Revolts"
@@ -4800,7 +4800,7 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 70443,"Twoi synowie udzielają ci rad po porażce. Zalecają zawarcie pokoju z bogami poprzez zostanie pustelnikiem. Mówią, że góra Fuji jest urocza zimą."
 70444,"Około 300 r. n.e. w Japonii zaczęły pojawiać się duże ziemne kopce grobowe, zwane Kofun. Kopce te miały różne kształty i rozmiary, ale najbardziej niezwykłe były gigantyczne grobowce w kształcie dziurki od klucza. Chowano tam przywódców i elitę wraz z bronią i innymi przedmiotami osobistymi. Podobnie jak w innych częściach starożytnego świata, budowa tych zabytków zbiegła się w czasie z centralizacją polityczną i okresem wojen, podczas których kilku lokalnych wodzów rywalizowało o kontrolę nad regionem.\n\nReligia Shinto pojawiła się w okresie Kofun, wywodząc się ze starożytnych systemów wierzeń. Jednak najstarsze świątynie Shinto, takie jak Izumo-taisha i Wielki Chram Ise - Ise-jingu, pochodzą z okresu Yayoi. Słowo \"Shinto\" oznacza \"drogę bogów\" i pochodzi od chińskiego Shendao, oznaczającego \"drogę duchów\". W religii Shinto praktykujący wykonują rytuały, aby nawiązać połączenie z kami, czyli bogami. Kami uosabiają moce natury, takie jak słońce, wiatr, burze i morze."
 
-70450,"Mount Shigi, 587 CE\n\nMuch has changed in the many generations since the Yamato clan rose to rule Japan. Now, the clan has been splintered into many and the old Shinto ways have been challenged by Buddhist missionaries from China. The Mononobe clan are opponents of the new faith and have held the ears of the Emperors for generations, but the Soga are gaining influence. The sudden death of your father, the Emperor, has opened the rifts in the Imperial court and the Mononobe now threaten civil war. In an affront to your Buddhist beliefs, they have seized relics of the Buddha. Prince Shōtoku, travel to Mount Shigi, defeat the Mononobe, and recover these relics.\n\nCele:\n• Recover the Artifact.\n• Bring the Artifact to the flagged area."
+70450,"Góra Shigi, 587 r. n.e.\n\nJaponia bardzo się zmieniła podczas wielu pokoleń panowania klanu Yamato. Obecnie klan jest podzielony, a stare metody Shinto zostały zakwestionowane przez buddyjskich misjonarzy z Chin. Członkowie klanu Mononobe są przeciwni nowej wierze. Od kilku pokoleń mają oni posłuch u cesarzy, ale Soga zyskują coraz większe wpływy. Nagła śmierć cesarza, twojego ojca, podzieliła dwór cesarski, a Mononobe grożą teraz wojną domową. Znieważając wasze buddyjskie wierzenia, przejęli relikwie Buddy. Książę Shotoku, udaj się na górę Shigi i odzyskaj je.\n\nCele:\n• Odzyskaj artefakt.\n• Przynieś artefakt do obszaru wskazanego przez flagi."
 70451,"1. Choose your battles carefully, as you will not need to defeat all enemies to recover the Artifact.\n2. Friends hold keys to defeating the Mononobe."
 70452,"Prince Shōtoku, your victory has crippled the Mononobe clan and restored Soga influence over the Imperial Dom. The relics you recovered will be deposited inside the foundations of a great Buddhist temple you will build at Asuka."
 70453,"Because of your failure, your enemies now control the Emperor and Japanese Buddhism is in decline. Better luck next life."

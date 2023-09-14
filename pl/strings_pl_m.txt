@@ -4144,7 +4144,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62751,"Z wyspy na wyspę"
 62752,"Przechwytywanie"
 62753,"Górska świątynia"
-62754,"Kanion Śmierci"
+62754,"Kanion śmierci"
 62755,"Przewrót"
 62756,"Wojna Jinshin"
 62757,"Rewolty Fujiwara"
@@ -4800,7 +4800,7 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 70443,"Twoi synowie udzielają ci rad po porażce. Zalecają zawarcie pokoju z bogami poprzez zostanie pustelnikiem. Mówią, że góra Fuji jest urocza zimą."
 70444,"Około 300 r. n.e. w Japonii zaczęły pojawiać się duże ziemne kopce grobowe, zwane Kofun. Kopce te miały różne kształty i rozmiary, ale najbardziej niezwykłe były gigantyczne grobowce w kształcie dziurki od klucza. Chowano tam przywódców i elitę wraz z bronią i innymi przedmiotami osobistymi. Podobnie jak w innych częściach starożytnego świata, budowa tych zabytków zbiegła się w czasie z centralizacją polityczną i okresem wojen, podczas których kilku lokalnych wodzów rywalizowało o kontrolę nad regionem.\n\nReligia Shinto pojawiła się w okresie Kofun, wywodząc się ze starożytnych systemów wierzeń. Jednak najstarsze świątynie Shinto, takie jak Izumo-taisha i Wielki Chram Ise - Ise-jingu, pochodzą z okresu Yayoi. Słowo \"Shinto\" oznacza \"drogę bogów\" i pochodzi od chińskiego Shendao, oznaczającego \"drogę duchów\". W religii Shinto praktykujący wykonują rytuały, aby nawiązać połączenie z kami, czyli bogami. Kami uosabiają moce natury, takie jak słońce, wiatr, burze i morze."
 
-70450,"Góra Shigi, 587 n.e.\n\nWiele się zmieniło w ciągu wielu pokoleń, odkąd klan Yamato doszedł do władzy w Japonii. Teraz klan został podzielony na wiele, a dawne sposoby Shinto zostały zakwestionowane przez buddyjskich misjonarzy z Chin. Klan Mononobe jest przeciwnikiem nowej wiary i od pokoleń trzyma uszy Imperatorów, ale Soga zyskuje na wpływie.Nagła śmierć twojego ojca, Imperatora, otworzyła szczeliny na dworze cesarskim i Mononobe zagrażają teraz wojna domowa. W obrazie twoich buddyjskich wierzeń zajęli relikwie Buddy. Książę Shōtoku, udaj się na górę Shigi, pokonaj Mononobe i odzyskaj te relikwie.\n\nCele:\n• Odzyskaj artefakt.\n • Przynieś artefakt do oznaczonego obszaru."
+70450,"Góra Shigi, 587 r. n.e.\n\nJaponia bardzo się zmieniła podczas wielu pokoleń panowania klanu Yamato. Obecnie klan jest podzielony, a stare metody Shinto zostały zakwestionowane przez buddyjskich misjonarzy z Chin. Członkowie klanu Mononobe są przeciwni nowej wierze. Od kilku pokoleń mają oni posłuch u cesarzy, ale Soga zyskują coraz większe wpływy. Nagła śmierć cesarza, twojego ojca, podzieliła dwór cesarski, a Mononobe grożą teraz wojną domową. Znieważając wasze buddyjskie wierzenia, przejęli relikwie Buddy. Książę Shotoku, udaj się na górę Shigi i odzyskaj je.\n\nCele:\n• Odzyskaj artefakt.\n• Przynieś artefakt do obszaru wskazanego przez flagi."
 70451,"1. Starannie wybieraj bitwy, ponieważ nie będziesz musiał pokonać wszystkich wrogów, aby odzyskać Artefakt.\n2. Przyjaciele mają klucze do pokonania Mononobe."
 70452,"Książę Shōtoku, twoje zwycięstwo sparaliżowało klan Mononobe i przywróciło wpływy Soga w Cesarskim Domu. Odzyskane relikwie zostaną złożone w fundamentach wielkiej buddyjskiej świątyni, którą zbudujesz w Asuka."
 70453 "Z powodu twojej porażki twoi wrogowie kontrolują teraz cesarza, a japoński buddyzm podupada. Lepszego szczęścia w przyszłym życiu."
