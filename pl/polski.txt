@@ -4061,9 +4061,9 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62610,"Na samym krańcu Orientu, pod wschodzącym słońcem narodziła się nowa cywilizacja. Podążaj za rodem Yamato i pomóż im przyćmić sąsiednie klany w ich dążeniu do dominacji nad Japonią, przekształcając te wyspy rolników uprawiających ryż i rybaków w imperium wojowników i poetów."
 62611,"Kampania Yamato, Imperium Wschodzącego Słońca została ukończona!"
 
-62612,"Reign of the Hittites"
-62613,"From humble origins as nomadic warriors, the Hittites settled in Anatolia and built an empire over the ruins of the Hattian and Mitanni kingdoms. They adopted the chariot with great success and not only destroyed Babylon, but also rivaled Egypt in wealth and power. Lead the Hittites in their most daring raids and battles from the dawning of their culture to their cataclysmic clash with the Egyptians at Kadesh—the first major battle between great powers in human history. "
-62614,"Reign of the Hittites Complete message!"
+62612,"Panowanie Hetytów"
+62613,"Pochodzący ze skromnych plemion koczowniczych wojowników Hetyci osiedlili się w Anatolii i zbudowali imperium na ruinach królestw Hatti i Mitanni. Doskonale zaadoptowali rydwan wojenny i udało im się nie tylko zniszczyć Babilon, ale także rywalizować z Egiptem pod względem gospodarczym i militarnym. Poprowadź Hetytów w ich najbardziej śmiałych najazdach i bitwach od zarania ich kultury do katastrofalnego starcia z Egipcjanami pod Kadesz, pierwszej wielkiej bitwy między wielkimi mocarstwami w historii ludzkości."
+62614,"Kampania Panowanie Hetytów została ukończona!"
 
 62615,"The Rise of Rome"
 62616,"Rome. The very name conjures images of steely-eyed legionaries and opulent senators. But Rome was not built in a day. Journey back to when Rome was nothing but a modest town on the Tiber River. Follow the Romans as they overthrow their Etruscan masters, conquer Italy, and expand throughout the Mediterranean to challenge Carthage and Greece. Divide and conquer, Consul."
@@ -4147,7 +4147,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62754,"Kanion śmierci"
 62755,"Przewrót"
 62756,"Zamieszki roku Jinshin"
-62757,"Fujiwara Revolts"
+62757,"Bunt Fujiwary"
 62758,"Opening Moves"
 62759,"Raid on Babylon"
 62760,"The Battle of Kadesh"

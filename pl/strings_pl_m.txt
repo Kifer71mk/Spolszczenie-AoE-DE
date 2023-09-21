@@ -4061,9 +4061,9 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62610,"Na samym krańcu Orientu, pod wschodzącym słońcem narodziła się nowa cywilizacja. Podążaj za rodem Yamato i pomóż im przyćmić sąsiednie klany w ich dążeniu do dominacji nad Japonią, przekształcając te wyspy rolników uprawiających ryż i rybaków w imperium wojowników i poetów."
 62611,"Kampania Yamato, Imperium Wschodzącego Słońca została ukończona!"
 
-62612,"Rząd Hetytów"
-62613,"Pochodzący ze skromnych początków jako koczowniczy wojownicy, Hetyci osiedlili się w Anatolii i zbudowali imperium na ruinach królestw Hattian i Mitanni. Przyjęli rydwan z wielkim sukcesem i nie tylko zniszczyli Babilon, ale także rywalizowali z Egiptem pod względem bogactwa i władzy Poprowadź Hetytów w ich najbardziej brawurowych najazdach i bitwach od zarania ich kultury do ich katastrofalnego starcia z Egipcjanami w Kadesz – pierwszej większej bitwy między wielkimi mocarstwami w historii ludzkości.
-62614,"Reign of the Hetytów Kompletna wiadomość!"
+62612,"Panowanie Hetytów"
+62613,"Pochodzący ze skromnych plemion koczowniczych wojowników Hetyci osiedlili się w Anatolii i zbudowali imperium na ruinach królestw Hatti i Mitanni. Doskonale zaadoptowali rydwan wojenny i udało im się nie tylko zniszczyć Babilon, ale także rywalizować z Egiptem pod względem gospodarczym i militarnym. Poprowadź Hetytów w ich najbardziej śmiałych najazdach i bitwach od zarania ich kultury do katastrofalnego starcia z Egipcjanami pod Kadesz, pierwszej wielkiej bitwy między wielkimi mocarstwami w historii ludzkości."
+62614,"Kampania Panowanie Hetytów została ukończona!"
 
 62615,"Powstanie Rzymu"
 62616,"Rzym. Sama nazwa przywołuje obrazy legionistów o stalowookich oczach i bogatych senatorów. Ale nie od razu Rzym zbudowano. Wróć do czasów, gdy Rzym był tylko skromnym miastem nad Tybrem. Podążaj za Rzymianami, gdy obalają ich etruskich panów, podbij Włochy i rozprzestrzenij się na całym Morzu Śródziemnym, by rzucić wyzwanie Kartaginie i Grecji. Dziel i rządź, konsulu.
@@ -4147,7 +4147,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62754,"Kanion śmierci"
 62755,"Przewrót"
 62756,"Zamieszki roku Jinshin"
-62757,"Rewolty Fujiwara"
+62757,"Bunt Fujiwary"
 62758,"Ruch otwierający"
 62759,"Najazd na Babilon"
 62760,"Bitwa pod Kadesz"

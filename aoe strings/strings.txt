@@ -4061,9 +4061,9 @@ Genialny grecki naukowiec i wynalazca. Znany z osiçgniцá w dziedzinie matemat
 62610,"Na samym kraécu Orientu, pod wschodzçcym sîoécem narodziîa siц nowa cywilizacja. Podçêaj za rodem Yamato i pomóê im przyámiá sçsiednie klany w ich dçêeniu do dominacji nad Japoniç, przeksztaîcajçc te wyspy rolników uprawiajçcych ryê i rybaków w imperium wojowników i poetów."
 62611,"Kampania Yamato, Imperium Wschodzçcego Sîoéca zostaîa ukoéczona!"
 
-62612,"Reign of the Hittites"
-62613,"From humble origins as nomadic warriors, the Hittites settled in Anatolia and built an empire over the ruins of the Hattian and Mitanni kingdoms. They adopted the chariot with great success and not only destroyed Babylon, but also rivaled Egypt in wealth and power. Lead the Hittites in their most daring raids and battles from the dawning of their culture to their cataclysmic clash with the Egyptians at Kadesh—the first major battle between great powers in human history. "
-62614,"Reign of the Hittites Complete message!"
+62612,"Panowanie Hetytów"
+62613,"Pochodzçcy ze skromnych plemion koczowniczych wojowników Hetyci osiedlili siц w Anatolii i zbudowali imperium na ruinach królestw Hatti i Mitanni. Doskonale zaadoptowali rydwan wojenny i udaîo im siц nie tylko zniszczyá Babilon, ale takêe rywalizowaá z Egiptem pod wzglцdem gospodarczym i militarnym. Poprowadè Hetytów w ich najbardziej âmiaîych najazdach i bitwach od zarania ich kultury do katastrofalnego starcia z Egipcjanami pod Kadesz, pierwszej wielkiej bitwy miцdzy wielkimi mocarstwami w historii ludzkoâci."
+62614,"Kampania Panowanie Hetytów zostaîa ukoéczona!"
 
 62615,"The Rise of Rome"
 62616,"Rome. The very name conjures images of steely-eyed legionaries and opulent senators. But Rome was not built in a day. Journey back to when Rome was nothing but a modest town on the Tiber River. Follow the Romans as they overthrow their Etruscan masters, conquer Italy, and expand throughout the Mediterranean to challenge Carthage and Greece. Divide and conquer, Consul."
@@ -4147,7 +4147,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiçgniцá w dziedzinie matemat
 62754,"Kanion âmierci"
 62755,"Przewrót"
 62756,"Zamieszki roku Jinshin"
-62757,"Fujiwara Revolts"
+62757,"Bunt Fujiwary"
 62758,"Opening Moves"
 62759,"Raid on Babylon"
 62760,"The Battle of Kadesh"
@@ -5110,7 +5110,7 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostaîy wykonane przez zagi
 71671,"Alans"
 71672,"Ostrogoths"
 
-71700,"Hannibal
+71700,"Hannibal"//
 71701,"Tribesmen"
 71702,"Romans"
 71703,"Roman Army"
@@ -5131,4 +5131,4 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostaîy wykonane przez zagi
 71754,"Consul's Guard"
 
 72000,"Zbuduj swojç armiц, atakuj wrogów i niszcz budynki, aby zdobyá punkty. Âcigaj siц z komputerem, aby uzyskaá jak najwyêszy wynik!\n1.     Czas upîynie, gdy licznik Cudów w prawym górnym rogu osiçgnie 0!\n2.     Twój kolor to niebieski. [ÊÓÝTY] jest twoim sprzymierzeécem.\n3.     Zaczynasz z DUÊÇ iloâciç zasobów, wiцc moêesz ciçgle tworzyá jednostki. Ale uwaêaj na swój limit populacji!\n4.     Masz siîy i budynki w róênych miejscach na mapie. Znajdè je, aby rozbudowaá swojç armiц.\n5.     Zniszcz czerwony Cud, aby otrzymaá duêç premiц punktowç!\n\nPoinformuj personel o swoim wyniku, gdy skoéczysz. Najwyêszy wynik w Twojej grupie moêe otrzymaá nagrodц!"
-72001,"Wyâwietl swój profil Steam."
+72001,"Wyâwietl swój profil Steam
