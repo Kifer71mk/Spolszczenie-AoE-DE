@@ -4824,11 +4824,13 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 70483,"Pomimo porażki, Fujiwara byli bardzo pobłażliwi. Wygnali cię, ale pozwolili ci rządzić twoim nowym domem... na najbardziej wysuniętym na północ krańcu Japonii. Ubierz się ciepło."
 70484,"Fujiwara pojawili się po raz pierwszy, gdy Nakatomi no Kamatari otrzymał nazwę klanu za pomoc cesarzowi Tenji podczas incydentu Isshi, który zakończył panowanie Soga. Podczas panowania cesarza Tenji i jego następców, potęga klanu Fujiwara wzrosła i wżenili się oni w rodzinę cesarską, tak jak zrobili to wcześniej Soga. Do 730 roku członkowie klanu Fujiwara zmonopolizowali władzę w Radzie Państwa, zajmując cztery z dziesięciu miejsc. Jednak w 735 roku straszliwa epidemia przetoczyła się przez Japonię, zabijając czołowych urzędników Fujiwara. To niepowodzenie pozwoliło innym klanom zyskać na znaczeniu. Klany te wkrótce wyparły Fujiwarę i dopilnowały, by ich urzędnicy zostali zdegradowani i przeniesieni do odległych miejsc.\n\nFujiwara no Hirotsugu był jednym z tych urzędników. Fujiwara no Hirotsugu był jednym z takich urzędników. W 738 roku został zdegradowany z gubernatora prowincji Yamato na odległe stanowisko w Dazaifu na Kiusiu. We wrześniu 740 roku Hirotsugu rozpoczął bunt, domagając się zwolnienia skorumpowanych urzędników, których obwiniał za upadek swego klanu.\n\nHirotsugu znalazł wielu zwolenników na Kiusiu. Wyspa ucierpiała z powodu epidemii i kilku lat nieurodzaju. Rząd próbował uspokoić bogów, budując świątynie, co tylko pogorszyło warunki mieszkańców, którzy zostali siłą wcieleni do programów budowlanych. Hirotsugu wkrótce był w stanie zebrać armię i zaczął nawiązywać stosunki z królestwem Silla w Korei.\n\nCesarz Shomu odpowiedział na te działania, wysyłając armię do Kiusiu. Rebelia Hirotsugu rozpadła się, gdy kilku jego sojuszników opuściło go, a siły cesarskie wydały dekret obiecujący nagrodę za śmierć przywódcy rebeliantów. Hirotsugu poprowadził swoje pozostałe siły do bitwy w pobliżu rzeki Itabitsu, gdzie poniósł sromotną porażkę. Następnie Hirotsugu próbował uciec łodzią do Silla, ale burze zmusiły go do porzucenia podróży i ostatecznie został schwytany i ścięty."
 
-70510,"Central Anatolia, 1700 BCE\n\nFrom the northern plains, your people came to the land of Hatti, where the Sky Gods of your ancestors are unknown, and the Hattians worship the earth mother who birthed a bull. These strange people do not live by the hoof, but by the black dirt of the earth. They do not live under the sky, but in caves they build with their hands out of hardened mud and wood. They do not honor their chiefs with great earthen mounds, but wrap their bodies in reeds and lay them beneath the hearth, removing the skulls to paint upon. The Elders say that the Sky Gods desire the land of Hatti. Your people will be their instrument in this land.\n\nCele:\n• Convert enemy villagers to build a settlement.\n• Build an army and send it forward to eliminate all remaining Hattians and Hurrians."
-70511,"1. Move quickly to convert Hattian villagers to build a settlement.\n2. Learn to use your Priests correctly; they can be used to do two things, heal and convert, and you do have two of them to start.\n3. Build defenses at key chokepoints to weaken the Hurrians before advancing against them."
-70512,"You have pleased the gods and conquered a great land for your people. In honor of your victory, a tablet is prepared. It reads: Anitta, son of Pithana, King of Kussara, speak! Dear to the storm god, I, Anitta, the Great King, marched on the city of the Hattians and took it in the night by the blessing of my goddess. In its place, I sowed weeds and cursed the site that whosoever raises the city of the Hattians again may the storm god smite him!"
-70513,"You have been defeated by the Hattians and are unable to expand into their lands. Forced to live on the edges of civilization, your people despair. Now, your own warriors have selected leaders among themselves to depose you and your family. They will make sure you provide a new clean skull for the Hattians to decorate."
-70514,"Anatolia, in modern-day Turkey, was home to some of the earliest urban settlements, including the proto-city Ąatalhöyük, which flourished around 7000 BCE. Around 2500 BCE, the people known as the Hattians established their capital at Hattusa. The Hattians had trade relations with the Mesopotamian civilizations, and merchants from Assur in Assyria even established a trading post in the Hattic capital. These business dealings encouraged the Hattians to adopt the cuneiform writing script of their southern trade partners. The wealth of the region and the Hattic trade networks encouraged foreign invasions, but the Hattians were able to resist the armies of both the great Sargon of Akkad and his grandson, Naram-sin.\n\nThe Hittites emerge in the historical record around 2000 BCE. Their origins are disputed by historians, but they possessed a culture and language distinct from those of the previous peoples inhabiting Anatolia, including the Hattians. The Hittites quickly became the dominant power in the region. According to a set of Hittite tablets, known as the Anitta text (circa 1700 BCE), the Hittite king of a land called Kussara defeated the Hattian King Piyusti at Hattusa by storming the city at night. The Hittite king destroyed the city and cursed the site. Nevertheless, a later Hittite king would rebuild and repopulate the old Hattic capital, even taking the name Hattusili, meaning \"One from Hattusa.\""
+//Kampania Panowanie Hetytów
+
+70510,"Środkowa Anatolia, 1700 r. p.n.e.\n\nTwój lud przybył z północnych równin do krainy Hatti, gdzie niebiańscy bogowie twoich przodków są nieznani, a Hatti czczą matkę ziemię, która zrodziła byka. Ci dziwni ludzie nie żyją z hodowli, ale z uprawy ziemi. Nie żyją pod gołym niebem, ale w lepiankach, które zbudowali własnymi rękami z wysuszonego błota i drewna. Nie chowają swoich wodzów w dużych kopcach grobowych, ale owijając ich ciała w trzciny, umieszczają pod paleniskiem, usuwają im czaszki, by potem je malować. Starożytni twierdzą, że niebiańscy bogowie pragną ziem Hatti. Twoi ludzie będą ich narzędziami na tej ziemi.\n\nCele:\n• Nawracaj wrogich wieśniaków, by móc zbudować osadę.\n• Stwórz armię i wyślij ją, aby wyeliminowała wszystkich pozostałych Hattian i Hurrian."
+70511,"1. Jak najszybciej nawróć mieszkańców wioski Hattian, aby założyć osadę.\n2. Naucz się, jak prawidłowo korzystać z kapłanów: możesz ich użyć do leczenia i nawracania. Zaczynasz grę z dwoma kapłanami.\n3. Zbuduj obronę w kluczowych punktach (wąskie pasy lądu), aby łatwiej powstrzymać atak Hurrian."
+70512,"Zadowoliłeś bogów i zdobyłeś rozległe ziemie dla swojego ludu. Na cześć zwycięstwa przygotowano pamiątkową tablicę. Wyryto na niej tekst: Anitta, synu Pithany, króla Kussary, zawołaj! Wierny Bogu Burzy, ja, wielki król Anitta, pomaszerowałem na miasto Hattian i zdobyłem je nocą z błogosławieństwem mojego Boga. Zasiałem w nim chwasty i przekląłem je, aby każdy, kto odbuduje miasto Hattian, został trafiony piorunem Boga Burzy!"
+70513,"Zostałeś pokonany przez Hattian i nie jesteś w stanie osiedlić się na ich ziemiach. Zmuszeni do życia na skraju cywilizacji, twoi ludzie tracą nadzieję. Twoi wojownicy wybrali już nowego wodza, który obali ciebie i twoją rodzinę. Upewnią się, że twa czaszka jest nienaruszona i przekażą ją Hattianom do malowania."
+70514,"Anatolia, region dzisiejszej Turcji, była domem dla jednych z najstarszych osad miejskich na świecie, w tym protomiasta Catalhoyuk, które rozkwitło około 7000 r. p.n.e.. Około 2500 r. p.n.e. lud znany jako Hattianie założył swoją stolicę w Hattusa. Hattianie utrzymywali stosunki handlowe z cywilizacjami Mezopotamii, a kupcy z Aszur w Asyrii założyli nawet punkt handlowy w ich stolicy. Te kontakty handlowe zachęciły Hattian do przyjęcia pisma klinowego swoich południowych partnerów handlowych. Bogactwo regionu i sieci handlowe Hattian zachęciły inne narody do inwazji, ale Hattianie zdołali oprzeć się armiom wielkiego Sargona z Akadu i jego wnuka, Naram-Sina.\n\nHetyci pojawili się w zapisach historycznych około 2000 r. p.n.e.. Ich pochodzenie pozostaje niejasne dla historyków, są też tacu, którzy kwestionują ich istnienie, ale posiadali oni kulturę i język odmienny od ludów, które żyły w Anatolii przed nimi, w tym Hattianie. Hetyci szybko stali się wiodącą potęgą w regionie. Zgodnie z zestawem hetyckich tabliczek, znanym jako \"tekst Anitty\" (około 1700 r. p.n.e.), hetycki król krainy zwanej Kussara pokonał hetyckiego króla Piyusti w Hattusa, szturmując miasto nocą. Król Hetytów zniszczył miasto i przeklął jego ruiny. Nie przeszkodziło to późniejszemu hetyckiemu królowi w odbudowie i ponownym zaludnieniu starożytnej stolicy Hattusa, a nawet przyjęciu imienia Hattusili, co oznacza \"człowiek z Hattusy\"."
 
 70520,"Babylon, 1595 BCE\n\nThe stelae erected in Hattusa, and along the goat paths in the far reaches of your domains, tell of the exploits of your grandfather Hattusili. It was he who united the clans of your people. It was he who first among kings reached the seas. It was he who subdued the lands of Alalakh and dethroned the many kings of Arzawa. Who are you to Hattusili?\n\nTarhunna, storm god, is displeased with your reign. Dark clouds come from the west and the sun's warmth no longer falls upon the land. Your people grow hungry and the warriors are restless. You must lead them south to raid where no Hittite king has ever stood. Be worthy of your grandfather so that stelae may one day tell of the conquests of Mursili, King of Hattusa.\n\nCele:\n• Capture the Babylonian War Chest and return it to your camp."
 70521,"1. The Gutians have captured some Hattian villagers. Recover them to build a base.\n2. There are multiple ways to reach Babylon: the direct route through the Yamhad kingdom or across the river through Gutian lands.\n3. The Kassites will aid you with Jeździec, if you can find them."
@@ -5009,7 +5011,7 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 71371,"Armia perska"
 
 71400,"Babilończycy"
-71401,"Sumerians"
+71401,"Sumerowie"
 71402,"Akadyjczycy"
 71403,"Ebla Raiders"
 71404,"Mari Raiders"
@@ -5027,26 +5029,26 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 
 71450,"Xu Fu"
 71451,"Plemiona Jomon"
-71452,"Yamato"//
+71452,"Yamato"
 71453,"Shikoku"
-71454,"Queen Himiko"
-71455,"Izumo"//
+71454,"Królowa Himiko"
+71455,"Izumo"
 71456,"Villages"
-71457,"Homutawake"//
+71457,"Homutawake"
 71458,"Kibi"//
-71459,"Prince Shotoku"
+71459,"Książę Shotoku"
 71460,"Mononobe"
-71461,"Prince Naka no Oe"
-71462,"Soga"//
-71463,"Fujiwara"//
-71464,"Prince Oama"
+71461,"Książę Naka no Oe"
+71462,"Soga"
+71463,"Fujiwara"
+71464,"Książę Oama"
 71465,"Emperor Kobun"
 71466,"Asuka"//
 71467,"Emperor Shomu"
 
-71500,"Hittites"
-71501,"Hurrians"
-71502,"Hattians"
+71500,"Hetyci"
+71501,"Hurrianie"
+71502,"Hattianie"
 71503,"Babylon"
 71504,"Yamhad"
 71505,"Gutians"

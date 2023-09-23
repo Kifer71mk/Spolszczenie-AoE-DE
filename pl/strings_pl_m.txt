@@ -4824,11 +4824,13 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 70483,"Pomimo porażki, Fujiwara byli bardzo pobłażliwi. Wygnali cię, ale pozwolili ci rządzić twoim nowym domem... na najbardziej wysuniętym na północ krańcu Japonii. Ubierz się ciepło."
 70484,"Fujiwara pojawili się po raz pierwszy, gdy Nakatomi no Kamatari otrzymał nazwę klanu za pomoc cesarzowi Tenji podczas incydentu Isshi, który zakończył panowanie Soga. Podczas panowania cesarza Tenji i jego następców, potęga klanu Fujiwara wzrosła i wżenili się oni w rodzinę cesarską, tak jak zrobili to wcześniej Soga. Do 730 roku członkowie klanu Fujiwara zmonopolizowali władzę w Radzie Państwa, zajmując cztery z dziesięciu miejsc. Jednak w 735 roku straszliwa epidemia przetoczyła się przez Japonię, zabijając czołowych urzędników Fujiwara. To niepowodzenie pozwoliło innym klanom zyskać na znaczeniu. Klany te wkrótce wyparły Fujiwarę i dopilnowały, by ich urzędnicy zostali zdegradowani i przeniesieni do odległych miejsc.\n\nFujiwara no Hirotsugu był jednym z tych urzędników. Fujiwara no Hirotsugu był jednym z takich urzędników. W 738 roku został zdegradowany z gubernatora prowincji Yamato na odległe stanowisko w Dazaifu na Kiusiu. We wrześniu 740 roku Hirotsugu rozpoczął bunt, domagając się zwolnienia skorumpowanych urzędników, których obwiniał za upadek swego klanu.\n\nHirotsugu znalazł wielu zwolenników na Kiusiu. Wyspa ucierpiała z powodu epidemii i kilku lat nieurodzaju. Rząd próbował uspokoić bogów, budując świątynie, co tylko pogorszyło warunki mieszkańców, którzy zostali siłą wcieleni do programów budowlanych. Hirotsugu wkrótce był w stanie zebrać armię i zaczął nawiązywać stosunki z królestwem Silla w Korei.\n\nCesarz Shomu odpowiedział na te działania, wysyłając armię do Kiusiu. Rebelia Hirotsugu rozpadła się, gdy kilku jego sojuszników opuściło go, a siły cesarskie wydały dekret obiecujący nagrodę za śmierć przywódcy rebeliantów. Hirotsugu poprowadził swoje pozostałe siły do bitwy w pobliżu rzeki Itabitsu, gdzie poniósł sromotną porażkę. Następnie Hirotsugu próbował uciec łodzią do Silla, ale burze zmusiły go do porzucenia podróży i ostatecznie został schwytany i ścięty."
 
-70510,"Centralna Anatolia, 1700 pne\n\nZ północnych równin twój lud przybył do krainy Hatti, gdzie bogowie nieba twoich przodków są nieznani, a Hattianie czczą matkę ziemię, która urodziła byka. Ci dziwni ludzie nie żyją kopytami, ale czarnymi ziemiami, nie żyją pod niebem, ale w jaskiniach budują rękami z utwardzonego błota i drewna, nie czczą swoich wodzów wielkimi kopcami ziemnymi, ale owiń ich ciała trzciną i połóż je pod paleniskiem, usuwając czaszki do malowania. Starsi mówią, że Bogowie Nieba pragną krainy Hatti. Twoi ludzie będą ich narzędziem w tej krainie.\n\nCele:\n • Przekształć wrogich wieśniaków, aby zbudowali osadę.\n• Zbuduj armię i wyślij ją do przodu, aby wyeliminować wszystkich pozostałych Hattian i Hurrian."
-70511,"1. Poruszaj się szybko, aby nawrócić wieśniaków Hattian i zbudować osadę.\n2. Naucz się prawidłowo używać swoich Kapłanów; mogą być wykorzystywani do robienia dwóch rzeczy: leczenia i konwersji, a na początek masz dwie z nich.\ n3 Zbuduj obronę w kluczowych przewężeniach, aby osłabić Huryjczyków, zanim zaatakują ich.
-70512,"Zadowoliłeś bogów i podbiłeś dla swojego ludu wielką ziemię. Na cześć twego zwycięstwa przygotowana jest tablica. Jest na niej napisana: Anitta, syn Pithany, król Kussary, mów! Drogi bogu burzy, ja , Anitta, Wielki Król, wkroczył na miasto Hattian i zdobył je w nocy dzięki błogosławieństwu mojej bogini.Na jego miejsce zasiałem chwasty i przekląłem miejsce, aby ktokolwiek ponownie wzniósł miasto Hattian, niech burza Bóg go uderz!
-70513 "Zostałeś pokonany przez Hattian i nie jesteś w stanie rozszerzyć się na ich ziemie. Zmuszeni do życia na obrzeżach cywilizacji, twoi ludzie rozpaczają. Teraz twoi wojownicy wybrali spośród siebie liderów, aby obalić ciebie i twoją rodzinę. upewni się, że dostarczysz Hattianom nową, czystą czaszkę do dekoracji.
-ale posiadali kulturę i język odmienny od poprzednich ludów zamieszkujących Anatolię, w tym Hattian. Hetyci szybko stali się dominującą siłą w regionie. Według zbioru tablic hetyckich, znanych jako tekst Anitty (około 1700 p.n.e.), hetycki król krainy zwanej Kussara pokonał króla Hattian Piyusti pod Hattusą, szturmując miasto nocą. Król hetycki zniszczył miasto i przeklął to miejsce. Niemniej jednak późniejszy król hetycki odbudował i ponownie zaludnił starą stolicę Hattic, nawet przyjmując imię Hattusili, co oznacza "Jeden z Hattusy". znany jako tekst Anitty (około 1700 pne), hetycki król krainy zwanej Kussara pokonał króla Hattian Piyusti pod Hattusą, szturmując miasto nocą. Król hetycki zniszczył miasto i przeklął to miejsce. Niemniej jednak późniejszy król hetycki odbudował i ponownie zaludnił starą stolicę Hattic, nawet przybierając imię Hattusili, co oznacza "Jeden z Hattusy". znany jako tekst Anitty (około 1700 pne), hetycki król krainy zwanej Kussara pokonał króla Hattian Piyusti pod Hattusą, szturmując miasto nocą. Król hetycki zniszczył miasto i przeklął to miejsce. Niemniej jednak późniejszy król hetycki odbudował i ponownie zaludnił starą stolicę Hattic, nawet przybierając imię Hattusili, co oznacza "Jeden z Hattusy".
+//The Hittite Reign campaign
+
+70510,"Środkowa Anatolia, 1700 r. p.n.e.\n\nTwój lud przybył z północnych równin do krainy Hatti, gdzie niebiańscy bogowie twoich przodków są nieznani, a Hatti czczą matkę ziemię, która zrodziła byka. Ci dziwni ludzie nie żyją z hodowli, ale z uprawy ziemi. Nie żyją pod gołym niebem, ale w lepiankach, które zbudowali własnymi rękami z wysuszonego błota i drewna. Nie chowają swoich wodzów w dużych kopcach grobowych, ale owijając ich ciała w trzciny, umieszczają pod paleniskiem, usuwają im czaszki, by potem je malować. Starożytni twierdzą, że niebiańscy bogowie pragną ziem Hatti. Twoi ludzie będą ich narzędziami na tej ziemi.\n\nCele:\n• Nawracaj wrogich wieśniaków, by móc zbudować osadę.\n• Stwórz armię i wyślij ją, aby wyeliminowała wszystkich pozostałych Hattian i Hurrian."
+70511,"1. Jak najszybciej nawróć mieszkańców wioski Hattian, aby założyć osadę.\n2. Naucz się, jak prawidłowo korzystać z kapłanów: możesz ich użyć do leczenia i nawracania. Zaczynasz grę z dwoma kapłanami.\n3. Zbuduj obronę w kluczowych punktach (wąskie pasy lądu), aby łatwiej powstrzymać atak Hurrian."
+70512,"Zadowoliłeś bogów i zdobyłeś rozległe ziemie dla swojego ludu. Na cześć zwycięstwa przygotowano pamiątkową tablicę. Wyryto na niej tekst: Anitta, synu Pithany, króla Kussary, zawołaj! Wierny Bogu Burzy, ja, wielki król Anitta, pomaszerowałem na miasto Hattian i zdobyłem je nocą z błogosławieństwem mojego Boga. Zasiałem w nim chwasty i przekląłem je, aby każdy, kto odbuduje miasto Hattian, został trafiony piorunem Boga Burzy!"
+70513,"Zostałeś pokonany przez Hattian i nie jesteś w stanie osiedlić się na ich ziemiach. Zmuszeni do życia na skraju cywilizacji, twoi ludzie tracą nadzieję. Twoi wojownicy wybrali już nowego wodza, który obali ciebie i twoją rodzinę. Upewnią się, że twa czaszka jest nienaruszona i przekażą ją Hattianom do malowania."
+70514,"Anatolia, region dzisiejszej Turcji, była domem dla jednych z najstarszych osad miejskich na świecie, w tym protomiasta Catalhoyuk, które rozkwitło około 7000 r. p.n.e.. Około 2500 r. p.n.e. lud znany jako Hattianie założył swoją stolicę w Hattusa. Hattianie utrzymywali stosunki handlowe z cywilizacjami Mezopotamii, a kupcy z Aszur w Asyrii założyli nawet punkt handlowy w ich stolicy. Te kontakty handlowe zachęciły Hattian do przyjęcia pisma klinowego swoich południowych partnerów handlowych. Bogactwo regionu i sieci handlowe Hattian zachęciły inne narody do inwazji, ale Hattianie zdołali oprzeć się armiom wielkiego Sargona z Akadu i jego wnuka, Naram-Sina.\n\nHetyci pojawili się w zapisach historycznych około 2000 r. p.n.e.. Ich pochodzenie pozostaje niejasne dla historyków, są też tacu, którzy kwestionują ich istnienie, ale posiadali oni kulturę i język odmienny od ludów, które żyły w Anatolii przed nimi, w tym Hattianie. Hetyci szybko stali się wiodącą potęgą w regionie. Zgodnie z zestawem hetyckich tabliczek, znanym jako \"tekst Anitty\" (około 1700 r. p.n.e.), hetycki król krainy zwanej Kussara pokonał hetyckiego króla Piyusti w Hattusa, szturmując miasto nocą. Król Hetytów zniszczył miasto i przeklął jego ruiny. Nie przeszkodziło to późniejszemu hetyckiemu królowi w odbudowie i ponownym zaludnieniu starożytnej stolicy Hattusa, a nawet przyjęciu imienia Hattusili, co oznacza \"człowiek z Hattusy\"."
 
 70520,"Babilon, 1595 r. p.n.e.\n\nStele wzniesione w Hattusa i wzdłuż ścieżek kóz w najdalszych zakątkach twoich domen, opowiadają o wyczynach twojego dziadka Hattusili. To on zjednoczył klany twojego ludu. to on jako pierwszy wśród królów dotarł do mórz. To on podbił ziemie Alalakh i zdetronizował wielu królów Arzawy. Kim jesteś dla Hattusili?\n\nTarhunna, bóg burzy, jest niezadowolony z twoich rządów. Nadciągają ciemne chmury od zachodu, a ciepło słońca już nie pada na ziemię. Twoi ludzie głodują, a wojownicy są niespokojni. Musisz poprowadzić ich na południe, aby najechać tam, gdzie nigdy nie stał żaden hetycki król. Bądź godny swojego dziadka, aby stele mogły pewnego dnia opowiedz o podbojach Mursili, króla Hattusy.\n\nCele:\n• Zdobądź Babilońską Ługę Wojenną i zwróć ją do swojego obozu."
 70521,"1. Gutianie schwytali kilku wieśniaków Hattian. Odzyskaj ich, aby zbudować bazę.\n2. Istnieje wiele sposobów dotarcia do Babilonu: bezpośrednia droga przez królestwo Yamhad lub przez rzekę przez ziemie Gutian.\n3. Kasyci pomogą ci z kawalerią, jeśli możesz ich znaleźć.
@@ -5009,7 +5011,7 @@ lud Berberów, a czasem sojusznicy Kartaginy, do buntu. Uchodźcy ze splądrowan
 71371,"Armia perska"
 
 71400,"Babilończycy"
-71401,"Sumeryjczycy"
+71401,"Sumerowie"
 71402,"Akadyjczycy"
 71403,"Poszukiwacze Ebla"
 71404,"Mari najeźdźcy"
@@ -5028,7 +5030,7 @@ lud Berberów, a czasem sojusznicy Kartaginy, do buntu. Uchodźcy ze splądrowan
 71450,"Xu Fu"
 71451,"Plemiona Jomon"
 71452,"Yamato"
-71453,"Sikoku"
+71453,"Shikoku"
 71454,"Królowa Himiko"
 71455,"Izumo"
 71456,"Wioski"
@@ -5039,14 +5041,14 @@ lud Berberów, a czasem sojusznicy Kartaginy, do buntu. Uchodźcy ze splądrowan
 71461,"Książę Naka no Oe"
 71462,"Soga"
 71463,"Fujiwara"
-71464,"Książę Hama"
+71464,"Książę Oama"
 71465,"Cesarz Kobun"
 71466,"Asuka"
 71467,"Cesarz Shomu"
 
 71500,"Hetyci"
-71501,"Hurrian"
-71502,"Hattowie"
+71501,"Hurrianie"
+71502,"Hattianie"
 71503,"Babilon"
 71504,"Jamhad"
 71505,"Gutianie"
