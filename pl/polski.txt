@@ -1839,7 +1839,7 @@
 11215,"Poziom trudności"
 11216,"Bardzo trudny"
 11217,"Trudny"
-11218,"Umiarkowany"
+11218,"Średni"
 11219,"Standard"
 11220,"Łatwy"
 11221,"Przesuń w górę"
@@ -1885,7 +1885,7 @@
 11403,"D %d "
 11404,"K %d "
 12001,"Agresywny"
-12002,"Współczujący"
+12002,"Współczujący"//niepewny
 12003,"Obronny"
 12004,"Przyjazny"
 12005,"Pasywny"
@@ -4832,7 +4832,7 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 70513,"Zostałeś pokonany przez Hattian i nie jesteś w stanie osiedlić się na ich ziemiach. Zmuszeni do życia na skraju cywilizacji, twoi ludzie tracą nadzieję. Twoi wojownicy wybrali już nowego wodza, który obali ciebie i twoją rodzinę. Upewnią się, że twa czaszka jest nienaruszona i przekażą ją Hattianom do malowania."
 70514,"Anatolia, region dzisiejszej Turcji, była domem dla jednych z najstarszych osad miejskich na świecie, w tym protomiasta Catalhoyuk, które rozkwitło około 7000 r. p.n.e.. Około 2500 r. p.n.e. lud znany jako Hattianie założył swoją stolicę w Hattusa. Hattianie utrzymywali stosunki handlowe z cywilizacjami Mezopotamii, a kupcy z Aszur w Asyrii założyli nawet punkt handlowy w ich stolicy. Te kontakty handlowe zachęciły Hattian do przyjęcia pisma klinowego swoich południowych partnerów handlowych. Bogactwo regionu i sieci handlowe Hattian zachęciły inne narody do inwazji, ale Hattianie zdołali oprzeć się armiom wielkiego Sargona z Akadu i jego wnuka, Naram-Sina.\n\nHetyci pojawili się w zapisach historycznych około 2000 r. p.n.e.. Ich pochodzenie pozostaje niejasne dla historyków, są też tacu, którzy kwestionują ich istnienie, ale posiadali oni kulturę i język odmienny od ludów, które żyły w Anatolii przed nimi, w tym Hattianie. Hetyci szybko stali się wiodącą potęgą w regionie. Zgodnie z zestawem hetyckich tabliczek, znanym jako \"tekst Anitty\" (około 1700 r. p.n.e.), hetycki król krainy zwanej Kussara pokonał hetyckiego króla Piyusti w Hattusa, szturmując miasto nocą. Król Hetytów zniszczył miasto i przeklął jego ruiny. Nie przeszkodziło to późniejszemu hetyckiemu królowi w odbudowie i ponownym zaludnieniu starożytnej stolicy Hattusa, a nawet przyjęciu imienia Hattusili, co oznacza \"człowiek z Hattusy\"."
 
-70520,"Babylon, 1595 BCE\n\nThe stelae erected in Hattusa, and along the goat paths in the far reaches of your domains, tell of the exploits of your grandfather Hattusili. It was he who united the clans of your people. It was he who first among kings reached the seas. It was he who subdued the lands of Alalakh and dethroned the many kings of Arzawa. Who are you to Hattusili?\n\nTarhunna, storm god, is displeased with your reign. Dark clouds come from the west and the sun's warmth no longer falls upon the land. Your people grow hungry and the warriors are restless. You must lead them south to raid where no Hittite king has ever stood. Be worthy of your grandfather so that stelae may one day tell of the conquests of Mursili, King of Hattusa.\n\nCele:\n• Capture the Babylonian War Chest and return it to your camp."
+70520,"Babilon, 1595 r. p.n.e.\n\nStele wzniesione w Hattusie i wzdłuż pasterskich ścieżek, które wiją się na obrzeżach twoich domen, opowiadają o wyczynach twojego dziadka, Hattusili. To on zjednoczył klany twojego ludu. Był pierwszym królem, który dotarł do morza. To on podporządkował sobie ziemie Alalach i obalił wielu królów Arzawy. Kimże jesteś na tle dokonań Hattusili?\n\nTarhunna, bóg burz, nie jest zadowolony z twoich rządów. Ciemne chmury nadciągają z zachodu, a ciepło słońca nie kąpie już twojej ziemi. Twoi ludzie są głodni, twoi wojownicy rozgorączkowani. Musisz poprowadzić ich na południe i splądrować to, czego żaden inny król Hetytów nie odważył się tknąć. Bądź godny swego dziadka, aby pewnego dnia stele opowiadały o podbojach Mursiliego, króla Hattusy.\n\nCele:\n• Zdobądź babilońską skrzynię wojenną i zabierz ją do swojego obozu."
 70521,"1. The Gutians have captured some Hattian villagers. Recover them to build a base.\n2. There are multiple ways to reach Babylon: the direct route through the Yamhad kingdom or across the river through Gutian lands.\n3. The Kassites will aid you with Jeździec, if you can find them."
 70522,"The scribe tells of your victory: Mursili, King of Hattusa, anointed priest of the storm god Tarhunna, steward of the Sun God, overlord of the earth, marched on Babylon, on the road no king had ever taken, and defeated the lords of Babylon of number no less than fifty, and took captives numbering no less than two thousand. He carried off to Hattusa oxen, ingots of bronze and copper, and the god Marduk of Babylon. Of the oxen, he made sacrifices to the gods who were pleased with his devotions."
 70523,"The storm god is displeased with your failure. The old clan rivalries have returned, and Hattusa is in anarchy. Your reign will mark the end of your people's history, but you will be remembered. Your name will become the word for \"worthless.\""
