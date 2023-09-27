@@ -5051,8 +5051,8 @@ lud Berberów, a czasem sojusznicy Kartaginy, do buntu. Uchodźcy ze splądrowan
 71502,"Hattianie"
 71503,"Babilon"
 71504,"Jamhad"
-71505,"Gutianie"
-71506,"Oddział Re"
+71505,"Gutejowie"
+71506,"Dywizja Re"
 71507,"Ramzes"
 
 71550,"Rzym"
