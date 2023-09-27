@@ -4066,8 +4066,8 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62614,"Kampania Panowanie Hetytów została ukończona!"
 
 62615,"Powstanie Rzymu"
-62616,"Rzym. Sama nazwa przywołuje obrazy legionistów o stalowookich oczach i bogatych senatorów. Ale nie od razu Rzym zbudowano. Wróć do czasów, gdy Rzym był tylko skromnym miastem nad Tybrem. Podążaj za Rzymianami, gdy obalają ich etruskich panów, podbij Włochy i rozprzestrzenij się na całym Morzu Śródziemnym, by rzucić wyzwanie Kartaginie i Grecji. Dziel i rządź, konsulu.
-62617,"Rise of Rome Kompletna wiadomość!"
+62616,"Rzym. Sama nazwa przywołuje obrazy legionistów o stalowych oczach i bogatych senatorów. Ale Rzymu nie zbudowano w jeden dzień. Wybierz się w podróż do czasów, gdy Rzym był jedynie skromnym miastem nad Tybrem. Podążaj za Rzymianami i pomóż im obalić ich etruskich panów, najechać Italię i podbić cały basen Morza Śródziemnego w potyczkach z Kartaginą i Grecją. Dziel i zwyciężaj, konsulu."
+62617,"Kampania Powstanie Rzymu została ukończona!"
 
 62618,"Ave Cezar"
 62619 "Gajusz Juliusz Cezar nosił najwyższe cnoty Republiki Rzymskiej, ale jego ambicje spowodowały upadek Republiki. Maszeruj z tym piętrowym synem Rzymu z niewoli przez cylickich piratów do swojej wyprawy na krańce ziemi; podboju Galii do miażdżącego zwycięstwa nad rywalami. Dowiedz się, dlaczego cesarze rzymscy dumnie nosili jego imię przez wieki. Ave Caesar!

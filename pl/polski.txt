@@ -4065,9 +4065,9 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62613,"Pochodzący ze skromnych plemion koczowniczych wojowników Hetyci osiedlili się w Anatolii i zbudowali imperium na ruinach królestw Hatti i Mitanni. Doskonale zaadoptowali rydwan wojenny i udało im się nie tylko zniszczyć Babilon, ale także rywalizować z Egiptem pod względem gospodarczym i militarnym. Poprowadź Hetytów w ich najbardziej śmiałych najazdach i bitwach od zarania ich kultury do katastrofalnego starcia z Egipcjanami pod Kadesz, pierwszej wielkiej bitwy między wielkimi mocarstwami w historii ludzkości."
 62614,"Kampania Panowanie Hetytów została ukończona!"
 
-62615,"The Rise of Rome"
-62616,"Rome. The very name conjures images of steely-eyed legionaries and opulent senators. But Rome was not built in a day. Journey back to when Rome was nothing but a modest town on the Tiber River. Follow the Romans as they overthrow their Etruscan masters, conquer Italy, and expand throughout the Mediterranean to challenge Carthage and Greece. Divide and conquer, Consul."
-62617,"The Rise of Rome Complete message!"
+62615,"Powstanie Rzymu"
+62616,"Rzym. Sama nazwa przywołuje obrazy legionistów o stalowych oczach i bogatych senatorów. Ale Rzymu nie zbudowano w jeden dzień. Wybierz się w podróż do czasów, gdy Rzym był jedynie skromnym miastem nad Tybrem. Podążaj za Rzymianami i pomóż im obalić ich etruskich panów, najechać Italię i podbić cały basen Morza Śródziemnego w potyczkach z Kartaginą i Grecją. Dziel i zwyciężaj, konsulu."
+62617,"Kampania Powstanie Rzymu została ukończona!"
 
 62618,"Ave Caesar"
 62619,"Gaius Julius Caesar carried the highest virtues of the Roman Republic, but his ambitions would cause the Republic’s downfall. March with this storied son of Rome from his captivity by Cilician pirates to his expedition to the ends of the earth; and from his conquest of Gaul to his crushing victory over his rivals. Discover why Roman emperors would proudly bear his name for centuries. Ave Caesar!"
