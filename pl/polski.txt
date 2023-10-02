@@ -1451,7 +1451,7 @@
 9710,"Rozpocznij grę"
 9711,"IP"
 9712,"Limit populacji: %d"
-9713,"Eksploracja: %s"//Path Finding ???????
+9713,"Wyszukiwanie drogi: %s"
 9714,"Drzewo technologii"
 9715,"Typ gry"
 9716,"Nie masz tego scenariusza lub masz inną jego wersję."
@@ -1479,7 +1479,7 @@
 9738,"Dużo"
 9739,"Eksploracja"
 9740,"Wszystko widoczne"
-9741,"Eksploracja"//Path Finding ??????????
+9741,"Wyszukiwanie drogi"
 9742,"Domyślnie"
 9743,"Średnie"
 9744,"Wysokie"
@@ -1555,7 +1555,7 @@
 9855,"Wróg"
 9856,"Przekaż daninę (koszt %d%%)"
 9857,"Zwycięstwo w sojuszu"
-9858,"Potwierdź 2"
+9858,"Potwierdź"
 9859,"Wyczyść daniny"
 9860,"Wyjście"
 9861,"100 złota"
@@ -1635,15 +1635,15 @@
 10107,"Losowo"
 10211,"Komputer"
 10212,"Dowolnie"
-10231,"Egipcjanie"//Egyptian
-10232,"Grecy"//Greek
-10233,"Babilończycy"//Babylonian
-10234,"Asyryjczycy"//Assyrian
-10235,"Minojczycy"//Minoan
-10236,"Hetyci"//Hittite
-10237,"Fenicjanie"//Phoenician
-10238,"Sumerowie"//Sumerian
-10239,"Persowie"//Persian
+10231,"Egipcjanie"
+10232,"Grecy"
+10233,"Babilończycy"
+10234,"Asyryjczycy"
+10235,"Minojczycy"
+10236,"Hetyci"
+10237,"Fenicjanie"
+10238,"Sumerowie"
+10239,"Persowie"
 10240,"Shang"//
 10241,"Yamato"//
 10242,"Choson"//
@@ -3231,11 +3231,11 @@
 39551,"Eksploruje mapę."
 39552,"Zapewnia ograniczoną ilość żywności, którą może zebrać Wieśniak. Farmy po wyczerpaniu stworzonej żywności muszą być ponownie obsiane."
 39553,"Zbiera żywność z farmy."
-39557,"Można je łowić w celu zdobycia żywności 1."
-39558,"Można je łowić w celu zdobycia żywności 2."
-39559,"Można je łowić w celu zdobycia żywności 3."
+39557,"Można je łowić w celu zdobycia żywności."
+39558,"Można je łowić w celu zdobycia żywności."
+39559,"Można je łowić w celu zdobycia żywności."
 39560,"Można je łowić w celu zdobycia żywności."
-39561,"Można je łowić w celu zdobycia żywności 5."
+39561,"Można je łowić w celu zdobycia żywności."
 39562,"Zdobywa pożywienie łowiąc ryby."
 39563,"Sztandar przedstawiający barwy frakcji."
 39565,"Możliwość zdobywania pożywienia."
@@ -4844,11 +4844,13 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 70533,"Twoja żałosna armia została rozgromiona przez Egipcjan, a hordy ich żołnierzy przetaczają się teraz przez twoje miasta, mordując twoich poddanych do woli. Pod twoimi rozkazami twoi ludzie byli bezużyteczni, ale pomysłowi Egipcjanie znaleźli dla nich zastosowanie - ich zwłoki zostały przetransportowane na pola, gdzie zostaną wykorzystane jako najwyższej jakości nawóz."
 70534,"W XIII wieku p.n.e. Bliski Wschód stał się strefą konfliktu między trzema głównymi potęgami: Egipcjanami, Asyryjczykami i Hetytami. Każda z nich starała się kontrolować i wpływać na mniejsze semickie i heretyckie królestwa i miasta w północnej Mezopotamii, w Syrii, Libanie i Kanaanie. Te małe państwa na obrzeżach trzech głównych mocarstw zostały uwikłane w sieć efemerycznych sojuszy, zarówno między sobą, jak i z tymi wielkimi mocarstwami.\n\nJednym z nich było królestwo Amurru w Syrii. Amurru zostało podbite przez egipskiego faraona Setiego I podczas jego kampanii w Kanaanie. Pewnego dnia jednak Amurru zdecydowało się przejść na stronę Hetytów. W 1274 r. p.n.e. faraon Ramzes II zdobył miasto pomimo protestów Hetytów, co jeszcze bardziej zaostrzyło napięcia między dwoma wielkimi mocarstwami. Król Hetytów Muwatalli II zebrał swoich sojuszników do walki z Egipcjanami. Planował spotkać się z armią Ramzesa w mieście Kadesz, ważnym centrum handlowym kontrolowanym przez Hetytów.\n\nWedług egipskich relacji, Ramzes, chcąc jak najszybciej zaatakować wroga, poprowadził swoją dywizję naprzód, pozostawiając resztę armii w tyle. Schwytał dwóch nomadów Szasu, którzy przekonali go, że armia Hetytów jest wciąż daleko od Kadesz, co skłoniło faraona do opuszczenia gardy. Siły Muwatalli w rzeczywistości znajdowały się w pobliżu i przekroczyły rzekę Orontes, by zasadzić się na faraona i jego uszczuplone oddziały.\n\nHetyci mieli przewagę w pierwszej otwartej bitwie z egipską dywizją Re (każda jednostka armii Ramzesa nosiła imię boga), którą ostatecznie rozgromili. Sam faraon został otoczony w bitwie i według jego relacji przeżył tylko dlatego, że zdał sobie sprawę, że \"łaska Amona jest mu o wiele droższa niż milion żołnierzy i dziesięć tysięcy rydwanów\". Faraon osobiście poprowadził kilka szarż na szeregi Hetytów wraz ze swoją osobistą strażą.\n\nW międzyczasie Hetyci, myśląc, że pokonali swoich wrogów, zatrzymali się, aby splądrować egipski obóz. Okazało się to katastrofalne dla Hetytów, którzy zginęli w egipskim kontrataku przeprowadzonym przez dywizję Ptaha, która przybyła w samą porę, aby zapobiec całkowitej porażce. Gdy armia Hetytów uciekała przez rzekę, duże, ciężkie rydwany Hetytów, które przewoziły trzech ludzi, zostały wyprzedzone i zniszczone przez lżejsze, szybsze rydwany egipskie. Pomimo tej ucieczki Muwatalli postanowił nie angażować swoich rezerw w bitwę i pozostawił je w garnizonie w mieście Kadesz.\n\nHistorycy nie są jednomyślni co do wyniku tej bitwy. Zapisy i relacje z obu cywilizacji mówią o zdecydowanym zwycięstwie. Miasto Kadesz pozostało jednak pod kontrolą Hetytów, podczas gdy Ramzes wycofał się do Egiptu. Egipski faraon powrócił do Kanaanu w kolejnych latach i walczył Hetytami, ale żadna z potęg nie odniosła decydującego zwycięstwa. Szesnaście lat po konfrontacji w Kadesz oba królestwa podpisały porozumienie pokojowe, które stało się znane jako \"Wieczny Traktat\". Warto zauważyć, że jest to jedyny starożytny traktat bliskowschodni, którego wersja każdej ze stron przetrwała upływ czasu. Wersja hetycka traktatu (zapisana na glinianych tabliczkach w języku akadyjskim) i wersja egipska (wyryta w kamieniu w hieroglifach), odkryte w odstępie prawie stu lat przez archeologów, służą jako źródło inspiracji dla współczesnych narodów."
 
-70710,"Central Italy, 509 to 290 BCE\n\nLucius Tarquinius, the last King of Rome, has been deposed! The new Roman Republic, under the leadership of the Senate, has many enemies. The nearby Etruscan kings envy Rome's key position on the hills overlooking the Tiber River. They seek to dominate Rome as they did during the age of our forefathers. The various tribes of Italy—Samnites, Umbrians, Campanians, and others—also threaten the growing city-state. Rome will not be built in a day, but the defenses of the city must be.\n\nCele:\n• Build a Wieża wartownicza next to each flag."
-70711,"1. Concentrate on the mission at hand.\n2. Build more towers for a stronger defense.\n3. Remember to research the Wieża wartownicza technology."
-70712,"With Rome's borders secured, her legions march out against the Italian tribes. One by one, they fall to Rome's might. This success breeds fear and enmity among the Greek colonists of Southern Italy. There are rumors that they have called for help against Rome."
-70713,"The Republic of Rome enjoyed only a brief existence thanks to your inept leadership. Rome has become the butt of every joke from the Gates of Hercules to Persepolis. Once again, we pay tribute to the Etruscans. Report to the chariot stable for duty as a wheel rim."
-70714,"Although the Romans credited their city's founding to Romulus in 753 BCE, Latin villages existed on the seven hills beside the Tiber River as far back as the end of the 14th century BCE. The city was formed gradually through the joining of these villages into a city-state ruled by a king, and sometimes under the domination of the nearby, more sophisticated Etruscans.\n\nCentral Italy in this period was inhabited by a diverse collection of peoples. The mysterious Etruscans, whose origins are lost in prehistory and who spoke a language unlike the others in Italy, were the preeminent pre-Roman Italian power. Culturally, the Etruscans were influenced by Greece and Phoenicia and were formed into a league of twelve cities for economic and religious cooperation. Various Italic peoples, including the Samnites, Umbrians, and Campanians, formed settlements, raided, and traded in Central Italy, while two sets of foreign invaders exerted influence in the north and south of the Italian peninsula. The Celtic Gauls entered Italy from the north and would even sack Rome in 390 BCE while Greek colonists established trade and farming settlements in Sicily and Southern Italy beginning in the 8th century BCE.\n\nIn 509 BCE, the Romans deposed King Lucius Tarquinius and established a Republic dominated by a patrician aristocracy. By the end of the 3rd century BCE, a series of successful wars against the Etruscans, Samnites, and the other Italian peoples culminated in Rome's domination of Central Italy from the Tyrrhenian to the Adriatic Seas."
+//Kampania Powstanie Rzymu
+
+70710,"Włochy Środkowe, 509-290 p.n.e.\n\nLucjusz Tarkwiniusz, ostatni król Rzymu, został obalony! Nowa Republika Rzymska, kierowana przez Senat, miała wielu wrogów. Etruscy królowie zazdrościli silnej pozycji Rzymu na wzgórzach nad Tybrem. Chcą zdominować Rzym, jak za czasów naszych przodków. Samnici, Umbrowie i wiele innych plemion włoskich również zagrażało temu rozwijającemu się miastu-państwu. Rzymu nie da się zbudować z dnia na dzień, ale obronę miasta już tak.\n\nCele:\n• Zbuduj Wieże wartownicze we wszystkich miejscach oznaczonych flagami."
+70711,"1. Skoncentruj się na swojej misji.\n2. Zbuduj jak najwięcej wież, aby lepiej się bronić.\n3. Nie zapomnij odkryć technologii wieży wartowniczej."
+70712,"Po zabezpieczeniu granic Rzymu, jego legiony wyruszyły, by pozbyć się plemion włoskich z kraju. Plemiona jedno po drugim padają pod naporem Rzymu. Sukces ten zaszczepił strach i wrogość w sercach greckich kolonistów w południowych Włoszech. Plotka głosi, że poprosili oni o pomoc z zagranicy, aby zmierzyć się z Rzymem."
+70713,"Z powodu twojej nieudolności Republika Rzymska istniała krótko. Rzym jest pośmiewiskiem, od Słupów Heraklesa po Persepolis. Po raz kolejny oddajesz hołd Etruskom. Zamelduj się w stajni, aby podjąć obowiązki stajennego."
+70714,"Chociaż Rzymianie przypisują założenie miasta Romulusowi w 753 r. p.n.e., łacińskie wioski istniały na siedmiu wzgórzach nad brzegiem Tybru już pod koniec XIV wieku p.n.e.. Stopniowo wioski te zjednoczyły się w miasto-państwo rządzone przez króla i czasami zdominowane przez Etrusków, ich bardziej zaawansowanych sąsiadów.\n\nW tym czasie środkowe Włochy były domem dla wielu różnych ludów. Tajemniczy Etruskowie, których pochodzenie zaginęło w prehistorii i którzy posługiwali się językiem niepodobnym do innych we Włoszech, byli pierwszą przedrzymską włoską potęgą. Pod względem kulturowym Etruskowie byli pod wpływem Grecji i Fenicji i utworzyli ligę dwunastu miast, które współpracowały ze sobą gospodarczo i religijnie. Różne ludy włoskie, takie jak Samnici, Umbrowie i Kampańczycy, tworzyły kolonie, plądrowały i handlowały w środkowych Włoszech, podczas gdy dwie grupy obcych najeźdźców wywierały wpływ na północ i południe Półwyspu Apenińskiego. Celtyccy Galowie wkroczyli do Włoch od północy, a nawet splądrowali Rzym w 390 r. p.n.e., podczas gdy greccy koloniści założyli kolonie handlowe i rolnicze na Sycylii i w południowych Włoszech począwszy od VIII wieku p.n.e..\n\nW 509 r. p.n.e. Rzymianie obalili króla Lucjusza Tarkwiniusza i utworzyli republikę zdominowaną przez patrycjuszowską arystokrację. Pod koniec III wieku p.n.e. seria udanych wojen z Etruskami, Samnitami i innymi ludami włoskimi doprowadziła do rzymskiej dominacji w środkowych Włoszech, od Morza Tyrreńskiego po Adriatyk."
 
 70720,"Southern Italy, 280 to 272 BCE\n\nRoman conquests of the tribes of Central Italy have bred fear among the Greek colonists to the south. To their rescue comes a Macedonian, King Pyrrhus of Epirus, who lands in Italy with a mighty army including war elephants captured in the East. If Rome were to lose to the ambitious Pyrrhus, her southern expansion would be halted. If Pyrrhus can be defeated, however, Rome's victory would awaken the world to her growing power. The Senate is sending you, Consul, to meet these Greeks in battle and show them that their fears are well-deserved. For the first time, foreign men will know the fearsome might of Rome!\n\nCele:\n• Destroy the Macedonians without losing your two Centrum miasta."
 70721,"1. The Army of Pyrrhus is more technologically advanced than you. A defensive approach to build up your forces is advised.\n2. You may need to expand northward to secure more gold resources.\n3. Pyrrhus' units move slowly. Attacking on two fronts could draw them in one direction, allowing you to concentrate your forces on a weaker front."
