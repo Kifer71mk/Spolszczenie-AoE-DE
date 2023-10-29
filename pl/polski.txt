@@ -1649,9 +1649,9 @@
 10242,"Choson"//
 10244,"Nieznany"
 10245,"Nazwa plemienia"
-10246,"Rzymianie"//Roman
-10247,"Kartagińczycy"//Carthaginian
-10248,"Macedończycy"//Macedonian
+10246,"Rzymianie"
+10247,"Kartagińczycy"
+10248,"Macedończycy"
 10249,"Palmyrczycy"//Palmyran
 10250,"Losowo"
 10251,"Żywność"
@@ -4093,7 +4093,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62700,"Narodziny Rzymu"
 62701,"Pyrrus z Epiru"
 62702,"Oblężenie Syrakuz"
-62703,"The Battle of the Metaurus"
+62703,"Bitwa pod Metauro"
 62704,"The Battle of Zama"
 62705,"Mithridates"
 62706,"Caesar's Revenge"
@@ -5133,6 +5133,6 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 71752,"Syracusans"
 71753,"Regulus"//
 71754,"Consul's Guard"
-
+//to co poniżej jest do poprawy						  
 72000,"Zbuduj swoją armię, atakuj wrogów i niszcz budynki, aby zdobyć punkty. Ścigaj się z komputerem, aby uzyskać jak najwyższy wynik!\n1.     Czas upłynie, gdy licznik Cudów w prawym górnym rogu osiągnie 0!\n2.     Twój kolor to niebieski. [ŻÓŁTY] jest twoim sprzymierzeńcem.\n3.     Zaczynasz z DUŻĄ ilością zasobów, więc możesz ciągle tworzyć jednostki. Ale uważaj na swój limit populacji!\n4.     Masz siły i budynki w różnych miejscach na mapie. Znajdź je, aby rozbudować swoją armię.\n5.     Zniszcz czerwony Cud, aby otrzymać dużą premię punktową!\n\nPoinformuj personel o swoim wyniku, gdy skończysz. Najwyższy wynik w Twojej grupie może otrzymać nagrodę!"
 72001,"Wyświetl swój profil Steam."

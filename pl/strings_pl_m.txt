@@ -4093,7 +4093,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62700,"Narodziny Rzymu"
 62701,"Pyrrus z Epiru"
 62702,"Oblężenie Syrakuz"
-62703,"Bitwa pod Metaurusem"
+62703,"Bitwa pod Metauro"
 62704,"Bitwa pod Zamą"
 62705,"Mitrydates"
 62706,"Zemsta Cezara"
@@ -5133,6 +5133,6 @@ lud Berberów, a czasem sojusznicy Kartaginy, do buntu. Uchodźcy ze splądrowan
 71752,"Syrakuzanie"
 71753,"Regulus"
 71754,"Gwardia Konsula"
-
+//xxxxxxxxxxxxxxxxxxxxxxxxxx						
 72000,"Zbuduj swoją armię, atakuj wrogów i niszcz budynki, aby zdobyć punkty. Ścigaj się z komputerem, aby uzyskać jak najwyższy wynik!\n1.     Czas upłynie, gdy licznik Cudów w prawym górnym rogu osiągnie 0!\n2.     Twój kolor to niebieski. [ŻÓŁTY] jest twoim sprzymierzeńcem.\n3.     Zaczynasz z DUŻĄ ilością zasobów, więc możesz ciągle tworzyć jednostki. Ale uważaj na swój limit populacji!\n4.     Masz siły i budynki w różnych miejscach na mapie. Znajdź je, aby rozbudować swoją armię.\n5.     Zniszcz czerwony Cud, aby otrzymać dużą premię punktową!\n\nPoinformuj personel o swoim wyniku, gdy skończysz. Najwyższy wynik w Twojej grupie może otrzymać nagrodę!"
 72001,"Wyświetl swój profil Steam."
