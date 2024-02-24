@@ -4105,7 +4105,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiçgniцá w dziedzinie matemat
 62712,"Okup w Ktezyfonie"
 62713,"Zenobia, królowa Palmyry"
 62714,"Nadejâcie Hunów"
-62715,"Crossing the Alps"
+62715,"Przejâcie przez Alpy"
 62716,"Third Macedonian War"
 62717,"The Revolt of Spartacus"
 62718,"Odaenathus, Lord of Palmyra"
@@ -4940,7 +4940,7 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostaîy wykonane przez zagi
 
 //Kampania Wrogowie Rzymu
 
-71110,"Alpy, 218 r. p.n.e.\n\nHannibal z Kartaginy, twój plan inwazji na Italiц przez Alpy jest przebiegîym, bîyskotliwymi bardzo ryzykownym posuniцciem. Górskie przeîцcze sç zamieszkane przez przeraêajçce plemiona celtyckie, a rzymskie garnizony broniç podnóêa gór. Jeâli jednak twój âmiaîy plan siц powiedzie, caîa Italia bцdzie u twoich stóp. Dokonaj niewyobraêalnego czynu, Hannibalu, przekrocz góry ze swoimi sîoniami, a historia zapamiцta ciц jako najwiцkszego generaîa w historii!\n\n\n\nCele:\n• Doprowadè Hannibala i oba opancerzone sîonie do podwójnych flag w dolnym rogu mapy."
+71110,"Alpy, 218 r. p.n.e.\n\nHannibal z Kartaginy, twój plan inwazji na Italiц przez Alpy jest przebiegîym, bîyskotliwymi bardzo ryzykownym posuniцciem. Górskie przeîцcze sç zamieszkane przez przeraêajçce plemiona celtyckie, a rzymskie garnizony broniç podnóêa gór. Jeâli jednak twój âmiaîy plan siц powiedzie, caîa Italia bцdzie u twoich stóp. Dokonaj niewyobraêalnego czynu, Hannibalu, przekrocz góry ze swoimi sîoniami, a historia zapamiцta ciц jako najwiцkszego generaîa w historii!\n\nCele:\n• Doprowadè Hannibala i oba opancerzone sîonie do podwójnych flag w dolnym rogu mapy."
 71111,"1. Rzymianie dowiedzieli siц o twoim przybyciu. Dziaîaj szybko, zanim zdçêç przygotowaá obronц.\n2. Zwiadowcy oznaczyli przejâcia przez góry, ale zostali uwiцzieni. Jeâli uda ci siц ich uwolniá, bцdç dla ciebie bardzo przydatni.\n3. Uêyj punktów orientacyjnych, aby poprowadziá swoje oddziaîy przez wçskie doliny. Aby uêyá punktów orientacyjnych, kliknij jednostkц, przytrzymaj klawisz SHIFT i kliknij prawym przyciskiem myszy kaêdy punkt na trasie. Jednostka natychmiast zacznie podçêaá za punktami trasy, od pierwszego do ostatniego."
 71112,"Twoja przeprawa przez Alpy byîa majstersztykiem, który przejdzie do historii. Caîa Kartagina ciц oklaskiwaîa. Italia rozciçga siц przed tobç, twoja zemsta moêe wreszcie spaâá na Rzym!"
 71113,"Poraêka w Alpach skazaîa Kartaginц na zagîadц. Tylko udana inwazja na Italiц mogîa spowolniá rzymskie natarcie. Rzymskie legiony maszerujç teraz na Hispaniц i wkrótce dotrç do Kartaginy. Byliâcie szaleni, wierzçc, êe sîonie mogç przekroczyá Alpy, a waszç karç bцdzie powolne zadeptanie na âmierá przez jednego z waszych gruboskórnych."

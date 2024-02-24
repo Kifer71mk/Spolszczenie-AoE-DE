@@ -4105,7 +4105,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiągnięć w dziedzinie matemat
 62712,"Okup w Ktezyfonie"
 62713,"Zenobia, królowa Palmyry"
 62714,"Nadejście Hunów"
-62715,"Crossing the Alps"
+62715,"Przejście przez Alpy"
 62716,"Third Macedonian War"
 62717,"The Revolt of Spartacus"
 62718,"Odaenathus, Lord of Palmyra"
@@ -4940,7 +4940,7 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 
 //Kampania Wrogowie Rzymu
 
-71110,"Alpy, 218 r. p.n.e.\n\nHannibal z Kartaginy, twój plan inwazji na Italię przez Alpy jest przebiegłym, błyskotliwymi bardzo ryzykownym posunięciem. Górskie przełęcze są zamieszkane przez przerażające plemiona celtyckie, a rzymskie garnizony bronią podnóża gór. Jeśli jednak twój śmiały plan się powiedzie, cała Italia będzie u twoich stóp. Dokonaj niewyobrażalnego czynu, Hannibalu, przekrocz góry ze swoimi słoniami, a historia zapamięta cię jako największego generała w historii!\n\n\n\nCele:\n• Doprowadź Hannibala i oba opancerzone słonie do podwójnych flag w dolnym rogu mapy."
+71110,"Alpy, 218 r. p.n.e.\n\nHannibal z Kartaginy, twój plan inwazji na Italię przez Alpy jest przebiegłym, błyskotliwymi bardzo ryzykownym posunięciem. Górskie przełęcze są zamieszkane przez przerażające plemiona celtyckie, a rzymskie garnizony bronią podnóża gór. Jeśli jednak twój śmiały plan się powiedzie, cała Italia będzie u twoich stóp. Dokonaj niewyobrażalnego czynu, Hannibalu, przekrocz góry ze swoimi słoniami, a historia zapamięta cię jako największego generała w historii!\n\nCele:\n• Doprowadź Hannibala i oba opancerzone słonie do podwójnych flag w dolnym rogu mapy."
 71111,"1. Rzymianie dowiedzieli się o twoim przybyciu. Działaj szybko, zanim zdążą przygotować obronę.\n2. Zwiadowcy oznaczyli przejścia przez góry, ale zostali uwięzieni. Jeśli uda ci się ich uwolnić, będą dla ciebie bardzo przydatni.\n3. Użyj punktów orientacyjnych, aby poprowadzić swoje oddziały przez wąskie doliny. Aby użyć punktów orientacyjnych, kliknij jednostkę, przytrzymaj klawisz SHIFT i kliknij prawym przyciskiem myszy każdy punkt na trasie. Jednostka natychmiast zacznie podążać za punktami trasy, od pierwszego do ostatniego."
 71112,"Twoja przeprawa przez Alpy była majstersztykiem, który przejdzie do historii. Cała Kartagina cię oklaskiwała. Italia rozciąga się przed tobą, twoja zemsta może wreszcie spaść na Rzym!"
 71113,"Porażka w Alpach skazała Kartaginę na zagładę. Tylko udana inwazja na Italię mogła spowolnić rzymskie natarcie. Rzymskie legiony maszerują teraz na Hispanię i wkrótce dotrą do Kartaginy. Byliście szaleni, wierząc, że słonie mogą przekroczyć Alpy, a waszą karą będzie powolne zadeptanie na śmierć przez jednego z waszych gruboskórnych."
