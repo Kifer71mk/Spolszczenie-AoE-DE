@@ -4111,7 +4111,7 @@ Genialny grecki naukowiec i wynalazca. Znany z osiçgniцá w dziedzinie matemat
 62718,"Odenathus, Wîadca Palmyry"
 62719,"Bitwa pod Akragas"
 62720,"Bitwa pod Mylae"
-62721,"The Battle of Tunis"
+62721,"Bitwa o Tunis"
 62722,"Polowanie - êywnoâá"
 62723,"Zbieractwo - êywnoâá"
 62724,"Znaleziska"
