@@ -5069,7 +5069,7 @@ Artefakty to przedmioty podobne do Arki Przymierza; zostały wykonane przez zagi
 71552,"Samnici"
 71553,"Kampanie"
 71554,"Etruskowie"
-71555,"Wellanie"
+71555,"Wellanie"//tłumaczenie do sprawdzenia, brak zweryfikowanych danych na temat tej nacji. Nawet gpt4 nie pomaga.
 71556,"Galowie"
 71557,"Rzymianie"
 71558,"Armia Pyrrusa"
